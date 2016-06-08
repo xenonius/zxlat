@@ -1,0 +1,1498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aa",
+				"ApplicationController"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"line",
+				"lines_ctr"
+			],
+			[
+				"li",
+				"lines_ctr"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"i",
+				"i_order"
+			],
+			[
+				"class",
+				"Classifier"
+			],
+			[
+				"h",
+				"hnlogger"
+			],
+			[
+				"clas",
+				"clas	clas"
+			],
+			[
+				"hand",
+				"hand_descript"
+			],
+			[
+				"I",
+				"include"
+			],
+			[
+				"ha",
+				"hand_distr"
+			],
+			[
+				"s",
+				"sendlog"
+			],
+			[
+				"se",
+				"set_bid"
+			],
+			[
+				"t",
+				"two_aces_suite"
+			],
+			[
+				"Fi",
+				"Firstbid"
+			],
+			[
+				"mod",
+				"mod	module .. module_function .. end"
+			],
+			[
+				"ca",
+				"card_count"
+			],
+			[
+				"i_",
+				"i_vals"
+			],
+			[
+				"ma",
+				"mhand"
+			],
+			[
+				"num",
+				"num_cards"
+			],
+			[
+				"get",
+				"get_hand_val1"
+			],
+			[
+				"he",
+				"hearts_num"
+			],
+			[
+				"spade",
+				"spades_num"
+			],
+			[
+				"mo",
+				"mod	module .. module_function .. end"
+			],
+			[
+				"su",
+				"suite_name"
+			],
+			[
+				"fin",
+				"final_msg"
+			],
+			[
+				"__",
+				"__FILE__"
+			],
+			[
+				"My",
+				"mylogger"
+			],
+			[
+				"p",
+				"puts"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"ge",
+				"get_hand_val1"
+			],
+			[
+				"q",
+				"quit"
+			],
+			[
+				"val",
+				"hand_val1"
+			],
+			[
+				"i_s",
+				"i_spades_order"
+			],
+			[
+				"co",
+				"courses"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"ana",
+				"analyze_file"
+			],
+			[
+				"v",
+				"variables"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"ln",
+				"lname"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"so",
+				"sort"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"cur",
+				"cur_state"
+			],
+			[
+				"rand",
+				"rand()"
+			],
+			[
+				"arra",
+				"array()"
+			],
+			[
+				"in",
+				"indata"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Text-1-HN.txt",
+			"settings":
+			{
+				"buffer_size": 1413,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WORK/Zoho/ZOHO_site_translation/translations/ref/Source/2016-05-08-Eng-ref-UTF-8.txt",
+			"settings":
+			{
+				"buffer_size": 290983,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Calibre/CD Index/Robert Kiyosaki - Choose To Be Ric (10777)/Robert Kiyosaki - Choose To Be - CD Index.txt",
+			"settings":
+			{
+				"buffer_size": 5285,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "crm.adword.webform.existform3 = רתסומה הדשה תא לולכ  &lrm;&lt;input type='hidden' name='zc_gad' id='zc_gad' value=' '/&gt;&lrm;  תיוות ךותב form.\ncrm.adword.webform.existform4 = \"טפירקסה תא לולכ  &lrm;&lt;script src=\"\"https://crm.zoho.com/crm/javascript/zcga.js\"\"/&gt;&lrm;  תיוות ךותב body. \"\n",
+			"file": "/H/Users/Haim1/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/RG1EM1KE/lines 822-823.txt",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "crm.adword.performance.keywords = יעוציב סוטאטס Keywords\ncrm.adword.pleaseselectcamp = הו ןייפמקל חתפמ תולימ ואצמנ אל-Ad Group ורחבנש\ncrm.adword.potentialdetails = EFES CRM EHAD םיטרפ \ncrm.adword.potentialwon = EFES תונוחצנ \ncrm.adword.pushtogoogle = ץחל<br/> ל רבעמל-Google\ncrm.adword.regeneratehtml = HTML שדחמ רוצ\ncrm.adword.roi = העקשהה לע רזחהל \ncrm.adword.selectcriteria = ו ןייפמק רחב המישרה תגצהל- AdGroup\ncrm.adword.setup.heading = תונובשחב רחב Google AdWords  רתאל ךנוצרבש EFES ב CRM. \ncrm.adword.setup.revisednotes1 = ה ןובשחב ורצווי ,הלעמל םיגצומש םימיאתמה הרמהה תומשGoogle AdWords ב תורמהה ןולח תא ךנוצרכ תונשל לכות .\"םוי 90\" לש לדחמ תרירב ןולח םע ךלשGoogle Adwords\ncrm.adword.setup.revisednotes2 = \"ב תורמהה ,תומשה ונושיו הדימב .הרמהה תומש תא תונשל ןיא offline ה ןובשחל ורבעוי אל Google AdWors ךלש.\ncrm.adword.setup.revisednotes3 = מ םייתוכיא םידיל  Zoho CRM לש תורמהו Zoho Sales ל הרזח ורבעוי Google AdWord ב רשקה תריצי/דילה ךיראתמ לחה (לדחמה תרירבכ םוי 90) תורמהה ןולח לש םימיה חווט ךותב ועצבתה תורמהה רשאכ קר Zoho CRM.\ncrm.adword.setup.revisednotes4 = ךמתנ וניא תונובשח ןיב תורמה רחא בקעמ.\ncrm.adword.spendingcost = תואצוה תולע\ncrm.adword.tabvisibility = היולג תויהל תינושלה לע םרובע םיליפורפה תא רחב\ncrm.adword.track = \"ב ךלש תואצוהה רחא בוקעGoogle מ ךלש תועקשהה ירזחהו <a href=\"\"/crm/ShowDetails.do?module=Google AdWords&quickcreate=true\"\" class=\"\"fbllink\"\">Google AdWords </a> \"\ncrm.adword.tracking = בקעמ \ncrm.adword.webform.desc = תייצרגטניא Google AdWords ב ךיתואצוה תודוא ףיקמה עדימה תא ךל תקפסמ Google ךלש תועקשהה ירזחהו\ncrm.adword.webform.existform = םימייק טנרטניא יספטל\ncrm.adword.webform.existform1 = \"רוצ - ךלש רתאב םיעמטומ רבכ םיספטו הדימב html ךלש רתאב בוש ותוא עמטהו שדחמ \"\ncrm.adword.webform.existform2 = םייקה ספוטל ןלהלש םיטפירקסה תא קבדהו קתעה\ncrm.adword.webform.existform3 = רתסומה הדשה תא לולכ &lrm;&lt;input type='hidden' name='zc_gad' id='zc_gad' value='/&gt;'&lrm; תיגת ךותב form. \ncrm.adword.webform.existform4 = \"טפירקסה תא לולכ &lrm;&lt;script src=\"\"https://crm.zoho.com/crm/javascript/zcga.js\"\"/&gt;&lrm; תיגת ךותב body. \"\ncrm.adword.webform.newform1 = \"רוצ <a href=\"\"https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html\"\" target=\"\"_blank\"\">שדח  ספוט</a>. לש היצפואה תא רשפאמ התאש אדוו ספוטה תריצי ןמזב Google Adwords.  \"\ncrm.adword.webform.newform2 = דוק רוצייש ,אבה בלשל ךשמה html וב םילולכ םישרדנה םיטפירקסה םע.\ncrm.adword.webform.newform3 = ה דוק תא עמטה html ה תא םסרפ .ךלש טנרטניאה רתאב URL ב ךלש תורדגהה דומעב Google's Ad.\ncrm.adword.webform.newform4 =  תינושלב ןונעיר רותפכ לע ץחל Google AdWords.\ncrm.adword.webform.newform5 = מ עדימה תא ריבעהל תעכ ןכומ ךלש טנרטניאה רתא Google Adwords ל EFES CRM.\ncrm.adword.webform.smalltext = \"ב ךלש םיספטל םורגל דציכ תעדל הצור EFES CRM יפדכ עיפוהל Google Adwords? הארתו אב.\"\ncrm.adword.webformpagetitle = רובע ספוט Google AdWords\ncrm.adword.webformpagetitle1 = ךלש רתאב ותוא עמטהו ןלהלש ספוטהמ רצונש דוקב שמתשה.\ncrm.adword.webformpagetitle2 = ה תא םסרפ URL ב ךלש רתאה לש Google AdWords דומעב Ad Group.\ncrm.adword.webformpagetitle3 = ה ספוט web לש עדימ ףורצב םידיל תרבעהל ןכומ ךלש רתאב Google AdWords ל EFES CRM. \ncrm.adword.webmaster.followtext = \"רחא בוקעל ידכב םיטושפה םידעצה הנה EFES ו EHAD לש עדימה ףוריצב Google Adwords ךירתאמ.\" \ncrm.adword.webmaster.instruction = תואבה תוארוהה רחא בוקע אנ\ncrm.adword.webmaster.insttowebmaster = ל תויחנה Web Master.\ncrm.adword.webmaster.integrated = תא ונבליש Google AdWords םע ZOHO CRM.\ncrm.adword.webmaster.track = רחא בוקעל ידכ EFES\\EHAD ךתרזעל קוקז ינא ,ונלש טנרטניאה ירתאמ םיעיגמה.\ncrm.adword.webtrack.tokeepmodule = רחא בוקעל ידכב םיטושפה םידעצה הנה EFES ו EHAD םע SHNAIM ךלש טנרטניאה ירתאמ עיגמה.\ncrm.adword.zohocrmleadcont =  CRM EFES  EHAD  /  SHNAIM  \ncrm.adword.zohocrmleadcontqual = EFES CRM EHAD הכמסה \ncrm.adword.zohocrmleadcontsales = EFES CRM תוריכמ\ncrm.adwords.auth.highlightsfour = יטמוטוא ןפואב אציי EFES תוריכמ לש תורמה ינותנ CRM ל- Google AdWords \ncrm.adwords.campbyindustry.dec = ידי לע ורצונש םידילה תא תוארל ידכ טרופמ ח\"וד Google AdWords תונוש תוישעתמ.\ncrm.adwords.closedpotbycamp.dec = מ םדי לע ורצויש תוסנכההו םירוגס םילאיצנטופ רואתל ח\"וד Google AdWords.\ncrm.adwords.conf.title = תונובשח רובע הרוצת תעיבק Google AdWords ךלש\ncrm.adwords.enableadword = Google AdWords \ncrm.adwords.leadbycountry.dec = מ םידיל רתוי הרצי ץרא וזיא תוארל ךתורשפאב- Google AdWords\ncrm.adwords.leadbydevice.dec =ידי לע ורצונש םידיל םיעיפומ המישרב Google AdWords םינוש םינקתה תועצמאב.\ncrm.adwords.mostsuccesscamp.dec =ב רתויב םיחלצומה םינייפמקה לע תונבות קפסמה ח\"וד Google Adwords םהב העקשהה לע רזחה לש םיחנומב.\ncrm.adwords.mostsuccesskey.dec = ןלהלש הלבטב םיעיפומ םתריציב הכורכה תולעהו םידיל רתוי ורציי רשא חתפמ תולימ\ncrm.adwords.potbycamp.dec = לש םינייפמקב םהמ תוסנכההו ,םילאיצנטופה לש םינושה םיבלשה תא הארי הז ח\"וד Google AdWorsd.\ncrm.adwords.salesmetric.dec = \"רובע ללוכה םייחה רוזחמו הריכמ רוגסל ,דיל רימהל ךרואש ןמזה ךשמל עגונב םיניינעמ םינותנ Google AdWorsd. \"\ncrm.adwords.webform.pushtext = \"דומעב ךלש ספוטה תא םקמל ידכ האבה היצפואה תא רשפא אנ Google AdWords ל עדימ ריבעהל ידכו EFES CRM. \"\ncrm.alert.approval.rejection.template = ינורטקלא ראוד תינבת רחב אנא \ncrm.alert.approval.select.module = לודומ רחב אנא \ncrm.alert.approver.group.alert = הנוש הצובק רחב אנא .וז הצובק תרחב רבכ. \ncrm.alert.approver.level.alert = הנוש המר רחב אנא .וז המרב תרחב רבכ. \ncrm.alert.approver.levels.alert = \"תורשפאב שמתשהל ןתינ אל \"\"Upto levels\"\" תחא םעפמ רתוי.\"\ncrm.alert.approver.user.alert = רחא שמתשמ רחב אנא .הז שמתשמ תרחב רבכ.\ncrm.alert.choose.approver = רחב אנא EFES\ncrm.alert.choose.approver.type =  רשאמה גוס תא רחב\ncrm.alert.choose.execution.type = ךילהתה תא עצבל ךנוצרב יתמ? \ncrm.alert.configure.one.rule = ללכ אלל ךילהת רומשל ןתינ אל. \ncrm.alert.content.cannot.access.record = ה EFES קחמנ רבכ תשגל הסנמ התא וילא.\ncrm.alert.enter.processes.name = ךילהתל םש ןיזהל אנ \ncrm.alert.favorite.reached.maxlimit = ה רסממ תגרחו רחאמ הגוצתה תא ףדעתל לכות אל ונרעצל EFES לודומל םיפדעומה.\ncrm.alert.field.delete.trash = הפשאל רבעוה הז הדש \ncrm.alert.field.delete.unused.fieldlabel = הדשה EFES החלצהב וז הסירפמ רסוה\ncrm.alert.field.update.cannot.empty = ןוכדעה הדש יכרע תא שדחמ רדגה אנ .התנתשה רשאמה תמר.\ncrm.alert.select.active.user = ליעפ שמתשמ רחב אנא \ncrm.alert.select.lookup.module = שופיחה לדומ תא רחב אנא \ncrm.alert.without.approver.not.field.update = םירשאמה תרדגה אלל תודש ןכדעל ןתינ אל\ncrm.api.allusers = םישמתשמה לכ \ncrm.api.calls.content = תואירק API םויה ועצוב םרט\ncrm.api.calls.made = תואירק API ועצובש\ncrm.api.count = הריפס \ncrm.api.dated = ךראות \ncrm.api.developer.api.limit.exceeds100 = EFES CRM API - םומיסקמה לובגל עיגה\ncrm.api.developer.api.limit.exceeds110 = EFES CRM API - םומיסקמה תלבגממ גרח \ncrm.api.developer.api.limit.exceeds110.subject = CRM EFES -  EHAD  API - םומיסקמ תלבגממ הגירח \ncrm.api.developer.api.limit.exceeds90 = EFES CRM API - ורתונ תודדוב תואירק\ncrm.api.developer.api.limit.exceeds90.subject = EFES CRM - EHAD API - ורתונ תודדוב תואירק\ncrm.api.drillDown = הטמ רקחת\ncrm.api.drillUp = הלעמ רקחת\ncrm.api.filterby = יפל ןנס \ncrm.api.help.content = \"ל ינורטקלא ראוד חלש אנ ,תופסונ תורהבה ךנוצרב םא &lrm;#SUPPORTMAILID&lrm;\" \ncrm.api.ipaddress = תבותכ IP \ncrm.api.limit100.content1 = \"קשממב שומישל התצקוהש הז םויל םומיסקמה תסכמ תא ךרצ ךנוגרא  <span style=\"\"#displayAll\"\"> תואירק </span><span style=\"\"#displayOther\"\"> תיצקנופ <b style=\"\"color: #666666;\"\">&lrm;#APINAME&lrm;</b></span>  \"\ncrm.api.limit100.content2 =  קשממה ךרד תפסונ האירק לכש בל םיש <span style=\"\"#displayOther\"\"> וז היצקנופ תועצמאב </span>  הז קשממב שומישה תדימ תא תוריהזב דומאתש רתויב בושח הז בלשב .דבאי עדימהו ,הנעית אל.\"\ncrm.api.limit90.content1 = ךרצ ךנוגראש העירתמ וז העדוה  <b style=\"\"color: #666666;\"\">90%</b> םויל קשממה תואירקמ <span style=\"\"#displayOther\"\"> וז היצקנופ רובע <b style=\"\"color: #666666;\"\">&lrm;#APINAME&lrm;</b>.</span> \"\" \ncrm.api.limit90.content2 = \"ה תואירק לכש בל םיש API  <span style=\"\"#displayOther;\"\"> וז היצקנופ תועצמאב </span> וב שומישהו הז קשממ לש הכירצה תדימ תא שארמ ךרעה אנ .דבאי עדימהו ונעיי אל םומיסקמה תסכמ תא תורבועש.\ncrm.api.limit90.reached = &lrm;#APINAME&lrm; API - 90% - ל עיגה\ncrm.api.method.name = היצקנופה םש\ncrm.api.searchUser = שמתשמ שפח\ncrm.api.subtitle = ב שומיש ינותנ API.\ncrm.api.total.content = ה לכ לש הריפס תגצומ :בל םיש APIs.\ncrm.api.users.match = םימיאתמ םישמתשמ ואצמנ אל\ncrm.api.users.title = םישמתשמ \ncrm.api.zohocrm.api.allApi.label = ה לכ APIs\ncrm.api.zohocrm.api.otherApi.label =&lrm;APIs&lrm; םיפסונ\ncrm.api.zohocrm.api.searchrecords.label = שופיח ינותנ \ncrm.approval.alert.reSubmitFailure = תירשפא הניא שדחמ החילש ןכלו ,קחמנ תיחדנ וז המושר ויפל ללכה.\ncrm.approval.alert.reSubmitSuccess = החלצהב שדחמ רושיאל החלשנ וז המושר\ncrm.approval.approved.audit.log = \"רשוא EFES םשב <a href=\"\"/crm/EntityInfo.do?module= EHAD &id= SHNAIM \"\" target=\"\"_blank\"\" class=\"\"pL0\"\"> SHALOSH </a> \"\ncrm.approval.body.for.action = תובוט תושדח! EFES  EHAD -ידי לע רשוא  SHNAIM . \ncrm.approval.body.for.delegate = &lrm;EFES&lrm; מ השקבה תא רשאתש שקבמ EHAD ה רובע SHNAIM SHALOSH.\ncrm.approval.delegate.audit.log = \"ה רובע רושיאה רבעוה EFES םשב <a href=\"\"/crm/EntityInfo.do?module=EHAD&id=SHNAIM\"\" target=\"\"_blank\"\" class=\"\"pL0\"\" > SHALOSH</a> to  ARBA \"\ncrm.approval.edit.only = דבלב הכירע \ncrm.approval.html.hello = \" םולש, &lrm;#NAME&lrm;\" \ncrm.approval.label.alert = השדח הארתה\ncrm.approval.label.alreadyApprovedRecord = ב ךדי לע הרשוא רבכ רבכ וז השקב EFES \ncrm.approval.label.alreadyDelegatedRecord = ל התצקוה רבכ וז השקב EFES  ב ךדי לע EHAD  \ncrm.approval.label.alreadyRejectedRecord = ב ךדי לע התחדנ רבכ וז השקב EFES\ncrm.approval.label.approvedOn =  ב רשוא\ncrm.approval.label.noHistoryAvailable = הנימז םירושיא תיירוטסה ןיא.\ncrm.approval.label.noIntendedToYou = ךל תדעוימ הניא וז השקב \ncrm.approval.label.rejectedOn =  ב החדנ\ncrm.approval.label.requester = שקבמ \ncrm.approval.last.activity.approval = ב רשוא EFES הז\ncrm.approval.last.activity.delegated = ל  התצקוה רושיאה תשקב EFES רובע EHAD הז \ncrm.approval.last.activity.rejected = רובע רושיאה החדנ EFES הז\ncrm.approval.last.activity.submitted = &lrm;EFES&lrm; רושיאל חלשנ הז\ncrm.approval.link.reSubmit = שדחמ חלש\ncrm.approval.not.available = רושיא ךילהת תרוצת ךל ןיא \ncrm.approval.not.available.for.module = לודומל רושיא ךילהת תרוצת ןיא EFES\ncrm.approval.not.available1 = ב ליעפהל רושיא ךילהת תרוצת  ךל ןיא EFES \ncrm.approval.not.available2 = סוטטסב רושיא ךילהת תרוצת ךל ןיא EFES\ncrm.approval.not.available3 = סוטטסב רושיא ךילהת תרוצת ךל ןיא EFES ב ליעפהל EHAD\ncrm.approval.process.activate.limit = ליעפ בצמב תויהל םילוכי לודומל םיכילהת 10 לש םומיסקמ.\ncrm.approval.process.creation.limit = תיחכונה הרודהמב רחבנה לודומה לש ףסונ רושיא ךילהת רוציל לוכי ךניא ,םירעטצמ\ncrm.approval.process.rule.edit.instruction = ךישמהל הצרת םאה .הז ללכ תועצמאב רושיאל תוניתממ רבכש תומושרב יוטיב ידיל אובי אל הז ללכב עצבתש יוניש לכ?\ncrm.approval.rejected.audit.log = רושיאל השקבה התחדנ  EFES םשב &lrm;<a href=\"\"/crm/EntityInfo.do?module={1}&id={2}\"\" target=\"\"_blank\"\" class=\"\"pL0\"\"> SHALOSH </a>&lrm; \"\ncrm.approval.rule.reorder.instruction = הרירג ידי לע ללכה עוציב רדס תא הנש \ncrm.approval.send.alert.content = &lrm;EFES&lrm; תא רשאל שקיב  EHAD ,  SHNAIM .\" \ncrm.approval.subject.for.action = ךתשקב  EFES ידי לע  EHAD  \ncrm.approvalProcess.alerts.cannotDelete.associatedWithRule = \"קוחמל הסנו ךוישה תא לטב אנא ,רשואמה ךילהתל תכייושמ רבכ וז הארתהש ןוויכמ.\" \ncrm.approvalProcess.deluges.cannotDelete.associatedWithRule = קוחמל הסנו ךוישה תא לטב ,רשואמה ךילהתל רבכ תכייושמ וז תישיא תמאתומ היצקנופש ןוויכמ\ncrm.approvalProcess.feed.recordDelegated = EFES םשב <b>  EHAD  </b> ידי לע רושיאל ךרובע הצקוה SHNAIM\ncrm.approvalProcess.feed.recordRejected = EFES םשב <b>  EHAD  </b> ידי לע החדנ  SHNAIM  \ncrm.approvalProcess.feed.recordWaitingForApproval = EFES םשב <b>  EHAD  </b> ךרושיאל ןיתמממ \ncrm.approvalProcess.label.approvalHistory =  םירושיא תיירוטסיה\ncrm.approvalProcess.label.awaitingOthersApproval = םירחא רושיאל ןיתממ\ncrm.approvalProcess.label.awaitingYourApproval = ךרושיאל ןיתממ \ncrm.approvalProcess.label.delegate = הצקה \ncrm.approvalProcess.label.delegated = הצקוה \ncrm.approvalProcess.label.due = לחתוא \ncrm.approvalProcess.label.noComments = תובוגת ןיא\ncrm.approvalProcess.label.noRecords.awaitingOthersApproval = םירחא רושיאל תוניתממהה תומושר ןיא\ncrm.approvalProcess.label.noRecords.awaitingYourApproval =  ךרושיאל ןיתממ\ncrm.approvalProcess.label.noRecordsInThisView = וז הגוצתב תומושר ואצמנ אל \ncrm.approvalProcess.label.processName = ךילהת םש \ncrm.approvalProcess.label.recentActivity = הנורחא תוליעפ \ncrm.approvalProcess.label.reject = הייחד \ncrm.approvalProcess.label.rejected = החדנ \ncrm.approvalProcess.label.undo = לטב \ncrm.approvalProcess.label.yourCommentsforDelagate = ילאנויצפוא) שמתשמל ךיתורעה) \ncrm.approvalProcess.link.backToAwaitingYourApproval = ךרושיאל תוניתממה תומושרל הרזח \ncrm.approvalProcess.placeHolder.noComments = הז רושיאל בל םיש \ncrm.approvalProcess.webHooks.cannotDelete.associatedWithRule = \"ו תויה webhook ותוא קוחמל הסנו ךוישה תא לטב ,רושיאה ךילהתל רבכ ךייושמ הז\ncrm.archive = ןויכראל סנכוה \ncrm.associate.user.invite.subject = ןובשחל ךרטצהל ןמזומ התא CRM לש EFES\ncrm.attach.another.file = רחא ץבוק ףרצ \ncrm.attach.file.limit.msg = 10 לע הלעי אל ץבוק לדוג MB. \ncrm.audit.territory.pot.rules.disabled = לאיצנטופ תיירוטירט ללכ רשפוא\ncrm.auditlog.approvalprocess = רושיא ךילה \ncrm.auditlog.custombutton = תישיא םאתומ ןצחל \ncrm.auditlog.field.dependencies = הדש יופימ\ncrm.auditlog.field.mapping =  הדש יופימ\ncrm.auditlog.module.created = םשב תישיא םאתומ לודומ רצונ EFES \ncrm.auditlog.module.deleted = םשב תישיא םאתומ לודומ קחמנ EFES \ncrm.auditlog.rename.picklist = תורשפא םש EFES ל הנוש EHAD\ncrm.auditlog.statement.for.all = &lrm;Audit log&lrm; ב םישמתשמה ידי לע ועצובש תולועפ לש יגולונורכ ףצר ךל קפסמ EFES CRM \ncrm.auditlog.statement.for.you = &lrm;Audit log&lrm; ב ךדי לע ועצובש תולועפ לש יגולונורכ ףצר ךל רפסמ EES CRM\ncrm.auditlog.web_to_case_form = תרמה ספוט web הרקמל\ncrm.auditlog.web_to_leads_form = תרמה ספוט web ל lead\ncrm.auditlog.workflowdeluge = תישיא תמאתומ הדובע ךילהת תיצקנופ \ncrm.auditlog.workflowfollow\\-ups = הדובע ךילהת רחא בקעמ \ncrm.bc.related.mode.info1 = &lrm;<span class='gray fS13'> רובע עוריא </span>&lrm;EFES EHAD\ncrm.bc.related.mode.info1.reminder = &lrm;<span class='gray fS13'> רובע עוריא</span>&lrm;EFES EHAD\ncrm.bc.related.mode.info2 = &lrm;<span class='gray fS13'> רובע עוריא </span>&lrm; EFES\ncrm.bc.related.mode.info2.reminder = &lrm;<span class='gray fS13'> רובע עוריא </span>&lrm; EFES \ncrm.bc.related.mode.info3 = &lrm;<span class='gray fS13'> רובע עוריא EFES רובע EHAD SHNAIM </span> &lrm;\ncrm.bc.related.mode.info3.reminder = &lrm;<span class='gray fS13'> רובע עוריא EFES רובע EHAD SHNAIM </span> \ncrm.bc.related.mode.info4 = <span class='gray fS13'> רובע עוריא EFES EHAD </span>&lrm; \ncrm.bc.related.mode.info4.reminder = &lrm;<span class='gray fS13'> רובע עוריא EFES EHAD </span> &lrm;\ncrm.bc.related.mode.print.info1 = &lrm;<span class='color2 fS13'> רובע עוריא </span>&lrm;EFES &lrm;( EHAD ) &lrm;\ncrm.bc.related.mode.print.info2 = &lrm;<span class='color2 fS13'> רובע עוריא </span>&lrm;EFES \ncrm.bc.related.mode.print.info3 = &lrm;<span class='color2 fS13'> רובע עוריא EFES רובע EHAD SHNAIM </span> &lrm;\ncrm.bc.related.mode.print.info4 = &lrm;<span class='color2 fS13'> רובע עוריא EFES EHAD </span> &lrm;\ncrm.bc.related.mode.quickview.info = &lrm;<span class='gray fS13'>EFES רובע EHAD SHNAIM </span> &lrm;\ncrm.blank.state.CustomModule5001 = תולבק ZB\ncrm.blank.state.CustomModule5002 = ינדמוא ZB\ncrm.blank.state.CustomModule5003 = לש שכר תונמזה ZB \ncrm.blank.state.CustomModule5004 = לש הריכמ תונמזה ZB\ncrm.blank.state.intro.CustomModule5001 = םימושיר/תוינובשח בוליש תועצמאב ורצונש תוינובשח\ncrm.blank.state.intro.CustomModule5002 = םימושיר/תוינובשח בוליש תועצמאב ורצונש םינדמוא\ncrm.blank.state.intro.CustomModule5003 = םימושיר/תוינובשח בוליש תועצמאב ורצונש שכר תונמזה \ncrm.blank.state.intro.CustomModule5004 = םימושיר/תוינובשח בוליש תועצמאב ורצונש הריכמ תונמזה\ncrm.body.rejection.mail =  \"רובע  ךלש רושיאה תשקב ,ונרעצל  EFES EHAD םע רבד אנא .רשאמה ידי לע התחדנ SHNAIM.\" \ncrm.books.changeuser.header = שמתשמ הנש \ncrm.books.configure.books.btnlabel = לש הרוצת תעיבק EFES םירפס \ncrm.books.configure.email = \"לאוד תבותכ\" \ncrm.books.configure.or.label = וא \ncrm.books.configure.org.validation.msg = היצרגטניאל ןוגרא רחב אנא \ncrm.books.configure.zsckey = חתפמ תא ןזה ZSC \ncrm.books.custommodule.exportaspdf = ץבוקכ אצי PDF\ncrm.books.custommodule.invoice = תינובשח \ncrm.books.custommodule.purchaseorder = שכר תנמזה \ncrm.books.custommodule.salesorder = הריכמ תנמזה \ncrm.books.dashboard.activation.header = ל רבחתה EFES \ncrm.books.deactivate.label = לטב \ncrm.books.fieldmapping.contact = ןורכניסה תורדגה םע רשק רוצ\ncrm.books.fieldmapping.vendor = ןורכניס תורדגה ןרכומ\ncrm.books.integeration.syncsettings.header = ןורכנס תורדגה \ncrm.books.integration.ok.label = רושיא \ncrm.books.integration.point1.desc = \"ינוויכ-וד ןורכנס תועצמאב ,םירצומה ינשב ,םינכדועמ םינותנה תא רומש.\" \ncrm.books.integration.point1.header = ינוויכ וד ןורכניס \ncrm.books.integration.point2.header = תואקסע דעת\ncrm.books.integration.point3.desc = םינושה תונובשחה תואשרהל םישמתשמ תשיג רשפא\ncrm.books.integration.point3.header = ליפורפב תואשרה \ncrm.books.integration.stop.desc = חתפמ יכ הארנ ZSC לש EFES, חתפמ תא ןכדעל שי היצרגטניאה תא שדחל ידכ .הנוש - היצרגטניאה רובע ילטנמורסניא וניהש ZSC םדקתהל זאו.\ncrm.books.integration.stop.message = םע היצרגטניאה הקספוה EFES\ncrm.books.integration.success.message = החלצהב הנקתוה היצרגטניאה \ncrm.books.integration.syncsettings.desc = \"תורדגה רפסמ לש ןורכניס עצבל שי ,םימושייה ינש תא בלשל תנמ לע\" \ncrm.books.integration.syncsettings.error = היצרגטניאה םע ךישמהל ידכ ןורכניסה תורדגה םע רשק רוצ אנ.\ncrm.books.integration.trigger.desc = ב הדובע תמירז לש רגירט רידגהל ידכ תואבה תויורשפאה תחאב רחב EFES\ncrm.books.integration.trigger.header =רגירט תודוקנ CRM\ncrm.books.invalidauth.error = ה ירושיא EFES תינש הסנו םירושיאה תא ןקת אנ .םינוכנ םניא - היצרגטניאה רובע ונכדועש. \ncrm.books.newintegration.migration.desc = &lrm;EFES CRM&lrm;  םע רתוי הקודה היצרגטניא העיצמה השדח היצרגטניא תסריג גיצמ EHAD. דבלב םירופס םידעצ קחרמב תאזו - השדחה הסרגל רובעת יכ םוחב םיצילממ ונא .היצרגטניאה לש רתוי הנשיה הסריגב עגרכ קיזחמ התא.\ncrm.books.newintegration.migration.header = תיצרגטניאל השדח הסרג EFES\ncrm.books.newintegration.migration.label = השדח היצרגטניאל הףלחה \ncrm.books.newintegration.oldversion = ילש רתוי הנשיה הסרגה םע ךשמה \ncrm.books.newintegration.switch = השדח הסריגל רובע\ncrm.books.newintegration.why = רתוי השדח הסרגל רובעל ךירצ ינא המל? \ncrm.books.salesorder.disabled.warning = ב ךנוגריא רובע תירשפא הניא תוריכמ תנמזה EFES\ncrm.books.selectorg.title = םע היצרגטניא EFES \ncrm.books.selectorgs.header = \"ןיב היצרגטניא רדגה EFES ו-  EHAD  CRM םיילאיצנטופ תוחוקלו ,רשק ישנא ,תונובשחב יאנובשחה עדימה תא גיצהל ידכ\".\ncrm.books.triggers.action.button = הנש \ncrm.books.triggers.none = ןיא \ncrm.books.updatezsckey.label = ZSC חתפמ ןוכדע \ncrm.books.validation.email = \"לאודה תבותכ ןייצל תחכש\" \ncrm.browser.supported.alert =  ב שמתשהל ידכ .ךמתנ וניא ךלש תרשה EFES  לש רתויב תינכדעה הסרגב שמתשתש םיצילממ ונא &lrm;<a href =EHAD target = 'new'> Chrome, Firefox, Internet Explorer ו Safari.</a> &lrm;\"\ncrm.browser.supported.alert.withoutlink = ב שמתשהל ידכ .ךמתנ וניא ךלש תרשה EFES CRM לש רתויב תינכדעה הסריגב שמתשתש םיצילממ ונא &lrm;Chrome, Firefox, Internet Explorer ו Safari&lrm;.\ncrm.build.custom.apps.not.supported = \"רצוי תועצמאב תישיא םימאתומ םימושיי תונבל הסנמ הסנמ התא !!! םירעטצמ EFES תיחכונה ךתינכותב ןימז וניאש - EHAD. רתוי תמדקתמ תינכתל גרדשל ךילע וז הנוכת רשפאל ידכ.\ncrm.bulk.fields.created.success = החלצהב ורצונ תודשה\ncrm.bulk.fields.not.create.message = תואיגש תומייק םאה קודב אנ ,ורצונ אל תודש המכש ןכתי.\ncrm.button.add.another.rule = ףסונ ללכ ףסוה\ncrm.button.confirm.anyway = הרקמ לכב רשא \ncrm.button.confirm.delete.forecast = תקיחמב ךשמה יתנבה EFES.\ncrm.button.create.call = החיש רוצ \ncrm.button.edit.call = הכירע תחיש \ncrm.button.gotit = יתנבה ,יקוא. \ncrm.button.inventory.add.lineitems = רוצייה וקמ םירצומ ףסוה\ncrm.button.inventory.add.products = םירצומ ףסוה\ncrm.button.mass.convert = תרמה EFES  תינומה\ncrm.button.move.to.unused.fields = שומישב םניאש תודשל רובע ,ןכ. \ncrm.button.movetoorg.configureallowedips = תובותכ לש הרוצת עבק IP תורשפואמ\ncrm.button.remove = רסה ,ןכ.\ncrm.button.remove.from.layout = הסירפהמ רסה\ncrm.button.run.rule.for.all.acc = תונובשחה לכ רובע םיללכ לעפה \ncrm.button.runrules = אצמ EFES לעפהו\ncrm.button.stay.here = ןאכ ראשיה\ncrm.button.yes.delete =  קחמ ,ןכ.\ncrm.cal.inv.count =  &lrm;EFES&lrm; תונמזה\ncrm.cal.inv.count.singular =  &lrm;EFES&lrm; תונמזה\ncrm.cal.inv.no.invitation = תונמזה ואצמנ אל\ncrm.cal.prefrence.call.duration = החיש ךשמ לש לדחמה תרירב\ncrm.cal.prefrence.event.duration = עוריא ךשמ לש לדחמה תרירב \ncrm.cal.prefrence.type.both = תוחיש םגו םיעוריא\ncrm.caldav.access = ל השיג CalDav\ncrm.caldav.config = הרוצת יטרפ \ncrm.caldav.integ.access = לש הנש חולל שג EFES CRM תועצמאב תורחא הנש חול תויצקילפא ךרד CalDav\ncrm.caldav.server =  ,,\ncrm.caldav.ssl =  ,,\ncrm.calendar.allday.events = םלש םוי יעוריא \ncrm.calendar.days.endsat = ב םייתסמ םויה \ncrm.calendar.days.startsat = ב ליחתמ םויה \ncrm.calendar.go.to.date = ךיראתל רובע \ncrm.calendar.hide.declined.events = וחדנש םיעוריא רתסה \ncrm.calendar.hide.events = םיעוריא רתסה  \ncrm.calendar.holiday1 = 1 תיעובש השפוח \ncrm.calendar.holiday2 = 2 תיעובש השפוח \ncrm.calendar.import.support.format = ךמתנ ץבוק טמרופ: .ics \ncrm.calendar.label.AllDay = םויה לכ \ncrm.calendar.prefer.chose.holiday1 = רחב אנא HOLIDAY1 \ncrm.calendar.prefer.chose.holiday2 = רחב אנא holiday2 \ncrm.calendar.prefer.enter.dayscnt = םימיה רפסמ תא ןיזהל אנ\ncrm.calendar.prefer.enter.numeric = דבלב תורפס ליכהל ךירצ םימיה רפסמ הדש\ncrm.calendar.prefer.hol.notsame.msg = holiday1  מ  הנוש תויהל ךירצ holiday2\ncrm.calendar.prefer.holiday.notsame.weekst = מ הנוש תויהל ךירצ עובשה תליחת םוי holiday\ncrm.calendar.prefer.starts.end.notsame.msg = םויסה םוימ הנוש תויהל ךירצ הלחתהה םוי\ncrm.calendar.start.weekon = ב ליחתמ עובשה \ncrm.calendar.turnon.notification.alert.mail = עוריא יל עבקנ רשאכ יל עדוה\ncrm.call.callto.empty.check = תנמזותמ החישב קיר תויהל לוכי וניא \"ל/מ החיש\" הדש\ncrm.call.create.error.msg = החישה ןומזית תעב האיגש העריא\ncrm.call.re.schedule = שדחמ ןמזת\ncrm.call.re.schedule.success.msg = החלצהב שדחמ הנמזות החישה\ncrm.call.rescheduled.successfully = החלצהב שדחמ ןמזות\ncrm.call.sheduled.success.msg = החלצהב הנמזות החישה\n",
+			"file": "/H/Users/Haim1/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/RG1EM1KE/Text-1.txt",
+			"file_size": 29390,
+			"file_write_time": 131097616544573162,
+			"settings":
+			{
+				"buffer_size": 22252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Calibre/Unknown/BIGOVEN REG CODE (7438)/BIGOVEN REG CODE - Unknown.txt",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/G/My Documents/001-Personal/FINANCE/Riham/File ID number.txt",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Beyond Compare 4\nLicensed to:    jovo_bih\nQuantity:       5000 users\nSerial number:  5287-1292\nLicense type:   Pro Edition for Windows\n\n--- BEGIN LICENSE KEY ---\noj2gNg19MVKDyKSUr6yXEiv88JyatFnlGFa3z5PEqPllj1GPovGDHoiR0\nYTd+Lqh5gLc40KDoAMIURdwhD2jb76jIdtQhHAKsLT3pypMGibU9lzBZn\nFMxcVtK7xtEhReRArM+r1N-RjpNifXDQPM2GruKPtfw6VfAth1Txwx-kx\nhQm593IBqpAmnB7WULYSK7hsNk51GknbTjaEJ6UtnlY1RKr07t4seAoG1\nqh3rW8eODXXdwMWr89+8I2DboXmvB19AJj3M9Krec6xO5a-S4PA5IySL9\nztvD3zRkyDd-ZxxG91Q6aNaEaJrY+UeMdfvW-rev8dLj-+rc-PNctI7JU\n--- END LICENSE KEY -----\n",
+			"file": "/H/temp/Temp1_Beyond Compare 4.1.6 Build 21095 (64-bit).zip/Beyond Compare 4.1.6 Build 21095 (64-bit)/BC4Key.txt",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 362.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Dir[\"..\"]"
+			],
+			[
+				"P",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+			"view.settings().get(\"detect_indentation\"); view.settings().get(\"tab_size\")",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"dir",
+			"name -m",
+			"uname -m",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"@gt",
+			"targ",
+			"clone -h",
+			"clone --h",
+			"clone ",
+			"clone github.com/praveenvijayan/Sublime-Text-2-BIDI",
+			"clone https://github.com/praveenvijayan/Sublime-Text-2-BIDI",
+			"import urllib2,os;",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/ref/work/WorkFile-2016-05-08-Heb-UTF-8.txt",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/H/temp/Temp1_BufferScroll-st3.zip/BufferScroll-st3/readme.md",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/BufferScroll.sublime-settings",
+		"/D/Calibre/Unknown/IMPORTANT READ_ME!!! (8480)/IMPORTANT READ_ME!!! - Unknown.txt",
+		"/D/Calibre/Unknown/Barbie1710 (9862)/Barbie1710 - Unknown.txt",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/ref/Source/2016-05-08-Eng-ref-UTF-8.txt",
+		"/H/Users/Haim1/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/RG1EM1KE/Text-1.txt",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/D/UdemyScratch/myrubyblog/db/migrate/20160518080007_create_categoris.rb",
+		"/D/UdemyScratch/myrubyblog/tmp/cache/assets/sprockets/v3.0/8k/8k1lzj4506TD7AIYUfvee9BoTkzi91PB-wIRUsSaeQo.cache",
+		"/D/UdemyScratch/myrubyblog/app/views/posts/index.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/controllers/posts_controller.rb",
+		"/D/UdemyScratch/myrubyblog/app/controllers/categories_controller.rb",
+		"/D/UdemyScratch/myrubyblog/app/views/categories/show.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/views/categories/new.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/views/categories/index.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/views/categories/edit.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/views/posts/new.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/views/posts/show.html.erb",
+		"/D/UdemyScratch/myrubyblog/app/models/categori.rb",
+		"/D/UdemyScratch/myrubyblog/config/routes.rb",
+		"/D/UdemyScratch/myrubyblog/app/models/post.rb",
+		"/D/UdemyScratch/myrubyblog/app/models/category.rb",
+		"/D/Downloads/Beyond Compare 4.1.6 Build 21095/Portable/Beyond Compare 4.1.6 Build 21095 (64-bit)/Readme.txt",
+		"/D/Calibre/Unknown/booklist (10023)/booklist - Unknown.txt",
+		"/H/temp/Temp1_Kiyosaki - Rich Dad Cash Flow Quadrant.zip/Kiyosaki - Rich Dad Cash Flow Quadrant/Self-Extract Password.txt",
+		"/D/Calibre/Unknown/Demonoid (9955)/Demonoid - Unknown.txt",
+		"/D/Downloads/Beyond Compare 4.1.6 Build 21095/Portable/Beyond Compare 4.1.6 Build 21095 (64-bit)/BC4Key.txt",
+		"/D/Downloads/Without Fail By Lee Child (Retail)/Without Fail By Lee Child (Retail).txt",
+		"/D/UdemyScratch/myrubyblog/Gemfile",
+		"/D/UdemyScratch/myrubyblog/config/database.yml",
+		"/H/Program Files/PostgreSQL/9.5/data/pg_hba.conf",
+		"/H/Program Files/PostgreSQL/9.5/data/pg_hba.conf_bkp",
+		"/D/WORK/rails/week2/assignment-Calc-Max-Word-Freq/rndm.rb",
+		"/D/Downloads/Good Will Hunting 1997 720p multisub HighCode/good.will.hunting.1997.720p.utf-8.Hebrew.srt",
+		"/D/WORK/rails/week2/assignment-Calc-Max-Word-Freq/ll.txt",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/work/02-Aug-2025-Heb-work-UTF-8-CRM-V9.txt",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/Source/02-Aug-2025-Eng-ref.txt",
+		"/G/Books/Manuals/samaung m3370fd serial.txt",
+		"/H/temp/INF Printer Installer.log",
+		"/G/India/Ghandi.1982.1080p.BluRay.x264/Gandhi.1982.720p.BluRay.x264-SiNNERS.Hebrew.srt",
+		"/D/Downloads/Good Will Hunting 1997 720p multisub HighCode/good.will.hunting.1997.720p.bluray.x264-sinners.Hebrew.srt",
+		"/D/Downloads/Take Command 16.03.55 Multilingual (x64) + Patch/Patch Instructions.txt",
+		"/D/Downloads/Take Command 16.03.55 Multilingual (x64) + Patch/Instructions.txt",
+		"/D/WORK/MinaBridge/GD-Bridge/css/bootstrap-grid.min.css",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/perl/convert-v8.pl",
+		"/D/WORK/MinaBridge/GD-Bridge/css/style.css",
+		"/D/WORK/rails/week2/assignment-Calc-Max-Word-Freq/list.txt",
+		"/D/WORK/Scss/bridgesite/css/style.css",
+		"/D/WORK/Scss/bridgesite/css/new-indx-tbl.txt",
+		"/D/WORK/Scss/bridgesite/css/Bridge.css",
+		"/D/Downloads/PluralSight A Better CSS Less And SASS tutorialkhan.com+excr/Exercise files/materials/Why/BetterCSS/css/init.css",
+		"/D/Downloads/PluralSight A Better CSS Less And SASS tutorialkhan.com+excr/Exercise files/materials/Why/BetterCSS/css/My.css",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/perl/convert-v5.pl",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/perl/genhtml-v5.bat",
+		"/D/WORK/Scss/animate.sass-master/stylesheets/animate/css3/animation/_animation-direction.scss",
+		"/D/WORK/Scss/bridgesite/css/template.css",
+		"/D/WORK/Scss/bridgesite/scss/template.scss",
+		"/D/WORK/Scss/bridgesite/hnbr.sublime-project",
+		"/D/WORK/Scss/bridgesite/css/template.css.map",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/sublime-build-2-css-dir.sublime-build",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/WORK/Scss/bridgesite/index.html",
+		"/D/WORK/Scss/bridgesite/cred-frontend-translation.1.1.zip",
+		"/D/WORK/Scss/bridgesite/sysbuild cnfg/cnfg.txt",
+		"/D/WORK/Scss/bridgesite/animate.sass-master/test/sass/stylesheet.scss",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/D/WORK/Scss/style.scss",
+		"/D/WORK/Scss/style.css",
+		"/D/WORK/Scss/style.css.map",
+		"/D/WORK/Web/bridge/index.html",
+		"/D/WORK/Scss/bridgesite/hnbr.sublime-workspace",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Installed Packages/SCSS.sublime-package",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/perl/test-long-lines.pl",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/TEST/rndm.rb",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/Source/bridge index table",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/work/02-Aug-2025-Heb-work-UTF-8-HN-V3.txt",
+		"/H/rails/blog/Gemfile",
+		"/H/rails/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/activesupport-4.0.0/lib/active_support/dependencies.rb",
+		"/H/Video Learning/ROR4/InfiniteSkills Learning Ruby On Rails Training Video/Learning Ruby On Rails - Working Files/Chapter 02/blog/config/application.rb",
+		"/H/Video Learning/ROR4/InfiniteSkills Learning Ruby On Rails Training Video/Learning Ruby On Rails - Working Files/Chapter 02/blog/config/routes.rb",
+		"/H/rails/blog/app/views/posts/index.html.erb",
+		"/H/rails/blog/app/views/posts/show.html.erb",
+		"/D/WORK/rails/elmic/toy_app/README.rdoc",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/perl/convert.pl",
+		"/H/Users/Haim1/Documents/Ruby.efu",
+		"/D/Downloads/Armenia - Georgia - 2016.kmz",
+		"/D/WORK/Hillik/Engagement Development Program.rtf",
+		"/D/WORK/RuBridge/hnlogger.rb",
+		"/D/WORK/Zoho/ZOHO_site_translation/translations/CRM Coaching/TEST/random lines.txt",
+		"/D/WORK/rails/week2/assignment-Calc-Max-Word-Freq/solution.rb",
+		"/D/WORK/rails/elmic/toy_app/.git/config",
+		"/D/WORK/rails/elmic/toy_app/config/application.rb",
+		"/D/WORK/RuBridge/hand.rb",
+		"/H/Program Files (x86)/Git/etc/profile",
+		"/H/Program Files (x86)/Git/etc/bash.bashrc",
+		"/D/WORK/rails/elmic/hello_app/Gemfile",
+		"/D/WORK/rails/elmic/toy_app/Gemfile",
+		"/H/rails/Ruby2.1.0/lib/ruby/gems/2.1.0/specifications/sqlite3-1.3.9-x86-mingw32.gemspec",
+		"/D/WORK/rails/elmic/toy_app/app/models/user.rb",
+		"/D/WORK/rails/elmic/toy_app/test/models/user_test.rb",
+		"/D/WORK/rails/elmic/hello_app/app/controllers/application_controller.rb",
+		"/D/WORK/rails/elmic/hello_app/config/routes.rb",
+		"/C/Users/Haim11/.ssh/id_rsa.pub",
+		"/D/WORK/RuBridge/classifier.rb",
+		"/H/Program Files (x86)/Git/doc/git/html/git-config.txt",
+		"/D/WORK/RuBridge/classify.rb",
+		"/D/WORK/RuBridge/states.rb",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/deff.sublime-snippet",
+		"/D/WORK/RuBridge/opener.rb",
+		"/H/Users/Haim1/AppData/Roaming/Sublime Text 3/Packages/User/bh_tag.sublime-settings",
+		"/D/WORK/RuBridge/define.rb",
+		"/D/WORK/RuBridge/rules.rb",
+		"/D/WORK/RuBridge/rubridge/config/database.yml",
+		"/D/WORK/RuBridge/rubridge/Gemfile",
+		"/H/rails/Ruby2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/core_ext/kernel_require.rb",
+		"/H/laragon/www/hn1/bridge/app/Game/hand.php",
+		"/D/WORK/bridgesite/php files from laravel public/output/files/hand.php.txt",
+		"/D/WORK/bridgesite/php files from laravel public/hand.php",
+		"/C/Windows/System32/drivers/etc/hand.php",
+		"/D/WORK/rails/week3/heroku/jruby-getting-started/config/database.yml",
+		"/D/WORK/rails/week3/heroku/jruby-getting-started/Procfile.windows",
+		"/D/WORK/rails/week3/heroku/jruby-getting-started/Gemfile",
+		"/H/BoxSync/GD-bridge/index1.html",
+		"/H/BoxSync/GD-bridge/index.html",
+		"/H/Program Files/PostgreSQL/9.5/data/postgresql.conf"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+			"<open folders>",
+			"D:\\WORK\\scss\\bridgesite,<open folders>",
+			"D:\\WORK\\RuBridge,<open folders>",
+			"d:\\WORK\\rails\\fix-gemfile.rb,<open folders>",
+			"d:\\WORK\\rails\\fix-gemfile.rb",
+			"*.php",
+			"H:\\laragon\\www\\hn1\\bridge\\*.php",
+			"H:\\laragon\\www\\hn1\\gsd1,*.php",
+			"H:\\laragon\\www\\hn1\\gsd1",
+			"*.php",
+			"H:\\Users\\Haim1\\code\\gsd1",
+			"*.json",
+			"*.php",
+			"-*.DOC* ",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"crm.adword.potentialdetail",
+			"ActiveRecord",
+			"bb",
+			"c",
+			"route",
+			"[A-Z]#",
+			"[A-Z0-9]#",
+			"[a-zA-Z0-9]#",
+			"#",
+			"</tr>",
+			"</td>",
+			"<tr><td>",
+			"\"\"",
+			"\"",
+			"''",
+			"\"tab_size\":",
+			"\"settings\"",
+			"detect_indentation",
+			"detect_indentatioon",
+			"tab_size",
+			"tab_s",
+			"tab_",
+			"=.*?=",
+			"tab",
+			"=.*?=",
+			"=.*=?",
+			"=.*=",
+			"crm\\.",
+			"input form",
+			"input",
+			"length",
+			"lines_ctr",
+			"ruby",
+			"ar_flags",
+			" ",
+			",",
+			"consol",
+			"req",
+			"production",
+			"root",
+			"sq",
+			"sprin",
+			"sqlit",
+			"user",
+			"haim",
+			"add_ca",
+			"card.new",
+			"start ca",
+			"suite size",
+			"cardsN",
+			"hand_cards",
+			"hand_val",
+			"calc_order",
+			"points",
+			"class",
+			"<",
+			"log",
+			"$LOG",
+			"set_",
+			"sendlog",
+			"log",
+			"classify_hand",
+			"class ",
+			"\n   ",
+			"class",
+			"log",
+			"sendlog",
+			"send_log",
+			"has_8",
+			"is_balanced",
+			"\\n",
+			" =",
+			"@",
+			"tab",
+			"array",
+			"[]",
+			"card co",
+			"show_hand",
+			"valid han",
+			"@suite",
+			"class",
+			"hand_val1",
+			".chr",
+			"spades",
+			"spades_",
+			"puts",
+			"p ",
+			"hand v",
+			"p ",
+			"suite",
+			" (",
+			"send",
+			" (",
+			"sendlog",
+			"sleep",
+			"$log",
+			"log",
+			"/",
+			"Hnlogger",
+			"logger",
+			"HNLogger",
+			"logger",
+			"sendlog",
+			"MyHand::Hand",
+			"p card",
+			"add_car",
+			"card.new",
+			"add_card",
+			"card.new",
+			"sendlog",
+			"<<",
+			"pack",
+			"new",
+			"pack",
+			"@points",
+			"myl",
+			"new",
+			"p ",
+			"logger",
+			"each",
+			"order",
+			"hand_cards",
+			"new",
+			"sql",
+			"sq",
+			"init",
+			"list",
+			"init#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"cc",
+			"bb",
+			"",
+			"<br>",
+			"",
+			"\"",
+			"ar_vals",
+			"",
+			"\\n",
+			",\\n",
+			"\" =>",
+			"\"",
+			"",
+			"clubs",
+			"(",
+			"\\",
+			"Hnlog",
+			"Hnlogger",
+			"sendlog",
+			"val",
+			"initialize",
+			"hand_val",
+			"order",
+			"@",
+			"#",
+			"",
+			"#",
+			"end",
+			"begin",
+			"",
+			"gd-bridge",
+			"pdf\">",
+			"pdf\"<",
+			"",
+			"pdf\"</a>",
+			"	<a href=\"http",
+			"/",
+			"docs/GD-Bridge-",
+			"docs",
+			"<p style=\" padding:12px; font-weight: bold; \"  >",
+			".<br>",
+			" ",
+			".<br>",
+			" ",
+			"   ",
+			" ",
+			".<br>",
+			" ",
+			", ",
+			" ",
+			"2px",
+			"\\",
+			"gsd1",
+			" ",
+			"",
+			"/",
+			"&lrm;",
+			".includes?",
+			"&&",
+			"||",
+			"150"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Text-1-HN.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "da6b30f8",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/WORK/Zoho/ZOHO_site_translation/translations/ref/Source/2016-05-08-Eng-ref-UTF-8.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290983,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										54931,
+										54935
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								66897,
+								66897
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "44b14146",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 156.0,
+						"translation.y": 22658.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Calibre/CD Index/Robert Kiyosaki - Choose To Be Ric (10777)/Robert Kiyosaki - Choose To Be - CD Index.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "1b7283c9",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/H/Users/Haim1/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/RG1EM1KE/lines 822-823.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "734af0b9",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/Users/Haim1/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/RG1EM1KE/Text-1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "d0e7933e",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Calibre/Unknown/BIGOVEN REG CODE (7438)/BIGOVEN REG CODE - Unknown.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "80ee1dfd",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/G/My Documents/001-Personal/FINANCE/Riham/File ID number.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "9a64021d",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/H/temp/Temp1_Beyond Compare 4.1.6 Build 21095 (64-bit).zip/Beyond Compare 4.1.6 Build 21095 (64-bit)/BC4Key.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								535
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "e47f82c9",
+							"is_xml": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 354.0
+	},
+	"output.find_results":
+	{
+		"height": 196.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 154.0
+	},
+	"project": "tovaproj.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Providers\\RouteListServiceProvider.php"
+			],
+			[
+				"debug",
+				"hn1\\vendor\\phpunit\\phpunit\\tests\\TextUI\\debug.phpt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 241.0,
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,16 @@
+﻿crm.adword.performance.keywords = סטטוס ביצועי מילות מפתח
+crm.adword.pleaseselectcamp = לא נמצאו מילות מפתח לקמפיין וה-Ad Group שנבחרו
+crm.adword.potentialdetails = EFES CRM EHAD פרטים 
+crm.adword.potentialwon = EFES נצחונות 
+crm.adword.pushtogoogle = לחץ<br/> למעבר ל-Google
+crm.adword.regeneratehtml = HTML צור מחדש
+crm.adword.roi = להחזר על ההשקעה 
+crm.adword.selectcriteria = להצגת הרשימה בחר קמפיין ו- AdGroup
+crm.adword.setup.heading = בחר בחשבונות Google AdWords  שברצונך לאתר EFES ב CRM. 
+crm.adword.setup.revisednotes1 = שמות ההמרה המתאימים שמוצגים למעלה, יווצרו בחשבון הGoogle AdWords שלך עם חלון ברירת מחדל של "90 יום". תוכל לשנות כרצונך את חלון ההמרות בGoogle Adwords
+crm.adword.setup.revisednotes2 = "אין לשנות את שמות ההמרה. במידה וישונו השמות, ההמרות ב offline לא יועברו לחשבון ה Google AdWors שלך.
+crm.adword.setup.revisednotes3 = זיהוי לידים איכותיים מ Zoho CRM והמרות של Zoho Sales יועברו חזרה ל Google AdWord רק כאשר ההמרות התבצעו בתוך טווח הימים של חלון ההמרות (90 יום כברירת המחדל) החל מתאריך הליד/יצירת הקשר ב Zoho CRM.
+crm.adword.setup.revisednotes4 = מעקב אחר המרות בין חשבונות אינו נתמך.
+crm.adword.spendingcost = עלות הוצאות
+crm.adword.tabvisibility = בחר את הפרופילים עבורם על הלשונית להיות גלויה
+crm.adword.track = "עקוב אחר ההוצאות שלך בGoogle והחזרי ההשקעות שלך מ <a href=""/crm/ShowDetails.do?module=Google AdWords&quickcreate=true"" class=""fbllink"">Google AdWords לשונית</a> "
