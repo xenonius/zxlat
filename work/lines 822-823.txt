@@ -1,2 +1,0 @@
-crm.adword.webform.exדדistform3 = כלול את השדה המוסתר  &lrm;&lt;input type='hidden' name='zc_gad' id='zc_gad' value=' '/&gt;&lrm;  בתוך תווית form.
-crm.adword.webform.existform4 = "כלול את הסקריפט  &lrm;&lt;script src=""https://crm.zoho.com/crm/javascript/zcga.js""/&gt;&lrm;  בתוך תווית body. "
