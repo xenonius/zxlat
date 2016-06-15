@@ -6,11 +6,11 @@ use warnings;
 
 # Name of input Hebrew text file
 
-$intxt =  "\.\.\\work\\hebrew_translate.xpl-800-1000.txt";
+$intxt =  "\.\.\\work\\1401-1700.txt";
 print ($intxt, "\n");
 
 # Name of output Hebrew HTML file
-$outhtml =  "\.\.\\out\\hebrew_translate.xpl-800-1000.html" ;
+$outhtml =  "\.\.\\out\\1401-1700.html" ;
 print ($outhtml, "\n");
 
 open(OUTFILE, '>', $outhtml) ||
@@ -20,7 +20,7 @@ $head = '<!DOCTYPE HTML>
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>2016-02-02-Translation-CRM-v9</title>
+    <title>1401-1700-Translation-CRM</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 </head>
@@ -36,7 +36,7 @@ $i = 1;
      $eq = index($line, "=");
     $line = substr($line, $eq+1);
    
-    print OUTFILE ($i++, "  ::  ", $line, '<br/>');
+    print OUTFILE (1400 + $i++, "  ::  ", $line, '<br/>');
     
     
     while ($line ne "")
@@ -45,7 +45,7 @@ $i = 1;
        $line = <INFILE> || "";
        $eq = index($line, "=");
        $line = substr($line, $eq+1);
-       print OUTFILE ($i++, "  ::  ", $line, '<br/>');
+       print OUTFILE (1400+$i++, "  ::  ", $line, '<br/>');
      }
  }
  else
