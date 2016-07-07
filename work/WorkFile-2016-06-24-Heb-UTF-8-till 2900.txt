@@ -3197,7 +3197,6 @@ crm.tpi.ctiapi.msg.alert.onectiagentvsonesalesrep = שם סוכן אחד/שלו�
 crm.tpi.ctiapi.msg.alert.outgoingenabled = שיחות יוצאות הושבתו עבור משתמש זה. 
 crm.tpi.ctiapi.otheraddons.label.telephony = טלפונייה
 crm.tpi.ctiapi.otheraddons.telephony.desc = באפשרותך להגדיר את חשבון ספק הטלפונייה שלך שיהיה מקושר לחשבון EFES CRM שלך, ולבצע שיחות נכנסות ויוצאות בתוך CRM.
-crm.tpi.ctiapi.providerlist.label.telephonyintegration = אינטגראצית טלפונייהES CRM  ולהריץ שיחות נכנסות ויוצאות בתוך הCRM
 crm.tpi.ctiapi.providerlist.label.telephonyintegration =  השתלבות טלפוניה
 crm.tpi.ctiapi.providerlist.msg.providerlist =   נא לבחור את הספק הטלפוני  
 crm.tpi.ctiapi.providerlist.telephonyintegration.desc = השתלבות טלפוניה נועדה לעזור להתחבר לסביבה או לאנשי קשר באופן יעיל בתוךZoho CRM . מרגע השתלבות ספק הטלפוניה ניתן להגדיר את תנאי ביצוע השיחות בתוך CRM ולשמור את כל הפעילות של המשתמש באמצעות דו"חות הפעילות האוטומטיים. 
