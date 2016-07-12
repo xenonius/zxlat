@@ -1,0 +1,390 @@
+crm.zsurvey.no.survey.found = לא נמצא Survey. צור ופרסם את הסקר כדי לראות אותם כאן. 
+crm.zsurvey.note.alluser = השתמש בכל הסקרים שבחשבון זה
+crm.zsurvey.note.disable = השבתה תמחק את הרשימה המקושרת של EFES Survey מדף פרטי הרשומה של מודולים כמו לידים/אנשי קשר/תיקים/ספקים וכל מודול מותאם אישית אחר. 
+crm.zsurvey.note.insert.survey = השלם את תהליך ההתקנה הפשוט כדי להכניס קישורי סקר. צור קשר עם המנהל שלך כדי להתקין את EFES Survey (התקנה>> Zoho Apps)
+crm.zsurvey.note.integration = צור און-ליין סקרים ללא הגבלה באמצעות EFES Survey. צור שליחה אוטומטית של סקרים ללקוח שלך, צפה בתשובות בתוך EFES CRM.
+crm.zsurvey.note.survey.enable = אתה צריך להחזיק בחשבון EFES Survey כדי לאפשר אינטגראציה זו. בחר באחת מהאפשרויות מטה כדי להמשיך. 
+crm.zsurvey.note.survey.integ = &lrm;EFES CRM משולב כעת עם EFES Survey, כלי לבניית סקרים אונליין. &lrm;
+crm.zsurvey.note.survey.setup = השלם את תהליך ההתקנה הפשוט כדי להתחיל לשלוח סקרים. האם תרצה להתחיל את ההתקנה כעת?
+crm.zsurvey.ques.survey = מה זה EFES Survey?
+crm.zsurvey.short.note  = שילוב EFES Survey מאפשר לך לשלוח סקרים ולצפות בתשובות של אנשי הקשר שלך מתוך EFES CRM שלך. בנה סקרים, בצע אוטומציה ופרסם אותם באמצעות EFES CRM או EFES Campaigns או כל כלי צד שלישי של פרסום בדוא"ל. צפה בתשובות של לקוחות בתוך EFES CRM.   
+crm.zsurvey.surveyIntegration = שילוב EFES Survey 
+crm.zsurvey.title.survey = &lrm;EFES Suvey&lrm;
+crm.zsurvey.use.allsurveys = השתמש בכל הסקרים מחשבון זה 
+crm.zti.what\_is\_phonebridge\_ans = &lrm;EFES PhoneBridge מסייע לך לקשר מערכות PBX מרובות עם חשבונך ב EFES CRM ולבצע שיחות פנים וחוץ בתוך CRM. בנוסף, באפשרותך לתעד את שיחות הטלפון ולשייכן אל הלידים או אנשי הקשר. 
+crmplusplan = גירסת CrmPlus
+customfield.picklist.length.exceed = מצטערים, מילאת את המכסה של  100 ערכים שניתן להוסיף עבור שדה רשימת הבחירה. 
+edit.conf = ערוך הגדרות 
+emailSource.sendmail.option.event.invitation = תזכורת לאירוע
+encode.eastern.europe = אירופה המזרחית
+encode.thai = Thai 
+encode.western.europe = אירופה המערבית
+error.cf.out.of.limit.Formula = אינך יכול ליצור יותר מ - 15 שדות נוסחה מותאמת אישית
+error.excelFile.formatType = גירסת ה excel של הקובץ המיובא אינה נתמכת. שדרג את הגירסה ונסה לייבא גירסה מתקדמת יותר (>MS Excel95) של פורמט הקובץ. 
+error.excelFile.protected = הקובץ, שאתה מנסה לייבא, מוגן בסיסמה. השבת/הסר את הגנת הסיסמה ונסה לייבא בשנית. 
+error.fileRowCount.restriction = על הקובץ להכיל לא יותר מ EFES שורות. 
+error.import.empty.header = הקובץ אינו מכיל שורת כותרת. הוסף בבקשה שורת כותרת ונסה שוב. 
+error.no.unique.field.available.with.module = לא ניתן שיהיו יותר  מ EHAD שדות יחודיים עבור EFES. 
+error.no.unique.field.available.without.module = לא ניתן שיהיו יותר מ EFES שדות יחודיים. 
+exepdia.advance.booking = מצטערים! רישום יכול להיעשות עד 500 ימים מראש. 
+expedia = Travelnow 
+expedia.age = גיל 
+expedia.before.checkin = תאריך check-in אמור להיות מאוחר יותר מהיום. 
+expedia.book.hotel = הזמן מלון 
+expedia.cancelled.text = ההזמנה בוטלה עבור מספר מסע זה.
+expedia.checkin = Check-in 
+expedia.children = ילדים 
+expedia.enter.text = היכנס כדי לחפש 
+expedia.error.searchlocation = נא הכנס מיקום תקין לחיפוש
+expedia.itinerary.exception = מצטערים! אין אפשרות לשייך את המסע עם אירוע זה. נא נסה שוב מאוחר יותר. 
+expedia.itinerary.text = הכנס מספר מסע
+expedia.night.rate = ללילה
+expedia.nights = לילות 
+expedia.nobookings = אין הזמנות המקושרות לאירוע זה. 
+expedia.nolandmark = לא נמצאו ציוני דרך
+expedia.noof.num = אין 
+expedia.noof.rooms = חדרים 
+expedia.price = מחיר 
+expedia.rating.star = כוכב 
+expedia.room.no = חדר 
+expedia.search.text = עיר, שדה תעופה, ציון דרך או כתובת. 
+expedia.sort.alphabetical = אלפביתי 
+expedia.sort.promotion = קידום 
+expedia.sort.proximity = השערה 
+expedia.sort.text = מיין לפי
+expedia.stay.comparison = תאריך check-in אמור להיום קודם לתאריך check-out.
+expedia.text.landmark = ליד 
+expedia.total.stay = באפשרותך לבצע הזמנה לבית מלון עבור מקסימום של 28 ימים. 
+expedia.tripadvisor = יועץ מסע
+expedia.validation.itinerary = נא הכנס מספר מסע Travelnow תקין. 
+expedia.where = איפה 
+lar.add.followup.task = הוסף משימת מעקב לבעלי הרשומה. 
+lar.choose.group = בחר קבוצה
+lar.choose.owner = בחר בעלים 
+lar.choose.task = בחר משימה
+lar.followup = מעקב
+lar.followups = מעקבים
+lar.roundrob.list = בחר רשימה חוזרת מ
+lar.roundrob.nouser = אין משתמשים
+lar.roundrob.owner = הפנה למשתמשים ברשימה חוזרת
+last\_clicked\_time = זמן כניסה אחרון 
+last\_opened\_time = זמן פתיחה אחרון
+listview\_1 = מסנכרן רק את האירועים שלך בלוח השנה של Google עם לוח השנה שלך ב EFES CRM.
+listview\_2 = מסנכרן רק את האירועים שלך ב EFES CRM עם לוח השנה שלך ב Google.
+listview\_3 = מסנכרן גם את לוח השנה שלך ב EFES CRM וגם את אירועי לוח השנה של Google זה עם זה. 
+motivator.content.contest.awaiting.publish =התחרות  &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; ממתינה לבדיקתך
+motivator.content.contest.created = ההתחרות &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; נוצרה. 
+motivator.content.contest.edited = ההתחרות &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; עברה עריכה. 
+motivator.content.contest.homestrech = ההתחרות &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; נכנסת לשלב האחרון. 
+motivator.content.contest.leaderboard.update = בהתחרות &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm;יש מובילים חדשים. 
+motivator.content.contest.published = ההתחרות &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; פורסמה. 
+motivator.content.contest.reminder = תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; מתחילה מחר. 
+motivator.content.target.created.company =מטרת &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; חדשה נוצרה עבור החברה. 
+motivator.content.target.created.team = מטרת &lrm;<a href='{0}' target='_blank'> SHALOSH EHAD </a>&lrm; נוצרה עבור SHNAIM.
+motivator.content.target.created.you = מטרת &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; חדשה נוצרה עבורך. 
+motivator.content.target.edited.company =המטרה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; של החברה - עברה עריכה. 
+motivator.content.target.edited.team = המטרה &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>של EFES עברה עריכה. 
+motivator.content.target.edited.you = מטרתך - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; עברה עריכה. 
+motivator.content.target.exceeded.company = החברה הגיעה למטרת ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלה. 
+motivator.content.target.exceeded.you =הגעת למטרת ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלך. 
+motivator.content.target.exceeded.you.personal =הגעת למטרתך האישית - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm;.
+motivator.content.target.missed.company = החברה לא הגיעה ליעד ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלה. 
+motivator.content.target.missed.team = &lrm;EFES לא השיג את יעד ה &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; שלו. 
+motivator.content.target.missed.you = לא הישגת את מטרת ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלך. 
+motivator.content.target.missed.you.personal =  לא הישגתך את מטרתך האישית&lrm; <a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm;.
+motivator.content.target.notontrack.company =  החברה כרגע אינה עומדת להשיג את מטרת ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלה. 
+motivator.content.target.notontrack.team = &lrm;EFES כרגע אינו עומד להשיג את מטרת ה &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; שלו. &lrm;
+motivator.content.target.notontrack.you = כרגע אינך עומד להשיג את מטרת ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלך. 
+motivator.content.target.notontrack.you.personal = כרגע אינך עומד להשיג את מטרתך האישית &lrm; <a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm;
+motivator.content.target.reached.company = החברה השיגה את יעד ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלה. 
+motivator.content.target.reached.team = &lrm;EFES השיג את יעד ה &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; שלו. &lrm;
+motivator.content.target.reached.you = הגעת למטרת ה &lrm; <a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; שלך. 
+motivator.content.target.reached.you.personal = הגעת למטרתך האישית &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm;.
+motivator.period.daily = יומי
+motivator.period.halfyearly = חצי-שנתי
+motivator.period.monthly = חודשי 
+motivator.period.quarterly = רבעוני 
+motivator.period.weekly = שבועי 
+motivator.title.contest.awaiting.publish = תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; הסתיימה. נא פרסם אותה. 
+motivator.title.contest.created = &lrm; EFES יצר תחרות חדשה - &lrm;<a href='{1}' target='_blank'> SHNAIM </a>&lrm;
+motivator.title.contest.edited = &lrm;EFES ערך את תחרות ה <a href='{1}' target='_blank'> SHNAIM </a> &lrm;.
+motivator.title.contest.homestrech.first = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; נותרו SHNAIM ימים.  אתה מספר 1! המשך הלאה לעשות עבודוה טובה!
+motivator.title.contest.homestrech.first.goal.amount = לתחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; נותרו SHNAIM ימים. אתה מספר 1. המשך הלאה לעשות עבודוה טובה! SHALOSH כדי להשיג את המטרה. 
+motivator.title.contest.homestrech.first.goal.points = לתחרות ה&lrm;<a href='{0}' target='_blank'>EHAD </a>&lrm; נותרו SHNAIM ימים. אתה מספר 1. המשך הלאה לעשות עבודה טובה. SHALOSH נקודות להשגת היעד.
+motivator.title.contest.homestrech.observers = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; נותרו SHNAIM ימים. 
+motivator.title.contest.homestrech.observers.goal.amount = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. SHALOSH להשגת היעד. 
+motivator.title.contest.homestrech.observers.goal.points = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. SHALOSH נקודות להשגת היעד. 
+motivator.title.contest.homestrech.others.amount = לתחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; נותרו SHNAIM ימים. אתה מדורג כמספר SHALOSH. אתה זקוק ל ARBA כדי להיות אחד משלוש הראשונים. 
+motivator.title.contest.homestrech.others.goal.amount =לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; נותרו SHNAIM ימים. אתה מספר SHALOSH אתה זקוק ל ARBA כדי להיות אחד משלוש הראשונים. HAMESH כדי להשיג את היעד עצמו. 
+motivator.title.contest.homestrech.others.goal.points = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. אתה זקוק ל ARBA נקודות כדי להיות אחד משלוש הראשונים. HAMESH נקודות כדי להשיג את היעד עצמו. 
+motivator.title.contest.homestrech.others.points = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. אתה מדורג ה SHALOSH. אתה זקוק ל ARBA נקודות כדי להיות אחד משלוש הראשונים. 
+motivator.title.contest.homestrech.twothree.amount = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. אתה מדורג ה SHALOSH. אתה זקוק ל ARBA כדי להתקדם ולהיות הראשון. 
+motivator.title.contest.homestrech.twothree.goal.amount = לתחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. אתה מדורג ה SHALOSH. אתה זקוק ל ARBA כדי להתקדם ולהיות הראשון. HAMESH כדי להשיג את היעד עצמו. 
+motivator.title.contest.homestrech.twothree.goal.points = לתחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; נותרו SHNAIM ימים. אתה מדורג ה SHALOSH. אתה זקוק ל ARBA נקודות כדי להתקדם ולהיות הראשון.  HAMESH נקודות כדי להשיג את היעד עצמו. 
+motivator.title.contest.homestrech.twothree.points = לתחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; נותרו SHNAIM ימים. אתה מדורג ה SHALOSH. אתה זקוק ל ARBA  נקודות כדי להתקדם ולהיות הראשון. 
+motivator.title.contest.leaderboard.update =לתחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; יש מובילים חדשים: SHNAIM. נותרו SHALOSH ימים. 
+motivator.title.contest.published.observers = תחרות ה &lrm;<a href='{0}' target='_blank'>  EHAD </a> &lrm; פורסמה. 
+motivator.title.contest.published.observers.goal.exceeded = תחרות ה&lrm; <a href='{0}' target='_blank'> EHAD </a> פורסמה. SHNAIM אחוזים הגיעו ליעד. 
+motivator.title.contest.published.observers.goal.missed =תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; פורסמה. SHNAIM אחוזים לא הגיעו ליעד. 
+motivator.title.contest.published.observers.goal.reached =תחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; פורסמה. היעד הושג. 
+motivator.title.contest.published.others = תחרות ה <a href='{0}' target='_blank'>  EHAD </a> &lrm; פורסמה. אתה דורגת מספר SHNAIM.
+motivator.title.contest.published.others.goal.exceeded = תחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; פורסמה. אתה דורגת כמספר SHNAIM. היעד הושג על ידי SHALOSH אחוזים. עבודה טובה!
+motivator.title.contest.published.others.goal.missed = תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; פורסמה. אתה דורגת כמספר SHNAIM. SHALOSH אחוזים לא עמדו ביעד. אולי בפעם הבאה.
+motivator.title.contest.published.others.goal.reached = תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; פורסמה. אתה דורגת כמספר SHNAIM. היעד הושג. עבודה טובה!
+motivator.title.contest.published.winners = תוצאות תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a>&lrm; פורסמו. אתה דורגת כמספר SHNAIM. ברכות!
+motivator.title.contest.published.winners.goal.exceeded = תוצאות תחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a> &lrm;פורסמו. אתה דורגת כמספר SHNAIM. ברכות! היעד הושג על ידי SHALOSH אחוזים. עבודה טובה!
+motivator.title.contest.published.winners.goal.missed = תוצאות תחרות ה &lrm;<a href='{0}' target='_blank'> EHAD </a> &lrm; פורסמו. אתה דורגת כמספר SHNAIM. SHALOSH אחוזים לא הגיעו אל היעד. אולי בפעם הבאה. 
+motivator.title.contest.published.winners.goal.reached = תוצאות תחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; פורסמו. אתה דורגת כמספר SHNAIM. ברכות! היעד הושג! עבודה טובה!
+motivator.title.contest.reminder =תחרות ה &lrm; <a href='{0}' target='_blank'> EHAD </a>&lrm; מתחילה בעוד יום אחד. 
+motivator.title.target.created.company =&lrm;EFES יצר מטרת &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; עבור החברה. &lrm;
+motivator.title.target.created.team = &lrm;EFES יצר מטרת &lrm; <a href='{1}' target='_blank'> ARBA SHNAIM </a>&lrm; עבור SHALOSH.&lrm;
+motivator.title.target.created.you =&lrm;EFES יצר מטרת &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; עבורך. &lrm;
+motivator.title.target.edited.company = &lrm;EFES ביצע עריכה למטרת ה &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; של החברה. &lrm;
+motivator.title.target.edited.team = &lrm;EFES ביצע עריכה למטרת ה &lrm;<a href='{2}' target='_blank'> ARBA SHALOSH </a>&lrm; של EHAD.&lrm;
+motivator.title.target.edited.you = &lrm;EFES ביצע עריכה למטרת ה &lrm; <a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; שלך. &lrm;
+motivator.title.target.exceeded.company = החברה השיגה את מטרת ה &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm;שלה ב SHALOSH אחוזים. עבודה טובה!
+motivator.title.target.exceeded.team = &lrm;EFES השיג את מטרת ה &lrm; <a href='{1}' target='_blank'> SHALOSH SHNAIM </a>&lrm; שלו ב ARBA אוחוזים. עבודה טובה!&lrm;
+motivator.title.target.exceeded.you =השגת את מטרתך - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm; ב SHALOSH אחוזים. עבודה טובה!
+motivator.title.target.exceeded.you.personal = השגת את מטרתך האישית - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm; ב SHALOSH אחוזים. עבודה טובה!
+motivator.title.target.missed.company = החברה החטיאה את מטרתה -  &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm; ב SHALSH אחוזים. אולי בפעם הבאה תצליח יותר.
+motivator.title.target.missed.team =&lrm;EFES החטיא את מטרתו - &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a> &lrm; ב ARBA אחוזים. אולי בפעם הבאה יצליח יותר. &lrm;
+motivator.title.target.missed.you = החמצת את מטרתך - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm; ב SHALOSH אחוזים. אולי בפעם הבאה תצליח  יותר. 
+motivator.title.target.missed.you.personal = החטאת את מטרתך האישית - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm; ב SHALOSH אחוזים. אולי בפעם הבאה תצליח יותר. 
+motivator.title.target.notontrack.company.amount = &lrm;EFES יום/ימים נותרו לחברה להשיג EHAD כדי לעמוד במטרתה - &lrm;<a href='{2}' target='_blank'> ARBA SHALOSH </a>&lrm; אל תרפו!&lrm;
+motivator.title.target.notontrack.company.points =&lrm;EFES יום/ימים נותרו לחברה להשיג EHAD נקודות כדי לעמוד במטרתה - &lrm; <a href='{2}' target='_blank'> ARBA SHALOSH </a>&lrm; אל תרפו!&lrm;
+motivator.title.target.notontrack.team.amount = &lrm;EFES יום/ימים נותרו עבור EHAD להשיג SHNAIM כדי לעמוד במטרת ה - &lrm;<a href='{3}' target='_blank'> HAMESH ARBA  <a/>&lrm; שלו. אל תרפו!&lrm;
+motivator.title.target.notontrack.team.points = &lrm;EFES יום/ימים נותרו ל EHAD להשיג SHNAIM כדי לעמוד במטרת ה &lrm; <a href='{3}' target='_blank'> HAMESH ARBA<a/>&lrm;שלו. אל תרפו!&lrm;
+motivator.title.target.notontrack.you.amount = &lrm; EFES יום/ימים נותרו לך כדי להשיג את EHAD ולהגיע ליעד שלו - &lrm;<a href='{2}' target='_blank'> ARBA SHALOSH </a>&lrm; אל תרפה!&lrm;
+motivator.title.target.notontrack.you.personal.amount = &lrm;EFES יום/ימים נותרו לך כדי להשיג את EHAD ולהשיג את מטרתך האישית - &lrm;<a href='{2}' target='_blank'> ARBA SHALOSH </a> &lrm; . אל תרפה!&lrm;
+motivator.title.target.notontrack.you.personal.points = &lrm;EFES יום/ימים נותרו לך כדי לצבור  EHAD נקודות ולהגיע ליעד האישי שלך - &lrm;<a href='{2}' target='_blank'> ARBA SHALOSH </a>&lrm;. אל תרפה!&lrm;
+motivator.title.target.notontrack.you.points =&lrm;EFES יום/ימים נותרו לך כדי לצבור EHAD נקודות ולהגיע למטרתך - &lrm;<a href='{2}' target='_blank'> ARBA SHALOSH </a>&lrm;. אל תרפה!&lrm;
+motivator.title.target.reached.company = החברה הגיעה למטרתה - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm; . עבודה טובה!
+motivator.title.target.reached.team = &lrm;EFES הגיע למטרתו - &lrm;<a href='{1}' target='_blank'> SHALOSH SHNAIM </a> &lrm;. עבודה טובה!&lrm;
+motivator.title.target.reached.you = הגעת למטרתך - &lrm;<a href='{0}' target='_blank'> SHNAIM EHAD </a> &lrm; . עבודה טובה!
+motivator.title.target.reached.you.personal = הגעת למטרתך האישית - &lrm; <a href='{0}' target='_blank'> SHNAIM EHAD </a>&lrm;. עבודה טובה!
+nd = nd 
+nlogin.Part1.subtitle = עשה מה שאתה טוב בו
+nlogin.about = אודות CRM
+nlogin.advantages.content1 =  &lrm;Zoho CRM מציע לך את כל המודולים של CRM וכלים להם אתה זקוק כדי לתפעל את המכירות ומערכת השיווק שלך.  &lrm;
+nlogin.advantages.content2 = מאחר וזה חינם! עבור עד שלושה משתמשים. וגרסת הסטנדרט שלנו עולה רק 12$ לחודש עבור משתמש. ללא כוכביות, ללא חיובים נסתרים. 
+nlogin.advantages.content3 = אנחנו לא  כובלים אותך לאף חוזה ארוך-טווח. באפשרותך לשלם בתשלום שנתי או חודשי - בצורה שנוחה לך יותר. 
+nlogin.advantages.content6 = כשאתה יוצר חשבון Zoho CRM אתה מקבל גם גישה לחבילת המוצרים של Zoho - החל משירותי אכסון ופגישות מקוונות וכלה בתוכנות עיסקיות עוצמתיות, כמו ניהול פרויקטים, שיווק בדוא"ל ועוד. 
+nlogin.advantages.subtitle1 = מושלם, פתרון מנצח!
+nlogin.advantages.subtitle2 = ערך ללא מתחרים
+nlogin.advantages.subtitle3 = שלם בסיום 
+nlogin.advantages.title = מדוע Zoho CRM טוב עבורך?
+nlogin.advatages.content4 = עם Zoho CRM אתה אינך צריך לקנות ולתחזק שרת יקר, תוכנות, פתרונות גיבוי, וכו'. אחנו עושים את כל העבודה, ולך נותר רק לקצור את הרווחים. 
+nlogin.advatages.content5 =ההתאמה האישית באצעות drag-and-drop מאפשרת לך להתאים את Zoho CRM בדיוק לצרכיך העסקיים., ולשנות אותו ככל שתזדקק לכך. 
+nlogin.advatages.subtitle4 = הכל מאוכסן בשרת
+nlogin.advatages.subtitle5 = מותאם אישית בקלות
+nlogin.advatages.subtitle6 = הרבה יותר מרק CRM
+nlogin.benefits.content1 =מכן את הפעילות העיסקית היומיומית שלך כך שתוכל להתמקד במכירות במקום בתחזוק נתונים. 
+nlogin.benefits.content2 = קבל תשקיף מדוייק של מעגל המכירות שלך. ישר קו בין מאמצי המכירות שלך ובין אסטרטגיות ומטרות עיסקיות. 
+nlogin.benefits.content3 = בטיסה או במיקום מרוחק? קבל גישה לנתוני לקוחות מהנייד והישאר מעודכן אפילו במצב לא מקוון. 
+nlogin.benefits.content4 = הישאר מעורב, דווח וצור נאמנות ארוכת טווח. שייך פרופילים חברתיים ותקשר עם הלקוחות שלך מתוך חשבונך ב CRM. 
+nlogin.benefits.content5 = שלב את חשבונך ב CRM עם יישומים נוספים וצור פתרון עיסקי רחב היקף ומותאם אישית. 
+nlogin.benefits.content6 = סנכרן את המיילים ב Google ומידע נוסף עם Zoho CRM. השתתף ושתף מידע בקלות באמצעות Zoho CRM עבור יישומי Google. 
+nlogin.benefits.title = עניין, שמר וספק חוויות לעוד לקוחות. הרחב את העסקים שלך - כעת בעזרת  Zoho CRM.
+nlogin.devlopers = מפתחים 
+nlogin.feature1 = תוכנת CRM חברתית 
+nlogin.feature2 = ספריית מסמכים
+nlogin.feature3 = תוכנת ניהול קשרים
+nlogin.feature4 = Mobile CRM 
+nlogin.grow.content = ללא חוזים ארוכי-טווח, שלם בסיום. צור חשבון חינם ב Zoho CRM עוד היום!
+nlogin.itegration = שילובי CRM פופולאריים
+nlogin.moreitegration = שילובים נוספים
+nlogin.part1.title = סגור יותר עסקים בפחות זמן
+nlogin.part1.topmenu.fb = Facebook 
+nlogin.part1.topmenu.ln = LinkedIn 
+nlogin.part1.topmenu.moreapps = יישומים נוספים עבור Zoho
+nlogin.rblogs.title = פוסטים אחרונים בבלוג
+nlogin.recentblogs = פוסטים אחרונים בבלוג
+nlogin.resorces = מקורות 
+nlogin.signup = הירשם כעת!
+no\_of\_clicks = קליקים 
+no\_of\_opens = פתיחות 
+oldfree.error.cf.out.of.limit.Boolean = אינך יכול ליצור יותר מ EHAD שדות בוליאניים מותאים אישית. 
+oldfree.error.cf.out.of.limit.Boolean.Accounts = אינך יכול ליצור יותר מ EHAD שדות בוליאניים מותאמים אישית עבור EFES.
+oldfree.error.cf.out.of.limit.Boolean.Potentials = אינך יכול ליצור יותר מ EHAD שדות בוליאניים מותאמים אישית עבור EFES. 
+oldfree.error.cf.out.of.limit.Date.Accounts =אינך יכול ליצור יותר מ EHAD שדות תאריך מותאמים אישית עבור EFES.
+oldfree.error.cf.out.of.limit.Date.Contacts =אינך יכול ליצור יותר מEHAD שדות תאריך מותאמים אישית עבור EFES.
+oldfree.error.cf.out.of.limit.Date.Potentials = אינך יכול ליצור יותר מ EHAD שדות תאריך מותאמים אישית עבור EFES.
+oldfree.error.cf.out.of.limit.Integer =מספר שדות התאמה אישית הגיע למכסה של EHAD. מכאן ואילך לא ניתן ליצור עוד שדות מסוג זה. 
+oldfree.error.cf.out.of.limit.Integer.Accounts = מספר שדות התאמה אישית הגיע למכסה של EHAD. מכאן ואילך לא ניתן לייצר עוד שדות מסוג זה עבור EFES.
+oldfree.error.cf.out.of.limit.Integer.Contacts = מספר שדות התאמה אישית הגיע למכסה של EHAD. מכאן ואילך לא ניתן לייצר עוד שדות מסוג זה עבור EHAD.
+opened\_location = מיקום פתוח
+optout\_time = זמן בלתי אפשרי
+otheriamuser.crm.large.org = &lrm;CRM עבור אירגונים גדולים &lrm;
+otheriamuser.freeplan.msg = אנחנו מציעים גם &lrm;<a href=""#"" class=""FreePlanLink"" onclick=""chooseEdition('Free');""> תכנית חינמית. </a>&lrm;&lrm;(10 משתמשים חינם)&lrm;. כלי למעקב מכירות עבור יזמים.  
+otheriamuser.freeplan.msg.mixpanel =אנחנו מציעים גם &lrm; <a href=""#"" class=""FreePlanLink"" onclick=""mixpanel.track('Clicked  - Try now',{'Plan':' Free'});chooseEdition('Free');""> תוכנית חינמית </a>&lrm;&lrm;(10 משתמשים חינם)&lrm;. כלי מעקב מכירות עבור יזמים. 
+otheriamuser.nocreditcard = לא נדרש כל כרטיס אשראי
+otheriamuser.trynow = נסה כעת
+others = אחר/ים
+pm = pm 
+rd = rd 
+reason.are = הסיבות הן
+sending = שולח 
+sent\_time = זמן שליחה
+smonday = יום שני 
+social.tw.revoked = ל EFES CRM אין עוד הרשאה לגשת לחשבון טוויטר. נא הגדר מחדש את ההרשאות בחשבון. 
+ssaturday = שבת 
+ssunday = יום ראשון
+st = st 
+sthursday = יום חמישי 
+stuesday = יום שלישי 
+successfully.added = נוסף בהצלחה
+swednesday = יום רביעי 
+syncdirection\_1 =חד-צדדי: לוח השנה של Google ללוח השנה של EFES CRM.
+syncdirection\_2 = חד-צדדי: לוח השנה של EFES CRM ללוח השנה של Google
+syncdirection\_3 = סינכון דו-צדדי
+textarea.info = נא תשומת ליבך לכך ששדה זו לא יהיה זמין עבור אופציות הסינון השונות. לדוגמה: תצוגה מותאמת אישית, דוחו"ת וכולי. 
+th = th 
+view\ zb = צפה ב EFES
+webform.ack.chooseTemplate = שלח לנבחרים מטה תבניות דוא"ל בכל זמן שהוא. 
+webform.ack.chooseTemplate1 = שלח את תבניות הדוא"ל מטה עבור רשומות שאינן עומדות בכלל של תשובה אוטומטית. 
+webform.activate = כן, הפעל כעת
+webform.activate.label = הפעל 
+webform.active.warning = &lrm;<strong> טופס רשת פעיל: </strong> &lrm; &lrm;<br> &lrm; &lrm;<br> &lrm;האם אתה בטוח שברצונך להפוך טופס רשת זה לפעיל?
+webform.advTool.properties = מאפייני כלים מתקדמים
+webform.advTools = כלים מתקדמים
+webform.allToolUsed = כל הכלים שבשימוש
+webform.approval.message = &lrm;(EFES, עם בקשות לאישור יופיע ב &lrm;<a href=""{1}"" target=""_blank"" class=""fbllink""> דף אישור EFES </a>&lrm; עד שיאושר )&lrm;
+webform.approval.tooltip = בקשת אישור תסייע לך לאמת את ה EHAD שנוצר ידנית ולאחמ"כ להוסיף אותו ל SHNAIM CRM.
+webform.approve.success = &lrm;EFES אושר בהצלחה&lrm;
+webform.assign.owner.new = פנה לבעלים
+webform.autoResponse.label = שלח תשובה אוטומטית באמצעות כלל ה"השב אוטומטית".
+webform.autoResponse.manageRule = נהל כלל
+webform.autoResponse.template.label = שלח את תבנית הדוא"ל מטה עבור הרשומות שאינן עונות על הכלל של "השב אוטומטית".
+webform.button.properties = מאפייני לחצן
+webform.captcha = Captcha 
+webform.case.create.contact = כשאתה בודק אפשרות זו, קשרים נוצרים ב CRM כמו בעת שליחת תיקים באמצעות טופס מקוון. הרשומה של התיק תשוייך באופן אוטומטי לאיש הקשר המתאים. זאת רק כאשר איש קשר דומה אינו קיים כבר ב EFES CRM.
+webform.choose.stan.resp = בחר תשובה דיפולטיבית עבור כל המבקרים. 
+webform.choose.template = בחר תבנית דוא"ל
+webform.codeFormat.paidUser = פורמט הקוד של הטופס המקוון שלך:
+webform.codeInstruction.embedCode = העתק את ה "embed code"
+webform.codeInstruction.embedCode1 = השתמש בזה באתר האינטרנט שלך או באתרים נתמכים. 
+webform.codeInstruction.googleAdv1 = נא השתמש בקוד המעקב בתחתית כל דף של אתר האינטרנט שלך. 
+webform.codeInstruction.googleAdv2 = וודא שאתה מדביק זאת ממש לפני תגית הסגירה של body.
+webform.codeInstruction.iFrameCode = העתק את ה 'iFrame Code'
+webform.codeInstruction.iFrameCode1 = השתמש בזה באתר האינטרנט שלך או באתרים נתמכים. 
+webform.codeInstruction.sourceCode = העתק את קוד המקור
+webform.codeInstruction.sourceCode1 = השתמש בזה באתר האיטרנט שלך או באתרים נתמכים. 
+webform.create.newform = &lrm; + צור טופס EFES חדש&lrm;
+webform.createform = צור טופס מקוון
+webform.deactivate = כן, השבת כעת
+webform.deactive.warning =&lrm;<strong> השבת טופס מקוון: </strong>&lrm;&lrm;<br>&lrm;&lrm;<br>&lrm;מרגע השבתת הטופס המקוון כל הרשומות הנשלחות באמצעות טופס זה לא תטופלנה &lrm;<br>&lrm;האם אתה בטוח שברצונך להשבית טופס זה?
+webform.default.slt.fldValidation = נא בחר את ערך ברירת המחדל
+webform.details = פרטי טופס
+webform.directlink = זהו קישור ישיר לטופס שלך , להפצה קלה יותר.  
+webform.drag.drop.note =בניית טופס מקוון קלה הרבה יותר עם מחולל הטפסים החדש "Drag n Drop".
+webform.drag.drop.note1 = בואו נתחיל
+webform.embed.codeFormat = בחר את פורמט הקוד שלך
+webform.embed.fb = Facebook 
+webform.embed.gSiteInfo = ניתן לשבץ טופס מקוון באתרים שלך וכן ניתן לפרסמו לאתר ה Google שלך. 
+webform.embed.gsite = אתרי Google
+webform.embed.iFrame = iFrame 
+webform.embed.mySite = שבץ טופס זה באתרים שלי
+webform.embed.notPaidUser = קוד המקור של הטופס המקוון שלך:
+webform.embed.option = אפשרויות שיבוץ
+webform.embed.source = מקור 
+webform.embed.wordpress = WordPress 
+webform.embed.zohosite = אתרי EFES
+webform.enable.create.contact = אפשר יצירת קשרים
+webform.field.properties.default = ערך ברירת מחדל
+webform.field.properties.default.help = ערך ברירת המחדל שהוזן יישלח ל CRM יחד עם ערכים נוספים במהלך שליחת הטופס. 
+webform.field.properties.help = צרף קישור לעזרה 
+webform.field.properties.help.link.label = טקסט קישור עזרה
+webform.field.properties.help.link.url = כתובת URL של קישור העזרה
+webform.field.properties.help.text = טקסט בלבד
+webform.field.properties.help.text.label = הכנס טקסט
+webform.field.properties.hidden = ציין כשדה נסתר
+webform.field.properties.label = מאפייני שדה 
+webform.field.search = שדות חיפוש
+webform.fileUpload.maxSize = גודל קובץ מירבי אפשרי הינו 20 MB
+webform.fileupload = העלאת קובץ
+webform.fontSize = גודל פונט
+webform.formAlign = יישור תווית
+webform.formAlign.left = ישר לשמאל
+webform.formAlign.right = ישר לימין
+webform.formAlign.top = ישר כלפי מעלה
+webform.formColor = צבע רקע
+webform.formWidth.alertLab = נא הזן את הערך בין 600 ל - 900.
+webform.formWidth.confirm = האם תרצה להגדיר את רוחב הטופס
+webform.formWidth.number = נא ציין רוחב טופס תקין.
+webform.freeUser.FileEmpty = הקובץ אינו זמין. 
+webform.instruction.para1 = נא השתמש בקוד ה snippets מטה כדי לתפוס את הלידים באתרי האינטרנט שלך. 
+webform.instruction.para2 = אתר האינטרנט שלך, Joomla, אתרי EFES, פייסבוק ואתרי Google.
+webform.landingpage = כתובת URL של דף נחיתה
+webform.lar.valid = כלל רישום
+webform.link.createNewTemplate = צור תבנית דוא"ל
+webform.noForm = אין לך טפסי EFES
+webform.notification = התרעה 
+webform.notify.acknowledge = ידע את המבקר
+webform.notify.tooltip = מעדכן את הבעלים של EFES עבור כל רשומה שנשלחה באמצעות טופס זה. 
+webform.notity.acknowledge.tooltip = מידע את המבקרים שבעת שליחת פרטים, באפשרותך לעשות שימוש בתשובה אוטומטית או לשלוח הודעת דוא"ל בתבנית דיפולטיבית עבור כל המבקרים שלך. 
+webform.option.label = אפשרויות 
+webform.ownerNotify = מעדכן את בעל הרשומה בעת שליחת טופס. 
+webform.permalink = &lrm;permalink של הטופס שלך &lrm;
+webform.preview = תצוגה מקדימה 
+webform.publish.gSite = פרסם טופס זה באתר Google שלך. 
+webform.publish.update = עדכנת בהצלחה את אתרך
+webform.reset.empty.alertLab = תווית לחצן אינה יכולה להיות ריקה. 
+webform.submit.empty.alertLab = תווית לחצן אינה יכולה להיות ריקה.
+webform.support.site = &lrm;CMS/אתרים נתמכים&lrm;
+webform.track.googleAdv = מעקב אחר קוד
+webform.trackGoogleAdv.instructionPara = עקוב אחרי שלך
+webform.trackGoogleAdv.instructionPara1 = ביחד עם מידע Google Adwords באמצעות טופס מקוון. 
+webform.untitled.form = טופס ללא שם
+webform.uploadAFile = העלה קובץ
+webform.url.validation = ציין כתובת URL תקינה
+webform.valid.ack.template = בחר תבנית דוא"ל לשליחה
+webform.valid.formLocation = ציין מיקום תקין של הטופס.
+webform.valid.landingpage = ציין דף נחיתה תקין
+webform.visitor.tracking = איתור מבקרים
+webform.width.px = PX 
+webfrom.note = עצב ובנה בכמה דקות מגוון של טפסים מקוונים ובאותה קלות אכסן את המידע במערכת ה CRM שלך. התאם את הטפסים המקוונים שלך לאתרי Google,  פייסבוק, Joomla, WordPress ועוד.    
+webfrom.notify.leadowner = עדכן את הבעלים של EFES
+workflow.alert.wfDeluge.allowedParamNameChars = שם פרמטר יכול  להכיל רק אותיות אנגליות, מספרים וקו תחתון. 
+workflow.confirm.wfDeluge.FunctionConfiguredSuccessfully = פונקציה מותאמת אישית הוגדרה בהצלחה. 
+workflow.confirm.wfDeluge.FunctionModifiedSuccessfully = פונקציה מותאמת אישית עודכנה בהצלחה. 
+workflow.label.singular.wfDeluge = פונקציה מותאמת אישית
+workflow.label.webhooks = Webhooks 
+workflow.label.wfDeluge.FunctionAssociatedToModule = מודולים משוייכים
+workflow.label.wfDeluge.ModuleToAssociateFunction = מודול שיש לשייך
+workflow.label.wfDeluge.NoParamsForTheFunction = מאחר ואין רכיבים זמינים בפונקציה, לא ניתן כעת למפות את שדות EFES CRM עבור המיפוי. כדי לאפשר מיפוי, ספק רכיבים לפונקציה. 
+workflow.label.wfDeluge.galleryDescription = הגדר פונקציה מותאמת אישית שתענה על צרכיך העיסקיים. 
+workflow.label.wfDeluge.methodName = שם מתודה
+workflow.label.wfDeluge.paramValue = ערך 
+workflow.label.wfDeluge.specifyFunctionName = שם פונקציה
+workflow.label.wfDelugeFailure.GetFailureList = קבל רשימת כישלונות
+workflow.label.wfDelugeFailure.noFailureFound = לא נמצאו כישלונות
+workflow.selectOption.wfDeluge.ModuleToAssociateFunction =  - מודולים לשיוך - 
+workflow.wfDeluge.JSAlert.DuplicateParamName = לא ניתן לשכפל שם ארגומנט
+workflow.wfDeluge.failures.unConfirmedEmail = כתובת דוא"ל לא אושרה
+zb.billed = חוייב
+zb.cancelled = בוטל 
+zb.common.EditInvoice = ערוך חשבונית
+zb.common.EditSalesOrder = ערוך הזמנת מכר
+zb.common.EveryYear = בכל שנה
+zb.common.NewSalesOrder = הזמנת מכר חדשה
+zb.draft = טיוטה 
+zb.invoiced = קיבל חשבונית 
+zb.open = פתוח 
+zb.paid = שולם 
+zb.partially_billed = חוייב חלקית
+zb.partially_invoiced = קיבל חשבונית חלקית
+zb.void = חסר 
+zoho.motivator = תמריץ 
+crm.bc.related.mode.info4.reminder = &lrm;<span class='gray fS13'> אירוע עבור EFES EHAD </span>&lrm;
+crm.bc.related.mode.quickview.info = &lrm;<span class='gray fS13'> EFES עבור EHAD SHNAIM </span>&lrm;
+crm.bc.related.mode.info3.reminder =&lrm;<span class='gray fS13'> אירוע עבור EFES עבור EHAD SHNAIM </span>&lrm;
+crm.nsocial.tab.likes = &lrm;<span id=""{0}""> EHAD </span> &lrm; אנשים אהבו את זה. 
+crm.bc.related.mode.info2.reminder = &lrm;<span class='gray fS13'> אירוע עבור </span>&lrm;EFES .
+crm.bc.related.mode.print.info1 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;EFES EHAD.
+crm.bc.related.mode.print.info2 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;EFES.
+crm.bc.related.mode.print.info3 = &lrm;<span class='color2 fS13'> אירוע עבור EFES עבור EHAD SHNAIM </span>&lrm;.
+crm.bc.related.mode.print.info4 = &lrm;<span class='color2 fS13'> אירוע עבור EFES EHAD </span>&lrm;.
+crm.social.keyword.result = חפש תוצאות עבור &lrm;<span class='black proximas'> EFES </span>&lrm; מ &lrm;<span class='black proximas'> EHAD </span>&lrm;.
+crm.mobileaddon.homepage.welcome = הנה כמה &lrm; <span class=""proximas""> חדשות מעולות </span> &lrm; עבורך!
+crm.mobileaddon.homepage.old.refund = &lrm;<br>&lrm;&lrm;<br>&lrm; ההתרגשות אינה מסתיימת כאן. &lrm;<span class=""proximas""> אתה תקבל החזר עבור הפעולה הבנקאית האחרונה שלך </span>&lrm;  עבור תוסף EFES CRM Mobile. כרטיס האשראי שלך  בקובץ EFES CRM יזוכה בסכום של EHAD בתוך 15 ימי עסקים. 
+crm.mobileaddon.homepage.standard = המשתמשים שלך יוכלו כעת ליהנות מ &lrm;<span class=""proximas""> יישום CRM  למובייל בגרסה המלאה </span>&lrm;.כן!  אנחנו מאפשרים למשתמשים שלך גישת מובייל מלאה בהתבסס על הרשאות הפרופיל שלהם ליישום המובייל. אז קדימה, לך והפוך את יישום המובייל ל - Must עבור העסקים שלך.  
