@@ -806,7 +806,7 @@ crm.adword.pushtogoogle = לחץ<br/> למעבר ל-Google
 crm.adword.regeneratehtml = צור מחדש HTML 
 crm.adword.roi = החזר על ההשקעה 
 crm.adword.selectcriteria = להצגת הרשימה בחר קמפיין ו- AdGroup
-crm.adword.setup.heading = בחר בחשבונות Google AdWords  שברצונך לאתר ב &lrm;{0}CRM.&lrm;  
+crm.adword.setup.heading = בחר בחשבונות Google AdWords  שברצונך לאתר ב &lrm;{0}&lrm; CRM. 
 crm.adword.setup.revisednotes1 = שמות ההמרה המתאימים שמוצגים למעלה, יווצרו בחשבון ה Google AdWords שלך עם חלון ברירת מחדל של "90 יום". תוכל לשנות כרצונך את חלון ההמרות ב Google Adwords
 crm.adword.setup.revisednotes2 = "אין לשנות את שמות ההמרה. במידה וישונו השמות, ההמרות ב offline לא יועברו לחשבון ה Google AdWors שלך.
 crm.adword.setup.revisednotes3 = לידים איכותיים מ  Zoho CRM והמרות של Zoho Sales יועברו חזרה ל Google AdWord רק כאשר ההמרות התבצעו בתוך טווח הימים של חלון ההמרות (90 יום כברירת המחדל) החל מתאריך הליד/יצירת הקשר ב Zoho CRM.
@@ -825,12 +825,12 @@ crm.adword.webform.newform1 = "צור <a href=""https://www.zoho.com/crm/help/we
 crm.adword.webform.newform2 = המשך לשלב הבא, שייצור קוד html עם הסקריפטים הנדרשים כלולים בו.
 crm.adword.webform.newform3 = הטמע את קוד ה html באתר האינטרנט שלך. פרסם את ה URL בעמוד ההגדרות שלך ב Google's Ad.
 crm.adword.webform.newform4 =  לחץ על כפתור ריענון בלשונית Google AdWords.
-crm.adword.webform.newform5 = אתר האינטרנט שלך מוכן כעת להעביר את המידע מ Google Adwords ל &lrm;{0}CRM.&lrm; 
+crm.adword.webform.newform5 = אתר האינטרנט שלך מוכן כעת להעביר את המידע מ Google Adwords ל &lrm;{0}&lrm; CRM.
 crm.adword.webform.smalltext = "רוצה לדעת כיצד לגרום לטפסים שלך ב &lrm;{0}&lrm; CRM להופיע כדפי Google Adwords? בא ותראה."
 crm.adword.webformpagetitle = טופס עבור Google AdWords
 crm.adword.webformpagetitle1 = השתמש בקוד שנוצר מהטופס שלהלן והטמע אותו באתר שלך.
 crm.adword.webformpagetitle2 = פרסם את ה URL של האתר שלך ב Google AdWords בעמוד Ad Group.
-crm.adword.webformpagetitle3 = טופס ה web באתר שלך מוכן להעברת לידים בצרוף מידע של Google AdWords ל &lrm;{0}CRM.&lrm;  
+crm.adword.webformpagetitle3 = טופס ה web באתר שלך מוכן להעברת לידים בצרוף מידע של Google AdWords ל &lrm;{0}&lrm; CRM. 
 crm.adword.webmaster.followtext = "הנה הצעדים הפשוטים בכדי לעקוב אחר &lrm;{0}&lrm; ו &lrm;{1}&lrm; בצירוף המידע של Google Adwords מאתריך." 
 crm.adword.webmaster.instruction = נא עקוב אחר ההוראות הבאות
 crm.adword.webmaster.insttowebmaster = הנחיות ל Web Master.
@@ -851,7 +851,7 @@ crm.adwords.mostsuccesscamp.dec =דו"ח המספק תובנות על הקמפי
 crm.adwords.mostsuccesskey.dec = מילות מפתח אשר ייצרו יותר לידים והעלות הכרוכה ביצירתם מופיעים בטבלה שלהלן
 crm.adwords.potbycamp.dec = דו"ח זה יראה את השלבים השונים של הפוטנציאלים, וההכנסות מהם בקמפיינים של Google AdWorsd.
 crm.adwords.salesmetric.dec = "נתונים מעניינים בנוגע למשך הזמן שאורך להמיר ליד, לסגור מכירה ומחזור החיים הכולל עבור Google AdWorsd. "
-crm.adwords.webform.pushtext = "נא אפשר את האופציה הבאה כדי למקם את הטופס שלך בעמוד Google AdWords וכדי להעביר מידע ל &lrm;{0}CRM.&lrm;  "
+crm.adwords.webform.pushtext = "נא אפשר את האופציה הבאה כדי למקם את הטופס שלך בעמוד Google AdWords וכדי להעביר מידע ל &lrm;{0}&lrm; CRM. "
 crm.alert.approval.rejection.template = אנא בחר תבנית דואר אלקטרוני 
 crm.alert.approval.select.module = אנא בחר מודול 
 crm.alert.approver.group.alert = כבר בחרת קבוצה זו. אנא בחר קבוצה שונה. 
@@ -980,15 +980,15 @@ crm.bc.related.mode.info1 = &lrm;<span class='gray fS13'> אירוע עבור </
 crm.bc.related.mode.info1.reminder = &lrm;<span class='gray fS13'> אירוע עבור</span>&lrm;&lrm;{0} {1}&lrm;
 crm.bc.related.mode.info2 = &lrm;<span class='gray fS13'> אירוע עבור </span>&lrm;{0}&lrm;    
 crm.bc.related.mode.info2.reminder = &lrm;<span class='gray fS13'> אירוע עבור </span>&lrm;{0}&lrm; 
-crm.bc.related.mode.info3 = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span> &lrm;
-crm.bc.related.mode.info3.reminder = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span> 
-crm.bc.related.mode.info4 = <span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; {1}&lrm; </span>&lrm; 
-crm.bc.related.mode.info4.reminder = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; {1}&lrm; </span> &lrm;
-crm.bc.related.mode.print.info1 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm; ( &lrm;{1}&lrm; ) &lrm;
+crm.bc.related.mode.info3 = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span> &lrm;
+crm.bc.related.mode.info3.reminder = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span> 
+crm.bc.related.mode.info4 = <span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; &lrm;{1}&lrm; </span>&lrm; 
+crm.bc.related.mode.info4.reminder = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; &lrm;{1}&lrm; </span> &lrm;
+crm.bc.related.mode.print.info1 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm; &lrm;( &lrm;{1}&lrm; ) &lrm;
 crm.bc.related.mode.print.info2 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm; 
-crm.bc.related.mode.print.info3 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span> &lrm;
-crm.bc.related.mode.print.info4 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; {1}&lrm; </span> &lrm;
-crm.bc.related.mode.quickview.info = &lrm;<span class='gray fS13'>&lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span> &lrm;
+crm.bc.related.mode.print.info3 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span> &lrm;
+crm.bc.related.mode.print.info4 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; &lrm;{1}&lrm; </span> &lrm;
+crm.bc.related.mode.quickview.info = &lrm;<span class='gray fS13'>&lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span> &lrm;
 crm.blank.state.CustomModule5001 = קבלות ZB
 crm.blank.state.CustomModule5002 = אומדני ZB
 crm.blank.state.CustomModule5003 = הזמנות רכש של ZB 
@@ -997,7 +997,7 @@ crm.blank.state.intro.CustomModule5001 = חשבוניות שנוצרו באמצ�
 crm.blank.state.intro.CustomModule5002 = אומדנים שנוצרו באמצעות שילוב חשבוניות/רישומים
 crm.blank.state.intro.CustomModule5003 = הזמנות רכש שנוצרו באמצעות שילוב חשבוניות/רישומים 
 crm.blank.state.intro.CustomModule5004 = הזמנות מכירה שנוצרו באמצעות שילוב חשבוניות/רישומים
-crm.body.rejection.mail =  "לצערנו, בקשת האישור שלך  עבור  &lrm;{0}&lrm; {1}&lrm; נדחתה על ידי המאשר. אנא דבר עם &lrm;{2}&lrm;." 
+crm.body.rejection.mail =  "לצערנו, בקשת האישור שלך  עבור  &lrm;{0}&lrm; &lrm;{1}&lrm; נדחתה על ידי המאשר. אנא דבר עם &lrm;{2}&lrm;." 
 crm.books.changeuser.header = שנה משתמש 
 crm.books.configure.books.btnlabel = קביעת תצורה של ספרי &lrm;{0}&lrm;  
 crm.books.configure.email = "כתובת דואל" 
@@ -1336,7 +1336,7 @@ crm.duplicate.module = שכפל את &lrm;{0}&lrm;
 crm.duplicate.value.available =נמצא &lrm;{0}&lrm; עם אותו ה &lrm;{1}&lrm;.
 crm.duplicate.value.available.merge = " נמצא &lrm;{1}&lrm; כפול עם אותו &lrm;{3}&lrm; . נא  &lrm;<a target=""_blank"" href=""/crm/EntityDuplicate.do?module={0}&id={2}&newTab=yes&findDupFldName={3}""> מזג את &lrm;{1}&lrm; </a>&lrm; והמשך.  "
 crm.duplicate.value.available.multiple = נמצא יותר מ &lrm;{0}&lrm; אחד עם אותו &lrm;{1}&lrm;.
-crm.duplicate.value.available.view = &lrm; {1}&lrm; עם אותו &lrm;{3}&lrm; כבר קיים.  <a target='_blank' href='EntityInfo.do?module={0}&id={2}'> צפה ב &lrm;{1}&lrm; </a> &lrm;
+crm.duplicate.value.available.view = &lrm; &lrm;{1}&lrm; עם אותו &lrm;{3}&lrm; כבר קיים.  <a target='_blank' href='EntityInfo.do?module={0}&id={2}'> צפה ב &lrm;{1}&lrm; </a> &lrm;
 crm.duration.hours = &lrm;&lrm;{0}&lrm; שעות&lrm;
 crm.duration.minutes = &lrm;&lrm;{0}&lrm; דקות &lrm;
 crm.duration.one.hour = שעה אחת
@@ -1388,7 +1388,7 @@ crm.event.ends.time = מסיים את &lrm;{0}&lrm;
 crm.event.field.create.choose.avali.feilds = בחר משדות זמינים 
 crm.event.field.create.label.add.fields = הוסף שדות
 crm.event.field.create.new.field = צור שדה חדש 
-crm.event.inv.by.msg.other = &lrm; {0}&lrm; הזמין את &lrm;{1}&lrm;&lrm;
+crm.event.inv.by.msg.other = &lrm; &lrm;{0}&lrm; הזמין את &lrm;{1}&lrm;&lrm;
 crm.event.inv.by.msg.you = &lrm;&lrm;{0}&lrm; הזמין אותך&lrm;
 crm.event.inv.cancel.alert.msg1 = לבטל אירוע? 
 crm.event.inv.cancel.alert.msg2 = האם אתה רוצה להודיע ​​לאורחים שלך על ידי שליחת הודעת ביטול בדוא"ל?
@@ -1416,17 +1416,17 @@ crm.event.month.lastworkday.msg7 = בכל יום עבודה אחרון של הח
 crm.event.month.lastworkday.msg8 = בכל &lrm;{0}&lrm; חודשים ביום העבודה האחרון, החל מ &lrm;{0}&lrm;, &lrm;{2}&lrm; פעמים.. 
 crm.event.month.msg1 = בכל יום &lrm;{0}&lrm; של החודש החל מ &lrm;{0}&lrm;.
 crm.event.month.msg10 = בכל &lrm;{0}&lrm; חודשים, ב &lrm;{0}&lrm; החל מ &lrm;{2}&lrm; עד &lrm;{3}&lrm;.
-crm.event.month.msg11 = בכל &lrm;{0}&lrm; {0}&lrm; של החודש, החל מ &lrm;{2}&lrm; עד &lrm;{3}&lrm;.
-crm.event.month.msg12 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; {2}&lrm; החל מ &lrm;{3}&lrm; עד &lrm;{4}&lrm;.
+crm.event.month.msg11 = בכל &lrm;{0}&lrm; &lrm;{0}&lrm; של החודש, החל מ &lrm;{2}&lrm; עד &lrm;{3}&lrm;.
+crm.event.month.msg12 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; &lrm;{2}&lrm; החל מ &lrm;{3}&lrm; עד &lrm;{4}&lrm;.
 crm.event.month.msg2 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; החל מ &lrm;{2}&lrm;.
-crm.event.month.msg3 = בכל &lrm;{0}&lrm; {0}&lrm; של החודש, החל מ &lrm;{2}&lrm;.
-crm.event.month.msg4 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; {2}&lrm; החל מ &lrm;{3}&lrm;.
+crm.event.month.msg3 = בכל &lrm;{0}&lrm; &lrm;{0}&lrm; של החודש, החל מ &lrm;{2}&lrm;.
+crm.event.month.msg4 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; &lrm;{2}&lrm; החל מ &lrm;{3}&lrm;.
 crm.event.month.msg5 = בכל יום &lrm;{0}&lrm; של החודש, החל מ &lrm;{0}&lrm;, &lrm;{2}&lrm; פעמים .
 crm.event.month.msg6 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; החל מ &lrm;{2}&lrm;, &lrm;{3}&lrm; פעמים. 
-crm.event.month.msg7 = בכל &lrm;{0}&lrm; {0}&lrm; שלח החודש, החל מ &lrm;{2}&lrm;, &lrm;{3}&lrm; פעמים. 
-crm.event.month.msg8 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; {2}&lrm;, החל מ &lrm;{3}&lrm;, &lrm;{4}&lrm;  פעמים. 
+crm.event.month.msg7 = בכל &lrm;{0}&lrm; &lrm;{0}&lrm; שלח החודש, החל מ &lrm;{2}&lrm;, &lrm;{3}&lrm; פעמים. 
+crm.event.month.msg8 = בכל &lrm;{0}&lrm; חודשים ב &lrm;{0}&lrm; &lrm;{2}&lrm;, החל מ &lrm;{3}&lrm;, &lrm;{4}&lrm;  פעמים. 
 crm.event.month.msg9 = בכל יום &lrm;{0}&lrm; של החודש, החל מ &lrm;{0}&lrm; עד &lrm;{2}&lrm;.
-crm.event.more.event = &lrm; {0}&lrm; יותר&lrm;
+crm.event.more.event = &lrm; &lrm;{0}&lrm; יותר&lrm;
 crm.event.notification.assignee.msg = &lrm;#CREATORNAME&lrm; קבע עבורך אירוע.
 crm.event.pref.days.passed = יום/ימים אחרי שהם עברו. 
 crm.event.quickview.inv.mystatus =הסטאטוס שלי 
@@ -1442,7 +1442,7 @@ crm.event.rec.last.day = יום
 crm.event.rec.last.working.day = יום עבודה 
 crm.event.recent.view.label = נצפה לאחרונה 
 crm.event.recurring.turnon.msg = הפעל עבור אירועים חוזרים 
-crm.event.related.myinv.info = &lrm;<span class='gray fS13'> &lrm;{0}&lrm; עבור &lrm;{0}&lrm; {2}&lrm; </span> &lrm; 
+crm.event.related.myinv.info = &lrm;<span class='gray fS13'> &lrm;{0}&lrm; עבור &lrm;{0}&lrm; &lrm;{2}&lrm; </span> &lrm; 
 crm.event.remind.allday.days =&lrm;&lrm;{0}&lrm;&lrm; ימים לפני&lrm; (&lrm;{0}&lrm;)&lrm;
 crm.event.remind.allday.week = שבוע &lrm;{0}&lrm; לפני  &lrm;( &lrm;{0}&lrm; ) &lrm;
 crm.event.remind.day = יום &lrm;{0}&lrm; לפני 
@@ -1474,7 +1474,7 @@ crm.events.inv.add.alert = הזמנה בדוא"ל תישלח למצטרפי &lrm
 crm.events.label.plural.noOfEvents = &lrm;&lrm;{0}&lrm; אירועים &lrm;
 crm.events.label.singular.noOfEvent = אירוע &lrm;{0}&lrm;
 crm.export.already.scheduled =  נקבע כבר זמן לגיבוי. נא בדוק זאת  &lrm;<a href=""{0}"" target=""_blank""> כאן </a>&lrm;
-crm.export.calendar.filename = &lrm; {0}&lrm; של &lrm;{0}&lrm;&lrm; 
+crm.export.calendar.filename = &lrm; &lrm;{0}&lrm; של &lrm;{0}&lrm;&lrm; 
 crm.facebook.addPage.caption = בחר באחד מדפי הפייסבוק הבאים כדי להוסיפם
 crm.facebook.addPage.title = הוסף דף פייסבוק
 crm.facebook.auth.error = נוצרה בעיה בזמן ההתקשרות לפייסבוק. נא נסה שוב מאוחר יותר 
@@ -1485,7 +1485,7 @@ crm.feature.early.access = גישה מוקדמת !
 crm.feed.attached.files = קובץ/קבצים מצורפים
 crm.feed.blankstate.first = כתוב את הודעתך הראשונה!
 crm.feed.blankstate.message = מסייע לך לתקשר עם הצוות שלך ולשתף אותו בצורה אפקטיבית יותר. עקוב אחר ההתרחשויות, והישאר במרכז העניינים - דבר שחשוב עבורך ביותר.
-crm.feed.delete.by =&lrm;&lrm;{0}&lrm; ביטל <a href=javascript:; onclick='feedShowBulkRecords(this);sE(event)'>&lrm;{0}&lrm; {2}&lrm;/ים</a>&lrm; 
+crm.feed.delete.by =&lrm;&lrm;{0}&lrm; ביטל <a href=javascript:; onclick='feedShowBulkRecords(this);sE(event)'>&lrm;{0}&lrm; &lrm;{2}&lrm;/ים</a>&lrm; 
 crm.feed.displaying.all.comment = מציג את כל הערותיו של &lrm;{0}&lrm;
 crm.feed.dropfiles = שחרר קבצים כאן כדי להעלותם
 crm.feed.dropzone.browser.notsupport = הדפדפן שלך לא תומך בהעלאת קבצים באמצעות"drag 'n' drop".
@@ -1505,17 +1505,17 @@ crm.feed.group.view.othergroups = צפה בקבוצות נוספות
 crm.feed.mail.view.feed = צפה בהזנה
 crm.feed.mail.view.message = צפה בהערות
 crm.feed.mail.view.status = צפה בסטאטוס 
-crm.feed.mass.update.by = &lrm;&lrm;{0}&lrm; עדכן את  &lrm;&lrm; <a href=javascript:; onclick='feedShowBulkRecords(this);sE(event)'>&lrm;{2}&lrm; {0}&lrm;/ים</a>&lrm; ערך הרשומה &lrm;{3}&lrm; כ &lrm;{4}&lrm; 
-crm.feed.mass.update.by.without.value = &lrm; {0}&lrm;  &lrm; עדכן את <a href=javascript:; onclick='feedShowBulkRecords(this);sE(event)'> &lrm;{2}&lrm; {0}&lrm;/ים </a>&lrm;  ערך &lrm;{3}&lrm; של הרשומה. 
+crm.feed.mass.update.by = &lrm;&lrm;{0}&lrm; עדכן את  &lrm;&lrm; <a href=javascript:; onclick='feedShowBulkRecords(this);sE(event)'>&lrm;{2}&lrm; &lrm;{0}&lrm;/ים</a>&lrm; ערך הרשומה &lrm;{3}&lrm; כ &lrm;{4}&lrm; 
+crm.feed.mass.update.by.without.value = &lrm; &lrm;{0}&lrm; &lrm; &lrm; עדכן את <a href=javascript:; onclick='feedShowBulkRecords(this);sE(event)'> &lrm;{2}&lrm; &lrm;{0}&lrm;/ים </a>&lrm;  ערך &lrm;{3}&lrm; של הרשומה. 
 crm.feed.no.parent.involve = אפס
 crm.feed.no.parententity.ownorfollow = אין כל  &lrm;{0}&lrm; בבעלותך או בין אלו שאתה עוקב אחריהם. 
 crm.feed.notification.comment.simple = &lrm;&lrm;{0}&lrm; הזכיר אותך בתגובה שלו  &lrm;
 crm.feed.notification.comment.simple.group = &lrm;&lrm;{0}&lrm; הזכיר את &lrm;{0}&lrm; - &lrm;{2}&lrm; שלך בתגובה שלו. &lrm;
-crm.feed.notification.direct = &lrm; {0}&lrm; שלח הודעה ישירה ל &lrm;{0}&lrm; {2}&lrm; שלך. &lrm;
+crm.feed.notification.direct = &lrm; &lrm;{0}&lrm; שלח הודעה ישירה ל &lrm;{0}&lrm; &lrm;{2}&lrm; שלך. &lrm;
 crm.feed.notification.direct.you = &lrm;&lrm;{0}&lrm; שלח לך הודעה ישירה. &lrm;
-crm.feed.notification.subj.status = &lrm; {0}&lrm; הזכיר את &lrm;{0}&lrm; {2}&lrm; שלך ב &lrm;{3}&lrm;&lrm;
-crm.feed.notification.subj.you = &lrm; {0}&lrm; הזכיר אותך ב &lrm;{0}&lrm; ב &lrm;{2}&lrm; - &lrm;{3}&lrm;.&lrm;
-crm.feed.notification.subj.you.status = &lrm; {0}&lrm; הזכיר אותך ב &lrm;{0}&lrm;&lrm;
+crm.feed.notification.subj.status = &lrm; &lrm;{0}&lrm; הזכיר את &lrm;{0}&lrm; &lrm;{2}&lrm; שלך ב &lrm;{3}&lrm;&lrm;
+crm.feed.notification.subj.you = &lrm; &lrm;{0}&lrm; הזכיר אותך ב &lrm;{0}&lrm; ב &lrm;{2}&lrm; - &lrm;{3}&lrm;.&lrm;
+crm.feed.notification.subj.you.status = &lrm; &lrm;{0}&lrm; הזכיר אותך ב &lrm;{0}&lrm;&lrm;
 crm.feed.share.something = היי! מה קורה?
 crm.feed.tab.name = הזנות
 crm.feed.update.change = השתנה מ 
@@ -1565,7 +1565,7 @@ crm.field.label.text.area = רב קו
 crm.field.label.unique = ייחודי 
 crm.field.label2 = שדה 
 crm.field.limit.reaches.v1 = השדה  הגיע לגבול המרבי המותר לו. מחק שדות ישנים בכדי ליצור חדשים.
-crm.field.limit.reaches.v2 = ניתן ליצור רק &lrm;{0}&lrm; {0}&lrm;. 
+crm.field.limit.reaches.v2 = ניתן ליצור רק &lrm;{0}&lrm; &lrm;{0}&lrm;. 
 crm.field.limit.reaches.v3 = בדוק כאן את הגבול המורשה של השדה
 crm.field.limit.reaches.v4 = הגעת לגבול המירבי המותר. 
 crm.field.mandatory.unable.dontshow.v1 = שדות חובה אינם  יכולים להיות מסומנים כ'מוסתר'. אנא בדוק את תכונות השדות. 
@@ -1607,8 +1607,8 @@ crm.gapps.user.desc4 = אם אינך Google Admin נא צור קשר עם Google
 crm.gcontact.dirction\_1.desc = סנכרן רק את קשרי &lrm;{0}&lrm; CRM שלך עם קשריך ב Google. 
 crm.gcontact.dirction\_1.syncs = מסנכרן רק את קשרי &lrm;{0}&lrm; CRM שלך עם קשריך ב Google.
 crm.gcontact.dirction\_1.title = חד-צדדי: קשרי &lrm;{0}&lrm; CRM לקשרי Google.
-crm.gcontact.dirction\_2.syncs = מסנכרן רק את קשרי Google עם קשריך ב &lrm;{0}CRM.&lrm; 
-crm.gcontact.dirction\_2.title = חד צדדי: קשרי Google עם קשרי &lrm;{0}CRM.&lrm; 
+crm.gcontact.dirction\_2.syncs = מסנכרן רק את קשרי Google עם קשריך ב &lrm;{0}&lrm; CRM.
+crm.gcontact.dirction\_2.title = חד צדדי: קשרי Google עם קשרי &lrm;{0}&lrm; CRM.
 crm.gcontact.dirction\_3.desc = סנכרן גם את קשריך ב &lrm;{0}&lrm; CRM וגם את קשריך ב Google - אלו עם אלו. 
 crm.gcontact.dirction\_3.syncs = מסנכרן גם את קשריך ב &lrm;{0}&lrm; CRM וגם את קשריך ב Google אלו עם אלו. 
 crm.gcontact.dirction\_3.title = סינכרון דו - צדדי. 
@@ -1627,7 +1627,7 @@ crm.heading.delete.field.fieldlabel = מחק את שדה &lrm;{0}&lrm;
 crm.heading.remove.field = הסר שדה
 crm.heading.remove.field.fieldlabel = הסר את שדה &lrm;{0}&lrm;
 crm.homepage.welcome.user = ברוך הבא &lrm;{0}&lrm;
-crm.homepage.welcome.user.at.company = &lrm;&lrm;{0}&lrm;, ברוך הבא ל &lrm;{0}&lrm; 
+crm.homepage.welcome.user.at.company = &lrm;&lrm;{0}&lrm;, ברוך הבא ל &lrm;{0}&lrm; &lrm;
 crm.how.to.enable.javascript = כיצד לאפשר javascript?
 crm.html.adword.deactive.note4 = המרות ה &lrm;#BRANDLABEL&lrm; CRM לא תיובאנה לחשבון ה Google AdWords שלך.  
 crm.html.mail.import.failure.info1 = שגיאה בלתי  צפויה אירעה בעת הניסיון לייבא מידע מהקובץ &lrm; #FILENAME&lrm;. 
@@ -1654,7 +1654,7 @@ crm.imap.fetch.error = בעיה בקבלת מייל. נא נסה שנית מאו
 crm.imap.from.address.info = נא וודא שכבר הוספת את כתובת המייל הנתונה לשרת המייל כאחת מכתובות השולחים .
 crm.imap.message.locked = תצורת ה IMAP שלך פעילה אולם חסומה על ידי ה Admin שלך. &lrm;<br>&lrm; נא צור קשר עם ה Admin שלך במידה ואתה רוצה לשנות את התצורה. 
 crm.imap.note1 = צפה באימיילים שלך ממש בתוך קונטקסט הרשומות 
-crm.imap.note2 = שלח/קבל מיילים מתוך &lrm;{0}CRM.&lrm;  
+crm.imap.note2 = שלח/קבל מיילים מתוך &lrm;{0}&lrm; CRM. 
 crm.imap.note3 = שמור את תיבת הדואר שלך מסונכרנת. 
 crm.imap.note4 = מספק התראות מיידיות באמצעות MailMagnet.
 crm.imap.note5 =לשונית אימייל עדיין אינה נתמכת עבור IMAP. 
@@ -1681,7 +1681,7 @@ crm.import.error.empty.mandatory = ערכים ריקים בשדות חובה
 crm.import.error.empty.uid = ערך ריק ב UID. 
 crm.import.error.event.invalid.start.time = זמן/תאריך ההתחלה צריך להיות קטן מ או שווה לזמן/תאריך הסיום. 
 crm.import.error.file.not.found = הקובץ לא נמצא. נא בדוק את ה id של הקבצים המצורפים. 
-crm.import.error.forbidden.zoho.domain =&lrm;domain אי-מייל אסור .לדוגמה, איננו מאפשרים משתמשים עם כתובת אי-מייל כמו &lrm; '@zoho.com'&lrm; 
+crm.import.error.forbidden.zoho.domain =&lrm;domain אי-מייל אסור .לדוגמה, איננו מאפשרים משתמשים עם כתובת אי-מייל כמו &lrm; '@zoho.com'&lrm; &lrm;
 crm.import.error.invalid.date = תבנית תאריך לא ידועה. נא עיין בתבנית התאריך שנבחרה בזמן הייבוא. 
 crm.import.error.invalid.email = כתובת מייל אינה תקינה
 crm.import.error.invalid.number = מספר לא תקין
@@ -1693,14 +1693,14 @@ crm.import.failed = הייבוא נכשל
 crm.import.failed.abruptly = הייבוא נכשל בפתאומיות. 
 crm.import.file.too.large = מצטערים! המערכת אינה יכולה לייבוא יותר מ &lrm;{0}&lrm; אירועים בפעם אחת. נא ספק כמה קבצים אחרים 
 crm.import.find.duplicates.by = מצא כפילויות באמצעות 
-crm.import.findby.help.answer1.part1 = על ידי בחירת שדה כאן תוכל למנוע יצירת רשומות כפולות ב &lrm;{0}CRM.&lrm;  
-crm.import.findby.help.answer1.part2 = כאשר אתה בוחר שדה, הערך של השדה הנבחר מקובץ הייבוא ישמש למציאת רשומות תואמות הקיימות ב &lrm;{0}CRM.&lrm;  
+crm.import.findby.help.answer1.part1 = על ידי בחירת שדה כאן תוכל למנוע יצירת רשומות כפולות ב &lrm;{0}&lrm; CRM. 
+crm.import.findby.help.answer1.part2 = כאשר אתה בוחר שדה, הערך של השדה הנבחר מקובץ הייבוא ישמש למציאת רשומות תואמות הקיימות ב &lrm;{0}&lrm; CRM. 
 crm.import.findby.help.answer1.part3 = בעת הזיהוי של הרשומה התואמת, &lrm;{0}&lrm; CRM ידלג, יכתוב מחדש או ישכפל את הרשומות, בהתאם לבחירה שנעשתה מעל. 
 crm.import.findby.help.answer1.part3.point1 = במידה ובחרת "דלג", הכפילויות מקובץ הייבוא לא תיובאנה. 
-crm.import.findby.help.answer1.part3.point2 = במידה ובחרת "כתוב מחדש" רשומות קיימות יעודכנו ב &lrm;{0}&lrm; CRM ורשומות חדשות מקובץ הייבוא יתווספו ב &lrm;{0}CRM.&lrm; 
+crm.import.findby.help.answer1.part3.point2 = במידה ובחרת "כתוב מחדש" רשומות קיימות יעודכנו ב &lrm;{0}&lrm; CRM ורשומות חדשות מקובץ הייבוא יתווספו ב &lrm;{0}&lrm; CRM.
 crm.import.findby.help.answer1.part3.point3 = במידה ובחרת "שכפל", רשומות כפולות בקובץ הייבוא יתווספו שוב ב &lrm;{0}&lrm; CRM מבלי שייעשה כל שינוי ברשומות הקיימות. 
-crm.import.findby.help.answer2.part1 = &lrm; Record ID היא תכונת מערכת ספציפית במיוחד ל &lrm;{0}CRM.&lrm;  מאחר וכך, כדי שקובץ הייבוא שלך יכלול את השדה Record ID של &lrm;{0}&lrm; CRM חובה לייצא קודם את הרשומות מ &lrm;{0}&lrm; CRM&lrm;.
-crm.import.findby.help.answer2.part2 = להלן תרחיש לדוגמה: אתה מייצא לידים מ &lrm;{0}&lrm; CRM בגיליון אלקטרוני, מבצע שינויים בכמה רשומות ומייבא אותן חזרה ל &lrm;{0}CRM.&lrm;   במקרה כזה יהיה מתאים לבחור את השדה Lead ID כשדה הייחודי, מאחר ואתה רק מייבא חזרה לידים שיוצאו מ &lrm;{0}&lrm; CRM מלכתחילה. בצורה זו &lrm;{0}&lrm; CRM מחפש IDs תואמים של לידים ומעדכן את הרשומות התואמות. 
+crm.import.findby.help.answer2.part1 = &lrm; Record ID היא תכונת מערכת ספציפית במיוחד ל &lrm;{0}&lrm; CRM. מאחר וכך, כדי שקובץ הייבוא שלך יכלול את השדה Record ID של &lrm;{0}&lrm; CRM חובה לייצא קודם את הרשומות מ &lrm;{0}&lrm; CRM&lrm;.
+crm.import.findby.help.answer2.part2 = להלן תרחיש לדוגמה: אתה מייצא לידים מ &lrm;{0}&lrm; CRM בגיליון אלקטרוני, מבצע שינויים בכמה רשומות ומייבא אותן חזרה ל &lrm;{0}&lrm; CRM.  במקרה כזה יהיה מתאים לבחור את השדה Lead ID כשדה הייחודי, מאחר ואתה רק מייבא חזרה לידים שיוצאו מ &lrm;{0}&lrm; CRM מלכתחילה. בצורה זו &lrm;{0}&lrm; CRM מחפש IDs תואמים של לידים ומעדכן את הרשומות התואמות. 
 crm.import.findby.help.answer2.part3 =זכור: אל תבחר את Record ID כשדה הייחודי אם אינך מבצע מעבר ממערכת CRM אחרת או מחשבון &lrm;{0}&lrm; CRM שונה. במקרה כזה, ה Record ID אינו יכול להתאים לשום רשומה קיימת. במקום זאת, השתמש בשדה ייחודי אחר כדי לזהות כפילויות.  
 crm.import.findby.help.answer3.part1 = כן, מעבר לשדות המערכת היחודיים משתמשים יכולים כעת להגדיר שדה מותאם אישית כשדה ייחודי. לדוגמה, במודול הלידים, מעבר לשדה Email ID, משתמש יכול ליצור שדה הנקרא " מספר ביטחון חברתי", ולהגדירו כשדה יחודי על ידי בחירת " אל תאפשר ערכים כפולים" בשדה התכונות שלו.   
 crm.import.imported = יובא  
@@ -1751,8 +1751,8 @@ crm.inv.mail.status.link.yes = כן
 crm.inv.mail.sub.cancel.msg = בוטל אירוע: &lrm;{0}&lrm; ב &lrm;{0}&lrm; 
 crm.inv.mail.sub.inv.msg = הזמנה: &lrm;{0}&lrm; ב &lrm;{0}&lrm; 
 crm.inv.mail.sub.mod.msg = הזמנה מעודכנת: &lrm;{0}&lrm; ב &lrm;{0}&lrm;  
-crm.inv.mail.time.two.days =&lrm; {0}&lrm;&lrm;<span style='color:#ababab'> עד </span>&lrm; {0}&lrm; 
-crm.inv.mail.time.two.days.subject =&lrm; {0}&lrm; - &lrm;{0}&lrm; 
+crm.inv.mail.time.two.days =&lrm; &lrm;{0}&lrm;&lrm;<span style='color:#ababab'> עד </span>&lrm; &lrm;{0}&lrm; &lrm;
+crm.inv.mail.time.two.days.subject =&lrm; &lrm;{0}&lrm; - &lrm;{0}&lrm; &lrm;
 crm.invalidinvite.msg = תוקף קישור ההזמנה פג. בקש מ &lrm;{0}&lrm; להזמינך שוב להצטרף לחשבון CRM של &lrm;{0}&lrm;.
 crm.inventory.add.new.product = הוסף מוצר חדש
 crm.inventory.alert.delete.lineitem = האם אתה בטוח שברצונך להסיר מוצר line זה?
@@ -1798,7 +1798,7 @@ crm.javascript.required = &lrm; javascript נדרש &lrm;
 crm.kanbanview.rightpanel.title.info = מידע 
 crm.kanbanview.rightpanel.title.timeline = ציר זמן 
 crm.krp.create.potential.msg = רוצה ליצור 
-crm.krp.entity.created.success.msg = &lrm; {0}&lrm; בהצלחה&lrm;
+crm.krp.entity.created.success.msg = &lrm; &lrm;{0}&lrm; בהצלחה&lrm;
 crm.krp.entity.created.success.msg1 = נוצר בהצלחה 
 crm.krp.entity.followup.msg = רוצה ליצור מעקב
 crm.krp.no.records.found = &lrm;&lrm;{0}&lrm; לא נמצא&lrm;
@@ -1861,7 +1861,7 @@ crm.label.choose.levels = בחר רמות
 crm.label.close.my.crm.acc = מחק חשבון CRM
 crm.label.commentsForDelegation = הערתך תסייע לו/לה להגיע להחלטה.
 crm.label.continents = יבשות 
-crm.label.copyrite = &lrm; {0}&lrm; {0}&lrm; Corp.&lrm;
+crm.label.copyrite = &lrm; &lrm;{0}&lrm; &lrm;{0}&lrm; Corp.&lrm;
 crm.label.countries = ארצות 
 crm.label.create.first.followup = צור את כלל המעקב האוטומטי הראשון שלך.
 crm.label.create.new = צור חדש 
@@ -2108,7 +2108,7 @@ crm.lead.convert.select.ac = נא בחר ביצוע &lrm;{0}&lrm;
 crm.lead.convert.select.ac.cn = נא בחר &lrm;{0}&lrm; ו &lrm;{1}&lrm;
 crm.license.activate.users.instruction1 = דף זה מאפשר לך להפוך את המשתמשים לפעילים ולשאינם פעילים. המספר המירבי של משתמשים פעילים אמור להיות קטן מ או שווה למספר המשתמשים המורשים. 
 crm.listview.delete.alert.participant = האם תרצה לעדכן את האורחים, באירועים המתאימים שלהם, על ידי שליחת הודעת ביטול בדוא"ל?
-crm.listview.selected.records = &lrm;<span class='openSansSemiBold mL3 mR3 f12 bold'> &lrm;{0}&lrm; </span>&lrm;&lrm;<span> &lrm; {1}&lrm; נבחר &lrm;</span> &lrm;
+crm.listview.selected.records = &lrm;<span class='openSansSemiBold mL3 mR3 f12 bold'> &lrm;{0}&lrm; </span>&lrm;&lrm;<span> &lrm; &lrm;{1}&lrm; נבחר &lrm;</span> &lrm;
 crm.livedesk.account = חשבון &lrm;{0}&lrm; SalesIQ
 crm.livedesk.assign = הקצה את אלו 
 crm.livedesk.assign1 = למשתתף בצ'אט
@@ -2149,7 +2149,7 @@ crm.livedesk.keybenefits4 = כלי אפקטיבי ליצירת לידים, המ�
 crm.livedesk.mail.failed = שגיאה לא ידועה אירעה. נא נסה שוב מאוחר יותר. 
 crm.livedesk.mail.sent = תאריך נקבע לאימון בהצלחה
 crm.livedesk.main.section = זהה ואתר את מבקרי האתר שלך ישירות מתוך CRM
-crm.livedesk.membes.tip = בחר את רשימת המשתמשים שתרצה להעביר כסוכנים ב &lrm;{0}&lrm; SalesIQ. רק משתמשי EDES SalesIQ יקבלו עדכוני מבקרים חיים בתוך &lrm;{0}CRM.&lrm;   
+crm.livedesk.membes.tip = בחר את רשימת המשתמשים שתרצה להעביר כסוכנים ב &lrm;{0}&lrm; SalesIQ. רק משתמשי EDES SalesIQ יקבלו עדכוני מבקרים חיים בתוך &lrm;{0}&lrm; CRM.  
 crm.livedesk.message = קבל עדכונים מידיים הישר מתוך CRM שלך בכל פעם שמישהו מבקר באתרך! בנוסף, התמקצע בלכידת תשומת הלב שלהם!
 crm.livedesk.message1 = אינטגרציה של &lrm;{0}&lrm; CRM עם  &lrm;{0}&lrm; SalesIQ  יוצרת מעקב מבקרים מקיף וגם כלי web אנליטי שמעניק לך את היכולת להכיר את מבקרי האתר שלך ואת היסטוריית הפעילויות שלהם בתוך CRM שלך. 
 crm.livedesk.nowin = כעת ב 
@@ -2181,10 +2181,10 @@ crm.livedesk.section2.heading = הרשם את המבקרים שלך
 crm.livedesk.section3.data = כל ה &lrm;\u201CCRM view\u201D&lrm; החדש שומר על המבקרים שלך מאורגנים. 
 crm.livedesk.section4.heading = בקיצור נמרץ
 crm.livedesk.section5.heading = התחל להנות את המבקרים שלך היום...
-crm.livedesk.send.mail.content = שלום, &lrm;<br>&lrm;&lrm;<br>&lrm; אנחנו צריכים להוסיף פונקציונאליות של מעקב מבקרים &lrm;(שמופעלת על ידי &lrm;{2}&lrm; SalesIQ)&lrm;  באתר שלנו. זו פלטפורמה בעלת אינטליגנצית מכירות בזמן אמת, שנועדה להמיר ב online מבקרים ללקוחות באמצעות chat ב live &lrm;<br>&lrm;&lrm;<br>&lrm; האם תוכל להטמיע קוד זה בתוך קוד המקור - HTML - של אתר האינטרנט שלנו? יש להטמיע את הקוד בכל דפי האתר שלנו.&lrm;<br>&lrm;&lrm;<br>&lrm; הקוד שיש להטמיע באתר שלנו: &lrm;<br>&lrm;&lrm;<br> &lrm;{0}&lrm; <br>&lrm;&lrm;<br>&lrm; להוראות מפורטות נא פנה למדריך המשתמש שלנו ב: &lrm; http://www.zoho.com/salesiq/help/getting-started-with-live-chat.html#chat-widgets &lrm;<br>&lrm;&lrm;<br>&lrm; במידת הצורך, תוכל להירשם להתקנה ואימון חינם עם צוות Zoho SalesIQ או לגשת לצוות התמיכה ב &lrm;<a class=\""link\"" href=\""mailto:support@zohosalesiq.com\""> support@zohosalesiq.com </a>&lrm;  בכל שאלה.  &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה &lrm;<br>&lrm;&lrm;<br>&lrm; {1}&lrm;
+crm.livedesk.send.mail.content = שלום, &lrm;<br>&lrm;&lrm;<br>&lrm; אנחנו צריכים להוסיף פונקציונאליות של מעקב מבקרים &lrm;(שמופעלת על ידי &lrm;{2}&lrm; SalesIQ)&lrm;  באתר שלנו. זו פלטפורמה בעלת אינטליגנצית מכירות בזמן אמת, שנועדה להמיר ב online מבקרים ללקוחות באמצעות chat ב live &lrm;<br>&lrm;&lrm;<br>&lrm; האם תוכל להטמיע קוד זה בתוך קוד המקור - HTML - של אתר האינטרנט שלנו? יש להטמיע את הקוד בכל דפי האתר שלנו.&lrm;<br>&lrm;&lrm;<br>&lrm; הקוד שיש להטמיע באתר שלנו: &lrm;<br>&lrm;&lrm;<br> &lrm;{0}&lrm; <br>&lrm;&lrm;<br>&lrm; להוראות מפורטות נא פנה למדריך המשתמש שלנו ב: &lrm; http://www.zoho.com/salesiq/help/getting-started-with-live-chat.html#chat-widgets &lrm;<br>&lrm;&lrm;<br>&lrm; במידת הצורך, תוכל להירשם להתקנה ואימון חינם עם צוות Zoho SalesIQ או לגשת לצוות התמיכה ב &lrm;<a class=\""link\"" href=\""mailto:support@zohosalesiq.com\""> support@zohosalesiq.com </a>&lrm;  בכל שאלה.  &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה &lrm;<br>&lrm;&lrm;<br>&lrm; &lrm;{1}&lrm;
 crm.livedesk.send.to.webmaster = שלח ל Webmaster
 crm.livedesk.settings = הגדרות 
-crm.livedesk.setup.and.training = להתקנה ואימון &lrm;<span class=""txtHighlight""> חינם </span>&lrm; <a style=""color:#257fd8"" class=""cP"" href='javascript:CrmTracking.scheduleTraining();'> קבע פגישה </a> &lrm;
+crm.livedesk.setup.and.training = להתקנה ואימון &lrm;<span class=""txtHighlight""> חינם </span>&lrm; &lrm;<a style=""color:#257fd8"" class=""cP"" href='javascript:CrmTracking.scheduleTraining();'> קבע פגישה </a> &lrm;
 crm.livedesk.status = סטאטוס 
 crm.livedesk.subject = הטמע קוד &lrm;{0}&lrm; SalesIQ באתר האינטרנט שלנו. 
 crm.livedesk.success = נוצר בהצלחה
@@ -2303,7 +2303,7 @@ crm.mb.replace.info = באמצעות שימוש בכלי זה תוכל להחל�
 crm.mb.replace.initiate.msg1 = החלפת ערכי רשימת בחירה אותחלה בהצלחה. 
 crm.mb.replace.initiate.msg2 = עדכון הרשומות יארך מספר דקות. תקבל הודעה עם השלמת העדכון. 
 crm.mb.replace.picklist = החלף רשימת בחירה
-crm.mb.replace.values.field.details =&lrm; {1}&lrm;   &lrm;<span class='fldName'> &lrm;{0}&lrm; </span>&lrm; אופציות עודכנו ברשומות הקיימות. 
+crm.mb.replace.values.field.details =&lrm; &lrm;{1}&lrm; &lrm;  &lrm;<span class='fldName'> &lrm;{0}&lrm; </span>&lrm; אופציות עודכנו ברשומות הקיימות. 
 crm.mb.replace.values.success.msg = אופצית/יות רשימת הבחירה הוחלפו בהצלחה. 
 crm.mb.replace.values.success.replaced.count = ספירת רשומות שהוחלפו
 crm.mb.replace.values.success.replaced.from = הוחלף מ
@@ -2322,7 +2322,7 @@ crm.mb.string.group.field.name = טקסט, רשימת בחירה, רשימת ב�
 crm.mb.string.group.field.name2 = שורה בודדת, רשימת בחירה, רשימת בחירה מרובת שורות, אי-מייל, טלפון, מרובה שורות, URL ומיספור אוטומטי 
 crm.merge.confirm = אני מבין, מזג עכשיו. 
 crm.merge.warning.message = אתה עומד למזג &lrm;{0}&lrm; עם &lrm;{0}&lrm; ראשי. נא שים לב ש &lrm; <br> &lrm; &nbsp;&bull;  הצרופות, הפעילויות וההודעות יועברו ל &lrm;{0}&lrm; הראשי. &lrm;<br>&lrm;&nbsp;&bull; לא ניתן יהיה לבטל את הפעולה. 
-crm.merge.warning.message1 = אתה עומד למזג &lrm;{1}&lrm; עם &lrm;{0}&lrm; ראשי. נא שים לב ש &lrm;<br> &lrm;  &nbsp;&bull;  &lrm; הצרופות, הפעילויות וההודעות יועברו ל &lrm;{0}&lrm; הראשי.  &lrm;<br> &lrm;  &nbsp;&bull;&lrm; לא ניתן יהיה לבטל פעולה זו. 
+crm.merge.warning.message1 = אתה עומד למזג &lrm;{1}&lrm; עם &lrm;{0}&lrm; ראשי. נא שים לב ש &lrm;<br> &lrm; &lrm; &nbsp;&bull;  &lrm; הצרופות, הפעילויות וההודעות יועברו ל &lrm;{0}&lrm; הראשי.  &lrm;<br> &lrm; &lrm; &nbsp;&bull;&lrm; לא ניתן יהיה לבטל פעולה זו. 
 crm.message.anyone.summary.content = אחד מהמשתמשים מטה אמור לאשר. 
 crm.message.parallel.summary.content = כולם אמורים לאשר
 crm.message.processes.criteria.not.specified = לא צוין קריטריון
@@ -2331,7 +2331,7 @@ crm.migration.google.cal.date = יום שני, ה - 15 בספטמבר, 2014
 crm.migration.google.cal.how =איך אני מתחיל לבצע זאת? 
 crm.migration.google.cal.reauthenticate = עליך רק ללחוץ על לחצן האימות מחדש של לוח השנה של Google,   כאן מתחת ולאמת מחדש את אישורי Google שלך.  
 crm.mins = דקה/ות
-crm.mobile.crm.message = קבל על הדרך גישה למידע על לקוחות והשב לקריאות ואי-מיילים באופן מיידי. מצא אנשי קשר וקטלוגים במיקומים סמוכים וקבל הוראות נסיעה למיקומם. תוך כדי תנועה, עבוד על המידע של לקוחותיך - אפילו מחוץ לתחום הרשת. כל זה באמצעות שימוש באפליקציית &lrm;{0}CRM.&lrm;  . 
+crm.mobile.crm.message = קבל על הדרך גישה למידע על לקוחות והשב לקריאות ואי-מיילים באופן מיידי. מצא אנשי קשר וקטלוגים במיקומים סמוכים וקבל הוראות נסיעה למיקומם. תוך כדי תנועה, עבוד על המידע של לקוחותיך - אפילו מחוץ לתחום הרשת. כל זה באמצעות שימוש באפליקציית &lrm;{0}&lrm; CRM. . 
 crm.mobile.leads.heading = לידים 
 crm.mobile.leads.message = עקוב במהירות אחר משתתפי תערוכה, ולעולם לא תיאלץ לדאוג אודות הבאת משתתפים לתערוכה  ב CRM. זה &lrm;\u2019s&lrm; פשוט &lrm;\u2013&lrm; , עליך רק לסרוק את קוד ה QR בתג המשתתפים או לצלם את כרטיס הביקור שלהם. באפשורתך לסרוק כרטיסי ביקור ב-11 שפות: אנגלית, דויטש, שוודית, רוסית, צרפתית, גרמנית, ספרדית, סינית פשוטה, סינית עתיקה, יפנית וקוריאנית.    . 
 crm.mobile.msg.for.standard = אפשרית גישה לקריאה בלבד. לקבלת גישה מלאה &lrm;<a href=""/crm/Security.do?actionName=manageSubscription&fm=tp"" class=""pL5"">&lrm;<u> עדכן לגירסה מתקדמת יותר </u>&lrm;</a>&lrm;
@@ -2346,8 +2346,8 @@ crm.module.builder.import.choice = יבא אפשרויות בחירה מוגדר
 crm.module.builder.no.field = הוסף לפחות שדה אחד
 crm.module.change.owner.note = כל הפעילויות הפתוחות הקשורות יועברו לבעלים החדשים. 
 crm.module.change.owner.note.accounts = כל &lrm;{0}&lrm;, &lrm;{1}&lrm; פתוח ופעילויות פתוחות של ה &lrm;{2}&lrm; יועברו גם הם לבעלים החדשים. 
-crm.module.created.by = &lrm;&lrm;{0}&lrm; יצר &lrm;{1}&lrm; {2}&lrm;&lrm;
-crm.module.created.by.for = &lrm;&lrm;{0}&lrm; יצר &lrm;{1}&lrm; {2}&lrm; עבור ה  &lrm;{3}&lrm; {4}&lrm;&lrm;
+crm.module.created.by = &lrm;&lrm;{0}&lrm; יצר &lrm;{1}&lrm; &lrm;{2}&lrm;&lrm;
+crm.module.created.by.for = &lrm;&lrm;{0}&lrm; יצר &lrm;{1}&lrm; &lrm;{2}&lrm; עבור ה  &lrm;{3}&lrm; &lrm;{4}&lrm;&lrm;
 crm.module.empty.message = לא נמצא כל &lrm;{0}&lrm;
 crm.module.export.permission.denied.contact.admin = נא צור קשר עם ה Admin שלך כדי ליצא את הדו"ח.
 crm.module.export.permission.denied.for.admin = כדי ליצא את הדו"ח, נא ספק הרשאות ייצוא למודולים אלו בהגדרות פרופילים. 
@@ -2357,10 +2357,10 @@ crm.module.not.available.edition.contact.admin = נא צור קשר עם המנ�
 crm.module.not.supported.integration = מצטערים!!! אתה מנסה לגשת ל &lrm;{0}&lrm;, שאינו זמין בתכניתך הנוכחית - &lrm;{1}&lrm;. כדי לאפשר תכונה זו עליך לשדרג לתכניות מתקדמות יותר. 
 crm.module.not.supported.mobile = מצטערים!!! אתה מנסה לגשת לדף גירסת מובייל של &lrm;{0}&lrm; CRM, שאינו אפשרי בתכניתך הנוכחית - &lrm;{1}&lrm;. כדי לאפשר את גירסת המובייל עליך לשדרג לתכניות מתקדמות יותר. 
 crm.module.permission.alert.note = בחר לפחות פרופיל אחד, שעבורו על מודול זה להיות גלוי. 
-crm.module.permission.denied.for.reports = &lrm;<p> &lrm;מצטערים!! אינך יכול לצפות בדו"ח זה מאחר שאין לך את ההרשאות לגשת למודול אחד או יותר שהינם חלק מדו"ח זה.   &lrm;<br/> &lrm; <br/> &lrm; </p> &lrm; <p> &lrm;  נא צור קשר עם המנהל שלך כדי לצפות בדו"ח זה  &lrm;</p>  &lrm;
-crm.module.permission.denied.for.reports.for.admin = &lrm;<p> &lrm;מצטערים! אינך יכול לצפות בדו"ח זה מאחר ואין לך את הרשאות הגישה למודול אחד או יותר מאלו שהינם חלק מדו"ח זה.  &lrm;<br/> &lrm; <br/> &lrm; </p> &lrm; <p> כדי לצפות בדו"ח נא ספק הרשאות גישה למודולים אלו בפרופילים>הגדרות אירגון לשוניות.</p> &lrm;
-crm.module.updated.by = &lrm;&lrm;{0}&lrm; עידכן &lrm;{1}&lrm; {2}&lrm;&lrm;
-crm.module.updated.by.for =&lrm;&lrm;{0}&lrm; עידכן &lrm;{1}&lrm; {2}&lrm; של ה &lrm;{3}&lrm; {4}&lrm;. &lrm;
+crm.module.permission.denied.for.reports = &lrm;<p> &lrm;מצטערים!! אינך יכול לצפות בדו"ח זה מאחר שאין לך את ההרשאות לגשת למודול אחד או יותר שהינם חלק מדו"ח זה.   &lrm;<br/> &lrm; &lrm;<br/> &lrm; &lrm;</p> &lrm; &lrm;<p> &lrm;  נא צור קשר עם המנהל שלך כדי לצפות בדו"ח זה  &lrm;</p>  &lrm;
+crm.module.permission.denied.for.reports.for.admin = &lrm;<p> &lrm;מצטערים! אינך יכול לצפות בדו"ח זה מאחר ואין לך את הרשאות הגישה למודול אחד או יותר מאלו שהינם חלק מדו"ח זה.  &lrm;<br/> &lrm; &lrm;<br/> &lrm; &lrm;</p> &lrm; &lrm;<p> כדי לצפות בדו"ח נא ספק הרשאות גישה למודולים אלו בפרופילים>הגדרות אירגון לשוניות.</p> &lrm;
+crm.module.updated.by = &lrm;&lrm;{0}&lrm; עידכן &lrm;{1}&lrm; &lrm;{2}&lrm;&lrm;
+crm.module.updated.by.for =&lrm;&lrm;{0}&lrm; עידכן &lrm;{1}&lrm; &lrm;{2}&lrm; של ה &lrm;{3}&lrm; &lrm;{4}&lrm;. &lrm;
 crm.motivator.enable.fail.alert = אין באפשרותנו להתחיל את ההתנסות שלך ב Motivator. נא צור קשר עם &lrm;{0}&lrm; ואנו נאפשר זאת. 
 crm.motivator.enable.trial.button = התחל שימוש באפשרויות משחק מתקדמות.  
 crm.motivator.enable.trial.info = באפשרותך לקבל התנסות חינם של 15 יום ב &lrm;{0}&lrm; Motivator על ידי לחיצה למטה. 
@@ -2385,10 +2385,10 @@ crm.movetoorg.whitelist.ips = הכניס את ה IPs לרשימה הלבנה.
 crm.msg.exceeds.max.lookup.limit1 = מצטערים! הגעת לגבול המירבי של 5 שדות חיפוש. 
 crm.msg.exceeds.max.lookup.limit2 = נא בחר את שדות החיפוש בתוך הגבול האפשרי כדי להתקדם. 
 crm.msg.unsupported.api = &lrm; API זה אינו נתמך בגירסה זו. נא עבור לגירסה החדשה יותר כדי לגשת לאותם הדברים. &lrm;
-crm.new.account.multi.invite.msg = האירגונים הבאים הזמינו אותך להצטרף ל &lrm;{0}CRM.&lrm; 
-crm.new.account.single.invite.msg2 = כדי להצטרף לחשבון &lrm;<b> &lrm;{0}&lrm; </b>CRM.&lrm; 
+crm.new.account.multi.invite.msg = האירגונים הבאים הזמינו אותך להצטרף ל &lrm;{0}&lrm; CRM.
+crm.new.account.single.invite.msg2 = כדי להצטרף לחשבון &lrm;<b> &lrm;{0}&lrm; </b>&lrm; CRM.
 crm.new.account.unconfirmed.invite.msg3 = נא בחר את תיבת הדואר שלך ועקוב אחר הקישור המצורף במייל כדי להצטרף.
-crm.new.account.zoid.case.invite.msg =יתכן שחברתך כבר מחזיקה בחשבון ב &lrm;{0}CRM.&lrm; 
+crm.new.account.zoid.case.invite.msg =יתכן שחברתך כבר מחזיקה בחשבון ב &lrm;{0}&lrm; CRM.
 crm.new.account.zoid.case.invite.msg2 = צור קשר עם מנהל CRM שלך לקבלת גישה. 
 crm.new.user.invite.subject = אתה מוזמן להצטרף לחשבון CRM של &lrm;{0}&lrm;. 
 crm.newrelatedlist.error.selectModule = נא בחר מודול
@@ -2437,7 +2437,7 @@ crm.nsocial.int.network = רשת
 crm.nsocial.int.title = אינטראקציות חברתיות
 crm.nsocial.keyword.column.enter = הכנס מילת/מילות מפתח שאתה מבקש לעקוב אחריהן. 
 crm.nsocial.keyword.column.first.add = הוסף בפעם הראשונה עמודת מעקב אחר מילות מפתח. 
-crm.nsocial.lead.contact = &lrm; {0}&lrm; / &lrm;{1}&lrm;&lrm;
+crm.nsocial.lead.contact = &lrm; &lrm;{0}&lrm; / &lrm;{1}&lrm;&lrm;
 crm.nsocial.like.one = &lrm;<a href=""//facebook.com/{0}"" target=""_blank""> &lrm;{1}&lrm; </a> &lrm;  אוהב את הפוסט הזה. 
 crm.nsocial.like.three = &lrm;<a href=""//facebook.com/{0}"" target=""_blank""> &lrm;{1}&lrm; </a>&lrm;, &lrm;<a href=""//facebook.com/{2}"" target=""_blank""> &lrm;{3}&lrm; </a>&lrm;  ו &lrm;<a href=""//facebook.com/{4}"" target=""_blank""> &lrm;{5}&lrm; </a>&lrm; אוהבים את הפוסט הזה.  
 crm.nsocial.like.two = &lrm;<a href=""//facebook.com/{0}"" target=""_blank""> &lrm;{1}&lrm; </a>&lrm; ו &lrm;<a href=""//facebook.com/{2}"" target=""_blank""> &lrm;{3}&lrm; </a>&lrm;  אוהבים את הפוסט הזה. 
@@ -2485,10 +2485,10 @@ crm.nsocial.setup.data.loss = &lrm;<div class='aligncenter'>&lrm;<span class='f1
 crm.nsocial.setup.del.keyword = הסר מילת מפתח 
 crm.nsocial.setup.del.profile = הסר פרופיל
 crm.nsocial.setup.delete.account = מחק חשבון
-crm.nsocial.setup.fb.caption = הוסף את חשבון הפייסבוק שלך כדי לסייע לך להישאר מעורב בקהילת הלקוחות שלך ב &lrm;{0}CRM.&lrm; 
+crm.nsocial.setup.fb.caption = הוסף את חשבון הפייסבוק שלך כדי לסייע לך להישאר מעורב בקהילת הלקוחות שלך ב &lrm;{0}&lrm; CRM.
 crm.nsocial.setup.fb.creators = ניתן לפרסם פוסטים, לציין הערות, לעשות "לייק", להשיב לשיחות ולצפות.
 crm.nsocial.setup.fb.responders = ניתן רק לציין הערות, לעשות "לייק", להשיב לשיחות ולצפות.
-crm.nsocial.setup.gp.caption = הסף את חשבון Google+ שלך כדי לסייע לך להישאר מעורב בקהילת הלקחות שלך בתוך &lrm;{0}CRM.&lrm; 
+crm.nsocial.setup.gp.caption = הסף את חשבון Google+ שלך כדי לסייע לך להישאר מעורב בקהילת הלקחות שלך בתוך &lrm;{0}&lrm; CRM.
 crm.nsocial.setup.gp.creators = ניתן לפרסם פוסטים, לציין הערות ולצפות
 crm.nsocial.setup.gp.responders = ניתן לציין הערות ולצפות
 crm.nsocial.setup.keywords = מילות מפתח 
@@ -2508,11 +2508,11 @@ crm.nsocial.setup.remove.page.confirm = האם אתה בטוח שברצונך ל
 crm.nsocial.setup.remove.tw.account = הסר חשבון טוויטר!
 crm.nsocial.setup.search.share.all = עמודה זו של מעקב אחר מילות מפתח הינה משותפת לכל הפרופילים.
 crm.nsocial.setup.title = הגדרות חברתיות
-crm.nsocial.setup.tw.caption = הוסף את חשבון טוויטר שלך כדי לסייע לך להשיב לציוצי לקוחות מהלשונית החברתית בתוך &lrm;{0}CRM.&lrm; 
+crm.nsocial.setup.tw.caption = הוסף את חשבון טוויטר שלך כדי לסייע לך להשיב לציוצי לקוחות מהלשונית החברתית בתוך &lrm;{0}&lrm; CRM.
 crm.nsocial.setup.tw.creators = ניתן לצייץ, להשיב על ציוצים ועל DM, לצייץ חזרה, לתעדף ולצפות.
 crm.nsocial.setup.tw.responders = ניתן רק להשיב לציוצים ול DM, לתעדף ולצפות.
 crm.nsocial.start.denied = ההרשאה נדחתה
-crm.nsocial.start.tag = &lrm; {0}&lrm; CRM מציע דרכים מהירות יותר וחכמות יותר לניהות עסקים באמצעות אינטגרציה חברתית עם שירותים כמו פייסבוק וטוויטר. 
+crm.nsocial.start.tag = &lrm; &lrm;{0}&lrm; CRM מציע דרכים מהירות יותר וחכמות יותר לניהות עסקים באמצעות אינטגרציה חברתית עם שירותים כמו פייסבוק וטוויטר. 
 crm.nsocial.startup.connect = התקשר 
 crm.nsocial.startup.connect.desc = התחל בכך שתקשר את ערוצי המדיה החברתית לעסקים שלך. 
 crm.nsocial.startup.contact.admin = נא צור קשר עם המנהל שלך לקבלת הרשאת גישה לתכונות החברתיות. 
@@ -2557,10 +2557,10 @@ crm.nsocial.tab.search.key.maxlen = חיפוש מילת מפתח אינו יכו
 crm.nsocial.tab.search.max = ניתן לעקוב אחר מקסימום של 5 מילות מפתח לעמודה. 
 crm.nsocial.tab.seconds.ago = לפני &lrm;{0}&lrm; שניות
 crm.nsocial.tab.show.more = הראה לי עוד
-crm.nsocial.tab.startup.body = &lrm; {0}&lrm; CRM מציע דרכים מהיות יותר וחכמות יותר ל &lrm;<br>&lrm; ניהול עסקים באמצעות אינטגרציה חברתית עם שירותים כמו טוויטר, פייסבוק ו Google+.
+crm.nsocial.tab.startup.body = &lrm; &lrm;{0}&lrm; CRM מציע דרכים מהיות יותר וחכמות יותר ל &lrm;<br>&lrm; ניהול עסקים באמצעות אינטגרציה חברתית עם שירותים כמו טוויטר, פייסבוק ו Google+.
 crm.nsocial.tab.startup.title = דרך טובה יותר לניתוח חברתי
 crm.nsocial.tab.tracking.max = ניתן לעקוב אחרי מקסימום של 5 לידים/קשרים לעמודה. 
-crm.nsocial.tab.tweeted = &lrm;<a href=""{0}"" target=""_blank"" class=""fontBlack boldFont""> &lrm;{1}&lrm; </a>&lrm; צייץ עבור &lrm;<b class=""cN"">&lrm; @&lrm;{2}&lrm; </b>&lrm;
+crm.nsocial.tab.tweeted = &lrm;<a href=""{0}"" target=""_blank"" class=""fontBlack boldFont""> &lrm;{1}&lrm; </a>&lrm; צייץ עבור &lrm;<b class=""cN"">&lrm; @&lrm;{2}&lrm; &lrm;</b>&lrm;
 crm.nsocial.tab.view.more = ראה עוד
 crm.nsocial.tab.yesterday = אתמול 
 crm.nsocial.title.twitter = טוויטר 
@@ -2584,10 +2584,10 @@ crm.olplugin.chooseversion.download4 = &lrm;Microsoft Outlook עבור  Mac 2011
 crm.option.approval.anyone = אף אחד 
 crm.option.approval.everyone = כולם 
 crm.option.approval.executiontype.modification.only =  עדכון בלבד
-crm.option.approval.level.nd = רמת &lrm;{0}&lrm; <sup>nd</sup>&lrm;
-crm.option.approval.level.rd = רמת &lrm;{0}&lrm; <sup>rd</sup>&lrm;
-crm.option.approval.level.st = רמת &lrm;{0}&lrm; <sup>st</sup>&lrm;
-crm.option.approval.level.th = רמת &lrm;{0}&lrm; <sup>th</sup>&lrm;
+crm.option.approval.level.nd = רמת &lrm;{0}&lrm; &lrm;<sup>nd</sup>&lrm;
+crm.option.approval.level.rd = רמת &lrm;{0}&lrm; &lrm;<sup>rd</sup>&lrm;
+crm.option.approval.level.st = רמת &lrm;{0}&lrm; &lrm;<sup>st</sup>&lrm;
+crm.option.approval.level.th = רמת &lrm;{0}&lrm; &lrm;<sup>th</sup>&lrm;
 crm.option.approval.levels = רמות 
 crm.option.approval.parallel = מקביל 
 crm.option.approval.sequential = עוקב 
@@ -2620,7 +2620,7 @@ crm.permission.show.chat.bar = הצג את סרגל הטבלה של &lrm;{0}&lrm
 crm.permission.web.to.customModule = נהל דפי web של &lrm;{0}&lrm;
 crm.permission.zoho.mail.integ = אינטגרצית דואר של &lrm;{0}&lrm;.
 crm.permission.zoho.mobile.integ = עריכת מובייל
-crm.permission.zoho.phonebridge.integ = &lrm; {0}&lrm; PhoneBridge&lrm;
+crm.permission.zoho.phonebridge.integ = &lrm; &lrm;{0}&lrm; PhoneBridge&lrm;
 crm.permission.zoho.support.integ = תמיכת אינטגרציה של &lrm;{0}&lrm;
 crm.picklist.replace.warning = שינויים שנעשו באפשרויות של רשימת הבחירה ישתקפו גם ברשומות הקיימות. 
 crm.picklist.textarea.msg = נא הזן את הערכים שלך זה מתחת זה. 
@@ -2675,7 +2675,7 @@ crm.project.notinproject = אינך בפרויקט זה, נא בחר פרויק�
 crm.project.option.notselected = נא וודא שבחרת את כל האפשרויות הנדרשות. 
 crm.project.please.select = בחר בבקשה
 crm.project.portal.deactivate.message1 = השיוך של פרויקטים תחת &lrm;{0}&lrm; ו &lrm;{1}&lrm; - יוסר. 
-crm.project.portal.installedportal1 = &lrm;<div>פורטל &lrm;<b> &lrm;{0}&lrm; </b>&lrm; בפרויקט &lrm;{1}&lrm; שלך, משולב כרגע עם &lrm;{1}CRM.&lrm;  </div> &lrm;
+crm.project.portal.installedportal1 = &lrm;<div>פורטל &lrm;<b> &lrm;{0}&lrm; </b>&lrm; בפרויקט &lrm;{1}&lrm; שלך, משולב כרגע עם &lrm;{1}&lrm; CRM. </div> &lrm;
 crm.project.portal.iscticketisnotvalid = כרטיס ה ISC אינו תקין. 
 crm.project.portal.newticketupdated = הכרטיס החדש עודכן. 
 crm.project.portal.updatezsckey = עדכן מפתח ZSC
@@ -2687,7 +2687,7 @@ crm.project.portalconf.completed = הגדרת תצורת הפורטל בפרוי
 crm.project.portalowner.email = &lrm; ID של האימייל השייך לבעל הפורטל &lrm;
 crm.project.projects.colon = פרוייקטים:
 crm.project.samplemapping.success = הצלחה!
-crm.project.samplemappingmessage = גילינו שלכמה לקוחות יש את אותו הצרוף עם ה &lrm;{0}&lrm; ב &lrm;{1}CRM.&lrm;  
+crm.project.samplemappingmessage = גילינו שלכמה לקוחות יש את אותו הצרוף עם ה &lrm;{0}&lrm; ב &lrm;{1}&lrm; CRM. 
 crm.project.samplemappingquesion = האם אתה רוצה למפות את הפרוייקטים של לקוח/ות אלו ל &lrm;{0}&lrm; באופן אוטומטי?
 crm.project.samplemappingrecords = דגום רשומות תואמות
 crm.project.samplemappingyes = כן, מפה רשומות תואמות
@@ -2699,14 +2699,14 @@ crm.project.select.task = נא בחר משימה
 crm.project.task.addtoaccount = הוסף משימה זו גם לחשבון
 crm.project.taskname.empty = נא הזן שם משימה תקין
 crm.project.tasks.colon = משימות: 
-crm.projects.integration.intro1 = הוסף פרוייקטים קשורים ללקוחות שלך מ &lrm;{0}CRM.&lrm; 
-crm.projects.integration.intro2 = הפעל פרויקטים מתוך &lrm;{0} CRM.&lrm;
-crm.projects.integration.intro3 = צפה בסטאטוסים של הפרויקטים הקשורים ללקוחות שלך בתוך &lrm;{0}CRM.&lrm; 
+crm.projects.integration.intro1 = הוסף פרוייקטים קשורים ללקוחות שלך מ &lrm;{0}&lrm; CRM.
+crm.projects.integration.intro2 = הפעל פרויקטים מתוך &lrm;{0}&lrm; CRM.
+crm.projects.integration.intro3 = צפה בסטאטוסים של הפרויקטים הקשורים ללקוחות שלך בתוך &lrm;{0}&lrm; CRM.
 crm.projects.integration.introduction = אינטגרצית הפרוייקטים של Zoho מאפשרות לך לתכנן, להפעיל ולעקוב אחר פרויקטים של לקוחות ישירות מתוך Zoho CRM &lrm;{0}&lrm; שלך. &lrm;<br> אינטגרצית הפרוייקטים של Zoho עם CRM מסייעת לך ל:
 crm.property.label = מאפיין
 crm.property.label.lowercase = מאפיין 
 crm.pulse.alert.notification.message1 = שים לב: Pulse יופסק בקרוב. 
-crm.pulse.alert.notification.message2 = &lrm; {0}&lrm; CRM חשף &lrm;
+crm.pulse.alert.notification.message2 = &lrm; &lrm;{0}&lrm; CRM חשף &lrm;
 crm.pulse.alert.notification.message3 = כלי שיתוף עוצמתי לתיקשור עם הצוות ביעילות. הישאר מעודכן בהתרחשויות והישאר בראש הרשומות, דבר החשוב עבורך ביותר. 
 crm.pulse.alert.notification.message4 = זה תחליף מושלם ל Pulse.
 crm.pulse.alert.notification.message5 = מכאן והילך, "Pulse" יופסק בקרוב. אולם, תהיינה לך התכונות של Pulse והרבה מעבר לכך בפידים שמתקדמים הלאה. 
@@ -2843,7 +2843,7 @@ crm.social.one.or.many.threads = תהליך/ים
 crm.social.one.retweet = ציוץ חוזר אחד
 crm.social.open.support = תמיכת Zoho 
 crm.social.others = פוסטים של אחרים 
-crm.social.pop.comments.view = &lrm; {0}&lrm; אנשים רשמו על זה הערה&lrm; 
+crm.social.pop.comments.view = &lrm; &lrm;{0}&lrm; אנשים רשמו על זה הערה&lrm; 
 crm.social.pop.continue.reading = המשך לקרוא 
 crm.social.pop.dm = הודעה 
 crm.social.pop.event = אירוע 
@@ -2853,7 +2853,7 @@ crm.social.pop.fb.status = עידכון סטאטוס
 crm.social.pop.language = שפות 
 crm.social.pop.language.add = הוסף שפה 
 crm.social.pop.language.search = חפש שפה 
-crm.social.pop.likes.view = &lrm; {0}&lrm; אנשים סימנו על כך "אהבתי"&lrm;
+crm.social.pop.likes.view = &lrm; &lrm;{0}&lrm; אנשים סימנו על כך "אהבתי"&lrm;
 crm.social.pop.location.add = הוסף ארץ
 crm.social.pop.location.search = חפש ארץ
 crm.social.pop.photo = תמונה
@@ -2878,7 +2878,7 @@ crm.social.reauth.no.admin = נא צור קשר עם המנהל שלך כדי ל
 crm.social.reply = השב 
 crm.social.retweet = צייץ חזרה 
 crm.social.retweeted = צוייץ חזרה 
-crm.social.retweets = &lrm; {0}&lrm; ציוצים חוזרים &lrm;
+crm.social.retweets = &lrm; &lrm;{0}&lrm; ציוצים חוזרים &lrm;
 crm.social.save = שמור 
 crm.social.search.disabled = לא ניתן עוד לבצע חיפוש פייסבוק. נא הגדר חשבון/ות טוויטר כדי לבצע חיפוש בתוך לשונית החברה. 
 crm.social.search.enter.keyword = הכנס מילת מפתח לחיפוש . 
@@ -2907,7 +2907,7 @@ crm.social.setup.facebook.add = הוסף חשבון פייסבוק
 crm.social.setup.facebook.auth.error = בעיה בעת ההתקשרות לפייסבוק , נא נסה שנית מאוחר יותר. 
 crm.social.setup.facebook.auth.internal = בעיה בעת ביצוע אימות פייסבוק, נא נסה שוב מאוחר יותר. 
 crm.social.setup.facebook.ispresent = חשבון הפייסבוק שניתן מוגדר כבר. 
-crm.social.setup.fb.caption = הוסף את חשבון פייסבוק שלך כדי לסייע לך להישאר מעורב בקהילת הלקוחות שלך ב &lrm;{0}CRM.&lrm; 
+crm.social.setup.fb.caption = הוסף את חשבון פייסבוק שלך כדי לסייע לך להישאר מעורב בקהילת הלקוחות שלך ב &lrm;{0}&lrm; CRM.
 crm.social.setup.fb.creators = ניתן להעלות פוסטים, לרשום הערות, לסמן "אהבתי", להשיב לשיחות ולצפות. 
 crm.social.setup.highlights = הדגשים 
 crm.social.setup.keywords = מילות מפתח 
@@ -2938,7 +2938,7 @@ crm.social.setup.search.max = הגעת לגבול המותר של מילות ח�
 crm.social.setup.started = התחל 
 crm.social.setup.tag = &lrm;&lrm;{0}&lrm; CRM מציע דרכים מהירות יותר וחכמות יותר לניהול עסקים באמצעות אינטגרציות חברתיות עם שירותים חברתיים כמו פייסבוק וטוויטר. 
 crm.social.setup.title = הגדרות חברתיות
-crm.social.setup.tw.caption = הוסף את חשבון הטוויטר שלך כדי לסייע לך להשיב לציוצים של לקוחות מהלשונית החברתית בתוך &lrm;{0}CRM.&lrm; 
+crm.social.setup.tw.caption = הוסף את חשבון הטוויטר שלך כדי לסייע לך להשיב לציוצים של לקוחות מהלשונית החברתית בתוך &lrm;{0}&lrm; CRM.
 crm.social.setup.tw.listeners = לקריאה בלבד.
 crm.social.setup.tw.responders = ניתן רק להשיב על ציוצים ועל DM, לסמן מועדפים ולצפות. 
 crm.social.setup.twitter.add = הוסף חשבון טוויטר
@@ -2981,7 +2981,7 @@ crm.social.tab.responded.msg = &lrm;<a href=""{0}"" target=""_blank"" class=""fo
 crm.social.tab.responded.post = &lrm;<a href=""{0}"" target=""_blank"" class=""fontBlack boldFont""> &lrm;{1}&lrm; </a>&lrm;  רשם הערה על פוסט של &lrm;<b class=""cN""> &lrm;{2}&lrm; </b>&lrm;
 crm.social.tab.responded.tweet = &lrm;<a href=""{0}"" target=""_blank"" class=""fontBlack boldFont""> &lrm;{1}&lrm; </a> השיב לציוץ מ &lrm;<b class=""cN""> &lrm;{2}&lrm; </b>&lrm;
 crm.social.tab.retweeted.by = צוייץ חזרה על ידי &lrm;{0}&lrm;
-crm.social.tab.share = &lrm;&lrm;{0}&lrm; <i class='normalTxt zso_greyTxt'> שיתף &lrm;{1}&lrm; </i> &lrm;&lrm;
+crm.social.tab.share = &lrm;&lrm;{0}&lrm; &lrm;<i class='normalTxt zso_greyTxt'> שיתף &lrm;{1}&lrm; </i> &lrm;&lrm;
 crm.social.tab.status.success = הסטאטוס שלך הועלה 
 crm.social.tab.tweet = &lrm;&lrm;{0}&lrm; פרסם ציוץ&lrm;
 crm.social.tab.tweet.success = הציוץ שלך הועלה
@@ -3016,8 +3016,8 @@ crm.social.view.more.replies =&lrm;<a href=""javascript:void(0);"" onclick=""$$z
 crm.social.write.comment = רשום הערה...
 crm.social.write.comment.as = רשום הערה כ:
 crm.social.write.reply.as = השב כ:  
-crm.socialTab.facebook.addCaption = הוסף את חשבון הפייסבוק שלך כדי לסייע לך להישאר מעורב עם קהילת הלקוחות שלך בתוך &lrm;{0}CRM.&lrm; 
-crm.socialTab.twitter.addCaption = הוסף את חשבון הטוויטר שלך כדי לסייע לך להשיב לציוצים של לקוחות מלשונית החברה בתוך &lrm;{0}CRM.&lrm; 
+crm.socialTab.facebook.addCaption = הוסף את חשבון הפייסבוק שלך כדי לסייע לך להישאר מעורב עם קהילת הלקוחות שלך בתוך &lrm;{0}&lrm; CRM.
+crm.socialTab.twitter.addCaption = הוסף את חשבון הטוויטר שלך כדי לסייע לך להשיב לציוצים של לקוחות מלשונית החברה בתוך &lrm;{0}&lrm; CRM.
 crm.stage.order.limit.exceed = מצטערים, הגעת לגבול של הוספת 100 ערכים עבור שדה רשימת הבחירה - Stage.
 crm.success.save.status = כל השינויים נשמרו
 crm.successMsg.customFunction.publish = הפונצקיה נשלחה לבדיקה של הצוות שלנו. אתה תקבל הודעה עם השלמת הבדיקה. 
@@ -3248,7 +3248,7 @@ crm.userinvite.label.existinguser = משתמש קיים
 crm.userinvite.normaluser.contenta2 = מאחר וכבר הינך חלק מחשבון CRM של &lrm;{0}&lrm;, לא תוכל לקבל את ההזמנה. 
 crm.userinvite.normaluser.contenta4 = בקש מהמנהל הראשי שלך  - &lrm;{0}&lrm; - בחשבון CRM של &lrm;{1}&lrm; שימחק אותך מחשבון זה. 
 crm.userinvite.normaluser.contenta5 = ברגע בו אינך חלק מחשבון CRM של &lrm;{0}&lrm;.
-crm.userinvite.normaluser.unknowncompany.contenta5 = ברגע שכבר לא תהיה חלק מחשבון CRM, לחץ &lrm;<a href=""#LINK""> הצטרפות </a>&lrm; לחשבון &lrm;{0}CRM.&lrm;  
+crm.userinvite.normaluser.unknowncompany.contenta5 = ברגע שכבר לא תהיה חלק מחשבון CRM, לחץ &lrm;<a href=""#LINK""> הצטרפות </a>&lrm; לחשבון &lrm;{0}&lrm; CRM. 
 crm.userinvite.onlyactiveuser.contenta2 = מאחר וכבר הינך חלק מחשבון CRM של &lrm;{0}&lrm; ואתה המשתמש הפעיל היחיד בחשבון זה, לא תוכל לקבל את ההזמנה. 
 crm.userinvite.onlyactiveuser.contenta4 = מחק את חשבון CRM של &lrm;{0}&lrm;.
 crm.userinvite.onlyactiveuser.contenta5 =ברגע שתמחק את חשבון CRM של &lrm;{0}&lrm;.
@@ -3292,7 +3292,7 @@ crm.warning.remove.field.head2 = האם אתה בטוח שברצונך להסי�
 crm.warning.remove.field.head3 = האם אתה בטוח שברצונך להעביר שדה זה לאשפה?
 crm.warning.remove.field.head4 = האם אתה בטוח שברצונך להסיר שדה זה מהתצוגה?
 crm.webentity.enable.duplicate.approval.message.note = מודול &lrm;{0}&lrm; אינו מאפשר ערכים זהים עבור השדות  - &lrm;{1}&lrm;. כל &lrm;{2}&lrm; זהים נוספים שיימצאו בטופס זה, ידרשו אישור . מצא את ה &lrm;{2}&lrm; הזהים שנשלחו באמצעות טופס זה במודול &lrm;{0}&lrm;, תחת כלי &lrm;{3}&lrm; >> אשר את  &lrm;{0}&lrm;.
-crm.webform.iframe.tooltip = &lrm; {0}&lrm; CRM לא יאמת את שם הדומיין עבור הרשומות שנשלחו באמצעות טפסי web שמשתמשים בקוד Iframe&lrm;.
+crm.webform.iframe.tooltip = &lrm; &lrm;{0}&lrm; CRM לא יאמת את שם הדומיין עבור הרשומות שנשלחו באמצעות טפסי web שמשתמשים בקוד Iframe&lrm;.
 crm.webforms = טפסי web 
 crm.webtab.connect.exception = אין אפשרות להתחבר לאתר המבוקש. 
 crm.webtab.error = אירעה שגיאה. נא צור קשר עם &lrm;{0}&lrm; להבהרה נוספת.
@@ -3304,51 +3304,51 @@ crm.wfDeluge.errorMessage.dueToUnComfirmedEmail = כתובת דוא"ל לא או
 crm.wfDeluge.label.CreateNewCustomFunction = &lrm;#NAME&lrm;?
 crm.wfDeluge.label.ErrorWhileGettingFunctionsFromCreator = שגיאה בעת קבלת הפונקציה. 
 crm.wfDeluge.label.ErrorWhileLoadingEditor = שגיאה אירעה בעת הטעינה. 
-crm.wfDeluge.limit.nofity.Message = &lrm;&lrm;{0}&lrm; יקר &lrm;<br>&lrm;&lrm;<br>&lrm;הודעה זו היא כדי להתריע שהקריאות לפונקצית תהליך הזרימה המותאמת אישית - הגיעו לגבול המקסימום שלהן להיום. &lrm;<br>&lrm;&lrm;<br>&lrm;שים לב, בבקשה שבאירגונך ניתן לבצע עד מקסימום של &lrm;{1}&lrm; קריאות ליום לפונקציות מותאמות אישית. מעבר לגבול זה, קריאות לפונקציות מותאמות אישית - לא תיענינה. &lrm;<br>&lrm;&lrm;<br>&lrm;אנו ממליצים שתוודא כי כללי תהליך העבודה שלך בודקים את הפונקציות המותאמות אישית. &lrm;<br>&lrm;&lrm;<br>&lrm; אם תרצה להגדיל את המכסה, הוסף בבקשה משתמשים נוספים ושדרג. להבהרות נוספות נא צור עימנו קשר ב &lrm;{2}&lrm; <br>&lrm;&lrm;<br>&lrm;בברכה, &lrm;<br> &lrm;צוות &lrm;{3}CRM.&lrm; 
-crm.wfDeluge.limit.nofity.Message.forTrialUser =  &lrm;&lrm;{0}&lrm; יקר  &lrm;<br> &lrm; <br> &lrm;הודעה זו היא כדי להתריע בפניך שמספר הקריאות לפונקציות מותאמות אישית של תהליך העבודה - הגיע לגבול המקסימום להיום. כל הקריאות הנותרות לפונקציות מותאמות אישית, המתוכננות להיום לא תבוצענה.  &lrm;<br> &lrm; <br> &lrm; נא שים לב שבזמן תקופת הניסיון שלך ניתן לבצע רק עד מקסימום של &lrm;{1}&lrm;  קריאות באמצעות .Workflow &lrm;<br> &lrm; לכל הבהרה נוספת נא צרו עימנו קשר ב .&lrm;{2}&lrm;  &lrm;<br> &lrm; <br> &lrm; בברכה,  &lrm;<br> &lrm; צוות .&lrm;{3}&lrm; CRM
+crm.wfDeluge.limit.nofity.Message = &lrm;&lrm;{0}&lrm; יקר &lrm;<br>&lrm;&lrm;<br>&lrm;הודעה זו היא כדי להתריע שהקריאות לפונקצית תהליך הזרימה המותאמת אישית - הגיעו לגבול המקסימום שלהן להיום. &lrm;<br>&lrm;&lrm;<br>&lrm;שים לב, בבקשה שבאירגונך ניתן לבצע עד מקסימום של &lrm;{1}&lrm; קריאות ליום לפונקציות מותאמות אישית. מעבר לגבול זה, קריאות לפונקציות מותאמות אישית - לא תיענינה. &lrm;<br>&lrm;&lrm;<br>&lrm;אנו ממליצים שתוודא כי כללי תהליך העבודה שלך בודקים את הפונקציות המותאמות אישית. &lrm;<br>&lrm;&lrm;<br>&lrm; אם תרצה להגדיל את המכסה, הוסף בבקשה משתמשים נוספים ושדרג. להבהרות נוספות נא צור עימנו קשר ב &lrm;{2}&lrm; &lrm;<br>&lrm;&lrm;<br>&lrm;בברכה, &lrm;<br> &lrm;צוות &lrm;{3}&lrm; CRM.
+crm.wfDeluge.limit.nofity.Message.forTrialUser =  &lrm;&lrm;{0}&lrm; יקר  &lrm;<br> &lrm; &lrm;<br> &lrm;הודעה זו היא כדי להתריע בפניך שמספר הקריאות לפונקציות מותאמות אישית של תהליך העבודה - הגיע לגבול המקסימום להיום. כל הקריאות הנותרות לפונקציות מותאמות אישית, המתוכננות להיום לא תבוצענה.  &lrm;<br> &lrm; &lrm;<br> &lrm; נא שים לב שבזמן תקופת הניסיון שלך ניתן לבצע רק עד מקסימום של &lrm;{1}&lrm;  קריאות באמצעות .Workflow &lrm;<br> &lrm; לכל הבהרה נוספת נא צרו עימנו קשר ב .&lrm;{2}&lrm;  &lrm;<br> &lrm; &lrm;<br> &lrm; בברכה,  &lrm;<br> &lrm; צוות .&lrm;{3}&lrm; CRM
 crm.wfDeluge.limit.warning.Subject = התרעה: הקריאות לפונקצית &lrm;{0}&lrm; workflow המותאמת אישית הגיעו ל 80% מהמכסה. 
 crm.wfDeluge.link.ShowCRMFieldToMapParameter = הראה את שדה CRM
 crm.widget.label.invitation = הזמנה 
 crm.worflow.convert.trigger.change = פעולת ההמרה המשוייכת - תוסר. האם אתה בטוח שברצונך להמשיך?
 crm.workflow.alert.limit.before.Subject = התרעה: התרעות &lrm;{0}&lrm; workflow שלך הגיעו ל 80% מהמכסה. 
-crm.workflow.alert.limit.before.warning = &lrm; {0}&lrm; יקר &lrm;<br>&lrm;&lrm;<br>&lrm; הודעה זו היא כדי להתריע בפניך שהתרעות Workflow הגיעו ל 80% מהמכסה היומית. נותרו לך &lrm;{1}&lrm; התרעות להיום. &lrm;<br>&lrm;&lrm;<br>&lrm;שים לב, בבקשה, שבאירגונך ניתן לשלוח עד מקסימום של &lrm;{2}&lrm; התרעות ליום. מעבר לגבול זה, ההתרעות לא תיענינה. &lrm;<br>&lrm;&lrm;<br>&lrm; אנו ממליצים שתוודא כי כללי workflow שלך עוקבים אחר ההתרעות. &lrm;<br>&lrm;&lrm;<br>&lrm; אם תרצה להגדיל את המכסה - הוסף משתמשים נוספים ושדרג. להסברים נוספים נא צור עימנו קשר ב &lrm;{3}&lrm;. &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה, &lrm;<br>&lrm;צוות &lrm;{4}CRM.&lrm; 
+crm.workflow.alert.limit.before.warning = &lrm; &lrm;{0}&lrm; יקר &lrm;<br>&lrm;&lrm;<br>&lrm; הודעה זו היא כדי להתריע בפניך שהתרעות Workflow הגיעו ל 80% מהמכסה היומית. נותרו לך &lrm;{1}&lrm; התרעות להיום. &lrm;<br>&lrm;&lrm;<br>&lrm;שים לב, בבקשה, שבאירגונך ניתן לשלוח עד מקסימום של &lrm;{2}&lrm; התרעות ליום. מעבר לגבול זה, ההתרעות לא תיענינה. &lrm;<br>&lrm;&lrm;<br>&lrm; אנו ממליצים שתוודא כי כללי workflow שלך עוקבים אחר ההתרעות. &lrm;<br>&lrm;&lrm;<br>&lrm; אם תרצה להגדיל את המכסה - הוסף משתמשים נוספים ושדרג. להסברים נוספים נא צור עימנו קשר ב &lrm;{3}&lrm;. &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה, &lrm;<br>&lrm;צוות &lrm;{4}&lrm; CRM.
 crm.workflow.clone.rule = שכפל כלל WorkFlow 
 crm.workflow.convert.allsuccess.msg = הומר בהצלחה 
 crm.workflow.convert.associate.alert = פעולה זו תסיר את כל המשוייכים
-crm.workflow.convert.associate.warn = &lrm; {0}&lrm; אינו יכול להיות משוייך לכלל המכיל פעולת המרה &lrm;
+crm.workflow.convert.associate.warn = &lrm; &lrm;{0}&lrm; אינו יכול להיות משוייך לכלל המכיל פעולת המרה &lrm;
 crm.workflow.convert.criteria.notempty = חובה לספק קריטריון כדי לבצע פעולת המרה. 
 crm.workflow.convert.default.owner = לבעלים של &lrm;{0}&lrm;
 crm.workflow.convert.default.owner.note = כברירת מחדל, יפנו אל הבעלים של &lrm;{0}&lrm;.
 crm.workflow.convert.exec.alert = לא ניתן לשייך את ההמרה מאחר וה workflow מוגדר לבצע פעולה בכל פעם שנתקלים בקריטריון. 
-crm.workflow.convert.msg.recordupt = &lrm; {0}&lrm; עודכן &lrm;
+crm.workflow.convert.msg.recordupt = &lrm; &lrm;{0}&lrm; עודכן &lrm;
 crm.workflow.convert.new.owner = לבעלים של הרשומות החדשות
 crm.workflow.convert.new.owner.note = בעלי הרשומות החדשות
 crm.workflow.convert.notification.label = שלח תזכורת
-crm.workflow.convert.notify.assign.other.sub = ה &lrm;{0}&lrm; {1}&lrm; מומר ומופנה ל &lrm;{2}&lrm;.
-crm.workflow.convert.notify.assign.sub = &lrm; {0}&lrm; חדש הופנה אליך &lrm;
-crm.workflow.convert.notify.assign.sub.Pot =  &lrm; {0}&lrm; ו &lrm;{1}&lrm; חדש הופנה אליך. &lrm;
-crm.workflow.convert.notify.assign.update.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר, מכאן ואילך הרשומות המוזכרות מטה מעודכנות. 
-crm.workflow.convert.notify.ent.assign.update.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך - הומר, מכאן והילך ה &lrm;{2}&lrm; {3}&lrm; מעודכן. 
-crm.workflow.convert.notify.ent.update.msg = ה &lrm;{0}&lrm; {1}&lrm; עודכן, מכאן והילך ה &lrm;{2}&lrm; SHALSH מעודכן. 
-crm.workflow.convert.notify.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר והרשומות הרשומות מטה מופנות אליך. 
+crm.workflow.convert.notify.assign.other.sub = ה &lrm;{0}&lrm; &lrm;{1}&lrm; מומר ומופנה ל &lrm;{2}&lrm;.
+crm.workflow.convert.notify.assign.sub = &lrm; &lrm;{0}&lrm; חדש הופנה אליך &lrm;
+crm.workflow.convert.notify.assign.sub.Pot =  &lrm; &lrm;{0}&lrm; ו &lrm;{1}&lrm; חדש הופנה אליך. &lrm;
+crm.workflow.convert.notify.assign.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר, מכאן ואילך הרשומות המוזכרות מטה מעודכנות. 
+crm.workflow.convert.notify.ent.assign.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך - הומר, מכאן והילך ה &lrm;{2}&lrm; &lrm;{3}&lrm; מעודכן. 
+crm.workflow.convert.notify.ent.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; עודכן, מכאן והילך ה &lrm;{2}&lrm; SHALSH מעודכן. 
+crm.workflow.convert.notify.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר והרשומות הרשומות מטה מופנות אליך. 
 crm.workflow.convert.notify.new = שים לב לבעל הרשומות החדש
 crm.workflow.convert.notify.old = שים לב לבעלים הנוכחיים של &lrm;{0}&lrm;
-crm.workflow.convert.notify.others.assign.to.msg = ה &lrm;{0}&lrm; {1}&lrm; השייכים ל &lrm;{2}&lrm; הומרו והרשומות הרשומות מטה מופנות אליך. 
-crm.workflow.convert.notify.others.assign.to.quote.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך ל &lrm;{2}&lrm; - הומר ל &lrm;{3}&lrm; {4}&lrm; והופנה אליך. 
-crm.workflow.convert.notify.others.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר והרשומות הרשומות מטה מופנות ל &lrm;{2}&lrm;.
-crm.workflow.convert.notify.others.quote.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר ל &lrm;{2}&lrm; {3}&lrm; ומופנה ל &lrm;{4}&lrm;.
-crm.workflow.convert.notify.others.workflow.assign.to.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך ל &lrm;{2}&lrm; הומר על ידי ה Workflow &lrm;{3}&lrm; והרשומות הרשומת מטה מופנות אליך. 
-crm.workflow.convert.notify.others.workflow.msg =ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר על ידי ה workflow &lrm;{2}&lrm; והרשומות הרשומות מטה מופנות ל &lrm;{3}&lrm;. 
-crm.workflow.convert.notify.others.workflow.quote.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר ל &lrm;{2}&lrm; {3}&lrm; על ידי ה workflow &lrm;{4}&lrm; ומופנה ל &lrm;{5}&lrm;.
-crm.workflow.convert.notify.quote.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר ל SHMAIM &lrm;{3}&lrm;. 
-crm.workflow.convert.notify.sub = ה &lrm;{0}&lrm; {1}&lrm; הומר 
-crm.workflow.convert.notify.update.msg = ה &lrm;{0}&lrm; {1}&lrm; הומר. מכאן ואילך, הרשומות המוזכרות מטה מעודכנות. 
-crm.workflow.convert.notify.workflow.assign.update.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך הרשומות המוזכרות מטה מעודכנות. 
-crm.workflow.convert.notify.workflow.ent.assign.update.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך &lrm;{3}&lrm; {4}&lrm; מעודכן. 
-crm.workflow.convert.notify.workflow.ent.update.msg = ה &lrm;{0}&lrm; {1}&lrm; הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך ה &lrm;{3}&lrm; {4}&lrm; מעודכן. 
-crm.workflow.convert.notify.workflow.update.msg = ה &lrm;{0}&lrm; {1}&lrm; הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך הרשומות המוזכרות מטה מעודכנות. 
+crm.workflow.convert.notify.others.assign.to.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייכים ל &lrm;{2}&lrm; הומרו והרשומות הרשומות מטה מופנות אליך. 
+crm.workflow.convert.notify.others.assign.to.quote.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך ל &lrm;{2}&lrm; - הומר ל &lrm;{3}&lrm; &lrm;{4}&lrm; והופנה אליך. 
+crm.workflow.convert.notify.others.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר והרשומות הרשומות מטה מופנות ל &lrm;{2}&lrm;.
+crm.workflow.convert.notify.others.quote.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר ל &lrm;{2}&lrm; &lrm;{3}&lrm; ומופנה ל &lrm;{4}&lrm;.
+crm.workflow.convert.notify.others.workflow.assign.to.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך ל &lrm;{2}&lrm; הומר על ידי ה Workflow &lrm;{3}&lrm; והרשומות הרשומת מטה מופנות אליך. 
+crm.workflow.convert.notify.others.workflow.msg =ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר על ידי ה workflow &lrm;{2}&lrm; והרשומות הרשומות מטה מופנות ל &lrm;{3}&lrm;. 
+crm.workflow.convert.notify.others.workflow.quote.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר ל &lrm;{2}&lrm; &lrm;{3}&lrm; על ידי ה workflow &lrm;{4}&lrm; ומופנה ל &lrm;{5}&lrm;.
+crm.workflow.convert.notify.quote.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר ל SHMAIM &lrm;{3}&lrm;. 
+crm.workflow.convert.notify.sub = ה &lrm;{0}&lrm; &lrm;{1}&lrm; הומר 
+crm.workflow.convert.notify.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; הומר. מכאן ואילך, הרשומות המוזכרות מטה מעודכנות. 
+crm.workflow.convert.notify.workflow.assign.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך הרשומות המוזכרות מטה מעודכנות. 
+crm.workflow.convert.notify.workflow.ent.assign.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך &lrm;{3}&lrm; &lrm;{4}&lrm; מעודכן. 
+crm.workflow.convert.notify.workflow.ent.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך ה &lrm;{3}&lrm; &lrm;{4}&lrm; מעודכן. 
+crm.workflow.convert.notify.workflow.update.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; הומר על ידי ה workflow &lrm;{2}&lrm;, מכאן ואילך הרשומות המוזכרות מטה מעודכנות. 
 crm.workflow.convert.reason.approval = הרשומה ממתינה לאישור. 
-crm.workflow.convert.reason.sameemail = &lrm; {0}&lrm; עם כתובת דוא"ל זהה קיים כבר. &lrm;
+crm.workflow.convert.reason.sameemail = &lrm; &lrm;{0}&lrm; עם כתובת דוא"ל זהה קיים כבר. &lrm;
 crm.workflow.convert.success.msg = &lrm;&lrm;{0}&lrm; של רשומת/ות &lrm;{1}&lrm; - הומרו&lrm;
 crm.workflow.convert.timebased.msg = פעולות המבוססות על זמן אינן נתמכות מאחר ומוגדרת המרה. 
 crm.workflow.criteria.executeWhenEverMatches = בצע workflow בכל פעם שנתקלים בקריטריון. 
@@ -3365,7 +3365,7 @@ crm.workflow.deluge.ViewFunction = צפה בפונקציה מותאמת אישי
 crm.workflow.deluge.emailfields = *האפשרות לשלוח  ללקוחות התרעה בדוא"ל על ידי בחירת  שדה כתובת הדוא"ל זמינה רק בגירסת Enterprise.
 crm.workflow.deluge.failures = כישלונות
 crm.workflow.deluge.noDelugeForSelectedModule =טרם נוצרו פונקציות מותאמות אישית עבור מודול זה. 
-crm.workflow.deluge.showAllList.description =פונצקיות מותאות אישית נכתבות באמצעות שימוש בסקריפטים רצופים כדי לעבד נתונים בצורה אפקטיבית, לתקשר עם יישומי צד שלישי ולעדכן תגובות ב &lrm;{0}CRM.&lrm;    
+crm.workflow.deluge.showAllList.description =פונצקיות מותאות אישית נכתבות באמצעות שימוש בסקריפטים רצופים כדי לעבד נתונים בצורה אפקטיבית, לתקשר עם יישומי צד שלישי ולעדכן תגובות ב &lrm;{0}&lrm; CRM.   
 crm.workflow.deluge.showAllList.failureDescription = ניתן לעקוב אחר הכישלונות של 30 הימים האחרונים באירוע של כל בעיה בתהליך ההתרעה. 
 crm.workflow.field.length.check = אורך שדה &lrm;{0}&lrm; אמור להיות קטן מ 
 crm.workflow.fieldupdate.setEmpty = הגדר כריק
@@ -3383,7 +3383,7 @@ crm.workflow.rule.label.ActionsToDo.NoDelugeToAssociate = אין פונקציו�
 crm.workflow.rule.label.ActionsToDo.deluge = קרא לפונקציה מותאמת אישית
 crm.workflow.rule.label.FieldToCheck.Description.OnDelete = הכלל יבוצע עבור ה &lrm;{0}&lrm; שנמחק, שמתאים לקריטריון הכלל הבא. 
 crm.workflow.rule.label.FieldToCheck.Description.selftrigger = הכלל יבוצע בתאריך ובזמן שצויינו עבור אותם &lrm;{0}&lrm; שעונים על קריטריון הכלל הבא. 
-crm.workflow.rule.locked = &lrm; {0}&lrm; נחסם &lrm;
+crm.workflow.rule.locked = &lrm; &lrm;{0}&lrm; נחסם &lrm;
 crm.workflow.rule.rule.trigger = טריגר כלל
 crm.workflow.rule.self.choose.datefld = בחר שדה תאריך
 crm.workflow.rule.self.date.valid = נא בחר שדה תאריך תקין 
@@ -3401,11 +3401,11 @@ crm.workflow.rule.type.datefld.value.desc = בחר שדה תאריך שבהתב�
 crm.workflow.rule.type.record.action = פעולת רשומה 
 crm.workflow.select.deluges = שייך פונקציות מותאמות אישית קיימות
 crm.workflow.showmore = עוד 
-crm.workflow.single.convert.notify.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך - הומר, וה &lrm;{2}&lrm; {3}&lrm; מופנה אליך. 
-crm.workflow.single.convert.notify.others.assign.to.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך ל &lrm;{2}&lrm; - הומר, וה &lrm;{3}&lrm; {4}&lrm; מופנה אליך. 
-crm.workflow.single.convert.notify.others.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך - הומר, וה &lrm;{2}&lrm; {3}&lrm; מופנה ל &lrm;{4}&lrm;.
-crm.workflow.single.convert.notify.others.workflow.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך - הומר על ידי ה workflow &lrm;{2}&lrm;, וה &lrm;{3}&lrm; {4}&lrm; מופנה ל &lrm;{5}&lrm;.
-crm.workflow.single.convert.notify.workflow.msg = ה &lrm;{0}&lrm; {1}&lrm; השייך לך - הומר על ידי ה workflow &lrm;{2}&lrm;, וה &lrm;{3}&lrm; {4}&lrm; מופנה אליך. 
+crm.workflow.single.convert.notify.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך - הומר, וה &lrm;{2}&lrm; &lrm;{3}&lrm; מופנה אליך. 
+crm.workflow.single.convert.notify.others.assign.to.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך ל &lrm;{2}&lrm; - הומר, וה &lrm;{3}&lrm; &lrm;{4}&lrm; מופנה אליך. 
+crm.workflow.single.convert.notify.others.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך - הומר, וה &lrm;{2}&lrm; &lrm;{3}&lrm; מופנה ל &lrm;{4}&lrm;.
+crm.workflow.single.convert.notify.others.workflow.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך - הומר על ידי ה workflow &lrm;{2}&lrm;, וה &lrm;{3}&lrm; &lrm;{4}&lrm; מופנה ל &lrm;{5}&lrm;.
+crm.workflow.single.convert.notify.workflow.msg = ה &lrm;{0}&lrm; &lrm;{1}&lrm; השייך לך - הומר על ידי ה workflow &lrm;{2}&lrm;, וה &lrm;{3}&lrm; &lrm;{4}&lrm; מופנה אליך. 
 crm.workflow.task.emptysubject = [ללא נושא]
 crm.workflow.task.hours = שעות 
 crm.workflow.task.subject.mergefield = אורך הנושא יאושר בהתבסס על ערכי שדות המיזוג לאחר ביצוע הכלל. אורך מירבי הינו 100.
@@ -3414,7 +3414,7 @@ crm.workflow.task.subject.mergefield.insertfield = הכנס שדה
 crm.workflow.task.subject.mergefield.showmerge = הצג שדות מיזוג
 crm.workflow.time.hh = hh 
 crm.workflow.time.mm = mm 
-crm.workflow.timebased.limit.notify.Message = &lrm;&lrm;{0}&lrm; יקר, &lrm;<br>&lrm;&lrm;<br>&lrm; הודעה זו נועדה להתריע בפניך שפעולת workflow המבוססת על זמן הגיעה למכסה היומית שלה. &lrm;.<br>&lrm;&lrm;<br>&lrm; שים לב, שבאירגונך ניתן לבצע עד מקסימום של &lrm;{1}&lrm; פעולות מבוססות זמן ליום. מעבר למכסה זו, הפעולות מבוססות הזמן המתוכננות להיום - לא תטופלנה.&lrm; <br>&lrm;&lrm;<br>&lrm; אנו ממליצים שתוודא כי כללי workflow שלך עוקבים אחר הפעולות מבוססות הזמן. &lrm;<br>&lrm;&lrm;<br>&lrm; אם תרצה להגדיל את המכסה, הוסף משתמשים נוספים ושדרג. &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה, &lrm;<br>&lrm; צוות &lrm;{3}CRM.&lrm; 
+crm.workflow.timebased.limit.notify.Message = &lrm;&lrm;{0}&lrm; יקר, &lrm;<br>&lrm;&lrm;<br>&lrm; הודעה זו נועדה להתריע בפניך שפעולת workflow המבוססת על זמן הגיעה למכסה היומית שלה. &lrm;.<br>&lrm;&lrm;<br>&lrm; שים לב, שבאירגונך ניתן לבצע עד מקסימום של &lrm;{1}&lrm; פעולות מבוססות זמן ליום. מעבר למכסה זו, הפעולות מבוססות הזמן המתוכננות להיום - לא תטופלנה.&lrm; <br>&lrm;&lrm;<br>&lrm; אנו ממליצים שתוודא כי כללי workflow שלך עוקבים אחר הפעולות מבוססות הזמן. &lrm;<br>&lrm;&lrm;<br>&lrm; אם תרצה להגדיל את המכסה, הוסף משתמשים נוספים ושדרג. &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה, &lrm;<br>&lrm; צוות &lrm;{3}&lrm; CRM.
 crm.workflow.timebased.limit.notify.Message.forTrialUser = &lrm;&lrm;{2}&lrm; יקר, &lrm;<br>&lrm;&lrm;<br>&lrm; הודעה זו נועדה להתריע בפניך, שהמכסה היומית לפעולות מבוססות זמן - התמלאה. כל הפעולות מבוססות הזמן, המתוכננות להיום, לא תבוצענה. &lrm;<br>&lrm;&lrm;<br>&lrm; שים לב, שבמהלך תקופת הניסיון שלך ניתן לבצע עד מקסימום של &lrm;{3}&lrm; פעולות מבוססות זמן. &lrm; <br>&lrm; לכל הסבר נוסף, צור איתנו קשר ב &lrm;{1}&lrm;. &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה, &lrm;<br>&lrm; צוות &lrm;{0}&lrm; CRM&lrm;
 crm.workflow.timebased.limit.notify.Subject = התרעה: התמלאה מכסת הפעולות מבוססות הזמן של workflow
 crm.workflow.timebased.limit.warning.Message =&lrm;&lrm;{0}&lrm; יקר, &lrm;<br>&lrm;&lrm;<br>&lrm; הודעה זו נועדה להתריע בפניך שהתמלאו 80% מהמכסה היומית של הפעולות תלויות הזמן של workflow. &lrm;{1}&lrm; פעולות תלויות זמן נוספות תבוצענה היום. &lrm;<br>&lrm;&lrm;<br>&lrm; שים לב, שבאירגונך ניתן לבצע עד מקסימום של &lrm;{2}&lrm; פעולות תלויות זמן. מעבר למכסה זו, הפעולות תלויות הזמן המתוכננות להיום, לא תטופלנה. &lrm;<br>&lrm;&lrm;<br>&lrm; אנו ממליצים, שתוודא כי כללי ה workflow שלך בודקים את הפעולות תלויות הזמן. &lrm;<br>&lrm;&lrm;<br>&lrm; במידה ותרצה להגדיל את המכסה - הוסף משתמשים נוספים ושדרג. להבהרה נוספת, נא צור איתנו קשר ב &lrm;{3}&lrm;. &lrm;<br>&lrm;&lrm;<br>&lrm; בברכה, &lrm;<br>&lrm;צוות &lrm;{4}&lrm; CRM
@@ -3432,7 +3432,7 @@ crm.workflow.warning.unlock = שחרר כלל
 crm.workflow.warning.unlock.desc.confirm = האם אתה עדיין מעוניין לשחרר כלל זה?
 crm.workflow.webhook.failures.NoWebhooks =  - אין webhooks - 
 crm.workflow.webhook.limit.notify.Subject = שים לב: התמלאה מכסת קריאות ה webhook של workflow. 
-crm.workflow.webhook.limit.warning.Message = &lrm; {0}&lrm; יקר,  &lrm;<br> &lrm; <br> &lrm; הודעה זו נועדה להתריע בפניך שהתמלאו 80% מהמכסה היומית של קריאות webhook של workflow. נותרו לך עוד &lrm;{1}&lrm; קריאות להיום.  &lrm;<br> &lrm; <br> &lrm; שים לב, שבאירגונך ניתן לבצע עד מקסימום של &lrm;{2}&lrm; webhooks ביום. מעבר למכסה זו, הקריאות ל webhook לא תיענינה.  &lrm;<br> &lrm; <br> &lrm;  אנו ממליצים שתוודא כי כללי workflow שלך עוקבים אחר הקריאות ל webhook.  &lrm;<br> &lrm; <br> במידה ותרצה להגדיל את המכסה, נא הוסף משתמשים ושדרג. לכל הסבר נוסף, צור איתנו קשר ב &lrm;{3}&lrm;.  &lrm;<br><br> בברכה,  &lrm;<br> &lrm; צוות &lrm;{4}&lrm; CRM &lrm;
+crm.workflow.webhook.limit.warning.Message = &lrm; &lrm;{0}&lrm; יקר,  &lrm;<br> &lrm; &lrm;<br> &lrm; הודעה זו נועדה להתריע בפניך שהתמלאו 80% מהמכסה היומית של קריאות webhook של workflow. נותרו לך עוד &lrm;{1}&lrm; קריאות להיום.  &lrm;<br> &lrm; &lrm;<br> &lrm; שים לב, שבאירגונך ניתן לבצע עד מקסימום של &lrm;{2}&lrm; webhooks ביום. מעבר למכסה זו, הקריאות ל webhook לא תיענינה.  &lrm;<br> &lrm; &lrm;<br> &lrm;  אנו ממליצים שתוודא כי כללי workflow שלך עוקבים אחר הקריאות ל webhook.  &lrm;<br> &lrm; &lrm;<br> במידה ותרצה להגדיל את המכסה, נא הוסף משתמשים ושדרג. לכל הסבר נוסף, צור איתנו קשר ב &lrm;{3}&lrm;.  &lrm;<br><br> בברכה,  &lrm;<br> &lrm; צוות &lrm;{4}&lrm; CRM &lrm;
 crm.workflow.webhook.limit.warning.Subject = שים לב: התמלאו 80% ממכסת הקריאות ל webhook של workflow
 crm.workflow.wfDeluge.createOption.fromGallery = פונקציות מותאמות אישית מוגדרות מראש, שניתן לשייך לכללי workflow עבור תרחישים עיסקיים שונים. 
 crm.workflow.wfDeluge.createOption.fromOrgFunctions = פונקציות מותאמות אישית שנוצרו על ידי משתמשים באירגונך.
@@ -3442,15 +3442,15 @@ crm.workflow.wfDeluge.heading.WriteYourOwn = צור פונקציה משלך עב
 crm.workflow.wfDeluge.subHeading.OrgCustomFunction = רשומות מטה הפונקציות המותאמות אישית , שנוצרו על ידי משתמשים באירגונך. הגדר פונקציות מותאמות אישית בהתאם לצרכיך העיסקיים. 
 crm.wrorkflow.deluges.alert.descriptionLengthExceed = תיאור פונקציה מותאמת אישית לא יעלה על 3000 תווים. 
 crm.wrorkflow.deluges.cannotDelete.associatedWithRule = מאחר ופונקציה מותאמת אישית זו משוייכת כבר לכלל/י workflow, נא נתק את השיוך ולאחר מכן נסה למחוק. 
-crm.years.lower = &lrm; {0}&lrm; שעות &lrm;
+crm.years.lower = &lrm; &lrm;{0}&lrm; שעות &lrm;
 crm.yes.proceed = כן, המשך. 
 crm.zInvoice.salesorderListView.salesordernumber = הזמנת מכירות
 crm.zInvoice.salesorderListView.title = הזמנות מכר
 crm.zcampaign.fieldupdate.error.message =  שגיאה אירעה בעת עדכון שדה ה &lrm;{0}&lrm; של &lrm;{1}&lrm; ב &lrm;{2}&lrm;. דווח על כך ל  &lrm;<a class=""link"" href=""mailto:{3}""> תמיכה </a>&lrm;
-crm.zcampaign.fieldupdate.message = זה יארך מעט זמן עבור המערכת כדי לעדכן את &lrm;{0}&lrm; {1}&lrm; שלך. 
+crm.zcampaign.fieldupdate.message = זה יארך מעט זמן עבור המערכת כדי לעדכן את &lrm;{0}&lrm; &lrm;{1}&lrm; שלך. 
 crm.zcampaign.norecords = לא נמצאו רשומות
-crm.zinvoice.deActivate.point1 = אומדנים משוייכים, הזמנות מכר משוייכות וחשבוניות משוייכות - לא תוצגנה ב &lrm;{0}CRM.&lrm; 
-crm.zinvoice.deActivate.point2 = דרישות תשלום משוייכות וקבלות תשלום משוייכות - לא תהיינה זמינות ב &lrm;{0}CRM.&lrm; 
+crm.zinvoice.deActivate.point1 = אומדנים משוייכים, הזמנות מכר משוייכות וחשבוניות משוייכות - לא תוצגנה ב &lrm;{0}&lrm; CRM.
+crm.zinvoice.deActivate.point2 = דרישות תשלום משוייכות וקבלות תשלום משוייכות - לא תהיינה זמינות ב &lrm;{0}&lrm; CRM.
 crm.zinvoice.deActivateNow = כן, אני מבין. השבת כעת. 
 crm.zinvoice.invoiceListView.balancedue = יתרה לתשלום
 crm.zinvoice.invoiceListView.dueon = נכון לתאריך
@@ -3467,7 +3467,7 @@ crm.zreports.include.salesorder.fields = כלול שורת הזמנות מכר, 
 crm.zsupport.request.id = מספר כרטיס
 crm.zsurvey.addon.enabled = תוסף אופשר
 crm.zsurvey.already.own.acc = כבר יש לי חשבון &lrm;{0}&lrm;סקר עבור האירגון שלי. 
-crm.zsurvey.create.survey.acc = אין לי חשבון &lrm;{0}&lrm; סקר. הירשם כעת ובצע מיפוי עם &lrm;{0}CRM.&lrm; 
+crm.zsurvey.create.survey.acc = אין לי חשבון &lrm;{0}&lrm; סקר. הירשם כעת ובצע מיפוי עם &lrm;{0}&lrm; CRM.
 crm.zsurvey.disable.confirm = האם אתה בטוח שברצונך להשבית?
 crm.zsurvey.donot.own.acc = נראה שאין ברשותך חשבון &lrm;{0}&lrm;סקר.
 crm.zsurvey.editConfig.portalError = מצטערים, אין לך די הרשאות כדי לגשת ל &lrm;{0}&lrm;סקר. נא צור קשר עם ה Admin של &lrm;{0}&lrm;סקר כדי לקבל מפתח ZSC תקף. 
@@ -3477,7 +3477,7 @@ crm.zsurvey.error.connectionProblem = לא מצליח להתחבר ל &lrm;{0}&l
 crm.zsurvey.error.enterzsckey = הזמן מפתח ZSC תקין מ &lrm;{0}&lrm;סקר.
 crm.zsurvey.error.invalid = מפתח ZSC או כתובת דוא"ל לא תקינים. 
 crm.zsurvey.highlight = צור אתסקר שלך און-ליין באמצעות &lrm;{0}&lrm;סקר.
-crm.zsurvey.highlight1 = שלח/בצע אוטומציה של סקרים אצל אנשי הקשר שלך באמעצות &lrm;{0}&lrm; Campaign או באמצעות &lrm;{0}CRM.&lrm; 
+crm.zsurvey.highlight1 = שלח/בצע אוטומציה של סקרים אצל אנשי הקשר שלך באמעצות &lrm;{0}&lrm; Campaign או באמצעות &lrm;{0}&lrm; CRM.
 crm.zsurvey.highlight2 = צפה בתשובות שלסקר בדף הפרטים של אנשי קשר/לידים. 
 crm.zsurvey.info.allsurveys = בטל כאן את הבחירה כדי לבחור פורטלים. 
 crm.zsurvey.label.change = שנה 
@@ -3502,12 +3502,12 @@ crm.zsurvey.no.survey.found = לא נמצא סקר. צור ופרסם את הס�
 crm.zsurvey.note.alluser = השתמש בכל הסקרים שבחשבון זה
 crm.zsurvey.note.disable = השבתה תמחק את הרשימה המקושרת של &lrm;{0}&lrm; סקר מדף פרטי הרשומה של מודולים כמו לידים/אנשי קשר/תיקים/ספקים וכל מודול מותאם אישית אחר. 
 crm.zsurvey.note.insert.survey = השלם את תהליך ההתקנה הפשוט כדי להכניס קישורי סקר. צור קשר עם המנהל שלך כדי להתקין את &lrm;{0}&lrm; סקר (התקנה>> Zoho Apps)
-crm.zsurvey.note.integration = צור און-ליין סקרים ללא הגבלה באמצעות &lrm;{0}&lrm; סקר. צור שליחה אוטומטית של סקרים ללקוח שלך, צפה בתשובות בתוך &lrm;{0}CRM.&lrm; 
+crm.zsurvey.note.integration = צור און-ליין סקרים ללא הגבלה באמצעות &lrm;{0}&lrm; סקר. צור שליחה אוטומטית של סקרים ללקוח שלך, צפה בתשובות בתוך &lrm;{0}&lrm; CRM.
 crm.zsurvey.note.survey.enable = אתה צריך להחזיק בחשבון &lrm;{0}&lrm; סקר כדי לאפשר אינטגרציה זו. בחר באחת מהאפשרויות מטה כדי להמשיך. 
 crm.zsurvey.note.survey.integ = &lrm;&lrm;{0}&lrm; CRM משולב כעת עם &lrm;{0}&lrm; סקר, כלי לבניית סקרים אונליין. &lrm;
 crm.zsurvey.note.survey.setup = השלם את תהליך ההתקנה הפשוט כדי להתחיל לשלוח סקרים. האם תרצה להתחיל את ההתקנה כעת?
 crm.zsurvey.ques.survey = מה זה &lrm;{0}&lrm; סקר?
-crm.zsurvey.short.note  = שילוב &lrm;{0}&lrm; סקר מאפשר לך לשלוח סקרים ולצפות בתשובות של אנשי הקשר שלך מתוך &lrm;{0}&lrm; CRM שלך. בנה סקרים, בצע אוטומציה ופרסם אותם באמצעות &lrm;{0}&lrm; CRM או &lrm;{0}&lrm; Campaigns או כל כלי צד שלישי של פרסום בדוא"ל. צפה בתשובות של לקוחות בתוך &lrm;{0}CRM.&lrm;    
+crm.zsurvey.short.note  = שילוב &lrm;{0}&lrm; סקר מאפשר לך לשלוח סקרים ולצפות בתשובות של אנשי הקשר שלך מתוך &lrm;{0}&lrm; CRM שלך. בנה סקרים, בצע אוטומציה ופרסם אותם באמצעות &lrm;{0}&lrm; CRM או &lrm;{0}&lrm; Campaigns או כל כלי צד שלישי של פרסום בדוא"ל. צפה בתשובות של לקוחות בתוך &lrm;{0}&lrm; CRM.   
 crm.zsurvey.surveyIntegration = שילוב &lrm;{0}&lrm; סקר 
 crm.zsurvey.title.survey = &lrm;&lrm;{0}&lrm; Suvey&lrm;
 crm.zsurvey.use.allsurveys = השתמש בכל הסקרים מחשבון זה 
@@ -3569,7 +3569,7 @@ lar.roundrob.nouser = אין משתמשים
 lar.roundrob.owner = הפנה למשתמשים ברשימה חוזרת
 last\_clicked\_time = זמן כניסה אחרון 
 last\_opened\_time = זמן פתיחה אחרון
-listview\_1 = מסנכרן רק את האירועים שלך בלוח השנה של Google עם לוח השנה שלך ב &lrm;{0}CRM.&lrm; 
+listview\_1 = מסנכרן רק את האירועים שלך בלוח השנה של Google עם לוח השנה שלך ב &lrm;{0}&lrm; CRM.
 listview\_2 = מסנכרן רק את האירועים שלך ב &lrm;{0}&lrm; CRM עם לוח השנה שלך ב Google.
 listview\_3 = מסנכרן גם את לוח השנה שלך ב &lrm;{0}&lrm; CRM וגם את אירועי לוח השנה של Google זה עם זה. 
 motivator.content.contest.awaiting.publish =התחרות  &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; ממתינה לבדיקתך
@@ -3579,34 +3579,34 @@ motivator.content.contest.homestrech = ההתחרות &lrm;<a href='{0}' target=
 motivator.content.contest.leaderboard.update = בהתחרות &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm;יש מובילים חדשים. 
 motivator.content.contest.published = ההתחרות &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; פורסמה. 
 motivator.content.contest.reminder = תחרות ה &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a> &lrm; מתחילה מחר. 
-motivator.content.target.created.company =מטרת &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; חדשה נוצרה עבור החברה. 
-motivator.content.target.created.team = מטרת &lrm;<a href='{0}' target='_blank'> &lrm;{3}&lrm; {1}&lrm; </a>&lrm; נוצרה עבור &lrm;{2}&lrm;.
-motivator.content.target.created.you = מטרת &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; חדשה נוצרה עבורך. 
-motivator.content.target.edited.company =המטרה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; של החברה - עברה עריכה. 
-motivator.content.target.edited.team = המטרה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>של &lrm;{0}&lrm; עברה עריכה. 
-motivator.content.target.edited.you = מטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; עברה עריכה. 
-motivator.content.target.exceeded.company = החברה הגיעה למטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלה. 
-motivator.content.target.exceeded.you =הגעת למטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלך. 
-motivator.content.target.exceeded.you.personal =הגעת למטרתך האישית - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm;.
-motivator.content.target.missed.company = החברה לא הגיעה ליעד ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלה. 
-motivator.content.target.missed.team = &lrm;&lrm;{0}&lrm; לא השיג את יעד ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; שלו. 
-motivator.content.target.missed.you = לא הישגת את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלך. 
-motivator.content.target.missed.you.personal =  לא הישגתך את מטרתך האישית&lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm;.
-motivator.content.target.notontrack.company =  החברה כרגע אינה עומדת להשיג את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלה. 
-motivator.content.target.notontrack.team = &lrm;&lrm;{0}&lrm; כרגע אינו עומד להשיג את מטרת ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; שלו. &lrm;
-motivator.content.target.notontrack.you = כרגע אינך עומד להשיג את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלך. 
-motivator.content.target.notontrack.you.personal = כרגע אינך עומד להשיג את מטרתך האישית &lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm;
-motivator.content.target.reached.company = החברה השיגה את יעד ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלה. 
-motivator.content.target.reached.team = &lrm;&lrm;{0}&lrm; השיג את יעד ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; שלו. &lrm;
-motivator.content.target.reached.you = הגעת למטרת ה &lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; שלך. 
-motivator.content.target.reached.you.personal = הגעת למטרתך האישית &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm;.
+motivator.content.target.created.company =מטרת &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; חדשה נוצרה עבור החברה. 
+motivator.content.target.created.team = מטרת &lrm;<a href='{0}' target='_blank'> &lrm;{3}&lrm; &lrm;{1}&lrm; </a>&lrm; נוצרה עבור &lrm;{2}&lrm;.
+motivator.content.target.created.you = מטרת &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; חדשה נוצרה עבורך. 
+motivator.content.target.edited.company =המטרה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; של החברה - עברה עריכה. 
+motivator.content.target.edited.team = המטרה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>של &lrm;{0}&lrm; עברה עריכה. 
+motivator.content.target.edited.you = מטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; עברה עריכה. 
+motivator.content.target.exceeded.company = החברה הגיעה למטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלה. 
+motivator.content.target.exceeded.you =הגעת למטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלך. 
+motivator.content.target.exceeded.you.personal =הגעת למטרתך האישית - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm;.
+motivator.content.target.missed.company = החברה לא הגיעה ליעד ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלה. 
+motivator.content.target.missed.team = &lrm;&lrm;{0}&lrm; לא השיג את יעד ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; שלו. 
+motivator.content.target.missed.you = לא הישגת את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלך. 
+motivator.content.target.missed.you.personal =  לא הישגתך את מטרתך האישית&lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm;.
+motivator.content.target.notontrack.company =  החברה כרגע אינה עומדת להשיג את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלה. 
+motivator.content.target.notontrack.team = &lrm;&lrm;{0}&lrm; כרגע אינו עומד להשיג את מטרת ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; שלו. &lrm;
+motivator.content.target.notontrack.you = כרגע אינך עומד להשיג את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלך. 
+motivator.content.target.notontrack.you.personal = כרגע אינך עומד להשיג את מטרתך האישית &lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm;
+motivator.content.target.reached.company = החברה השיגה את יעד ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלה. 
+motivator.content.target.reached.team = &lrm;&lrm;{0}&lrm; השיג את יעד ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; שלו. &lrm;
+motivator.content.target.reached.you = הגעת למטרת ה &lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; שלך. 
+motivator.content.target.reached.you.personal = הגעת למטרתך האישית &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm;.
 motivator.period.daily = יומי
 motivator.period.halfyearly = חצי-שנתי
 motivator.period.monthly = חודשי 
 motivator.period.quarterly = רבעוני 
 motivator.period.weekly = שבועי 
 motivator.title.contest.awaiting.publish = תחרות ה &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; הסתיימה. נא פרסם אותה. 
-motivator.title.contest.created = &lrm; {0}&lrm; יצר תחרות חדשה - &lrm;<a href='{1}' target='_blank'> &lrm;{2}&lrm; </a>&lrm;
+motivator.title.contest.created = &lrm; &lrm;{0}&lrm; יצר תחרות חדשה - &lrm;<a href='{1}' target='_blank'> &lrm;{2}&lrm; </a>&lrm;
 motivator.title.contest.edited = &lrm;&lrm;{0}&lrm; ערך את תחרות ה <a href='{1}' target='_blank'> &lrm;{2}&lrm; </a> &lrm;.
 motivator.title.contest.homestrech.first = לתחרות ה &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; נותרו &lrm;{2}&lrm; ימים.  אתה מספר 1! המשך הלאה לעשות עבודוה טובה!
 motivator.title.contest.homestrech.first.goal.amount = לתחרות ה &lrm; <a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; נותרו &lrm;{2}&lrm; ימים. אתה מספר 1. המשך הלאה לעשות עבודוה טובה! &lrm;{3}&lrm; כדי להשיג את המטרה. 
@@ -3636,32 +3636,32 @@ motivator.title.contest.published.winners.goal.exceeded = תוצאות תחרו�
 motivator.title.contest.published.winners.goal.missed = תוצאות תחרות ה &lrm;<a href='{0}' target='_blank'> &lrm;{1}&lrm; </a> &lrm; פורסמו. אתה דורגת כמספר &lrm;{2}&lrm;. &lrm;{3}&lrm; אחוזים לא הגיעו אל היעד. אולי בפעם הבאה. 
 motivator.title.contest.published.winners.goal.reached = תוצאות תחרות ה &lrm; <a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; פורסמו. אתה דורגת כמספר &lrm;{2}&lrm;. ברכות! היעד הושג! עבודה טובה!
 motivator.title.contest.reminder =תחרות ה &lrm; <a href='{0}' target='_blank'> &lrm;{1}&lrm; </a>&lrm; מתחילה בעוד יום אחד. 
-motivator.title.target.created.company =&lrm;&lrm;{0}&lrm; יצר מטרת &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; עבור החברה. &lrm;
-motivator.title.target.created.team = &lrm;&lrm;{0}&lrm; יצר מטרת &lrm; <a href='{1}' target='_blank'> &lrm;{4}&lrm; {2}&lrm; </a>&lrm; עבור &lrm;{3}&lrm;.&lrm;
-motivator.title.target.created.you =&lrm;&lrm;{0}&lrm; יצר מטרת &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; עבורך. &lrm;
-motivator.title.target.edited.company = &lrm;&lrm;{0}&lrm; ביצע עריכה למטרת ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; של החברה. &lrm;
-motivator.title.target.edited.team = &lrm;&lrm;{0}&lrm; ביצע עריכה למטרת ה &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a>&lrm; של &lrm;{1}&lrm;.&lrm;
-motivator.title.target.edited.you = &lrm;&lrm;{0}&lrm; ביצע עריכה למטרת ה &lrm; <a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; שלך. &lrm;
-motivator.title.target.exceeded.company = החברה השיגה את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm;שלה ב &lrm;{3}&lrm; אחוזים. עבודה טובה!
-motivator.title.target.exceeded.team = &lrm;&lrm;{0}&lrm; השיג את מטרת ה &lrm; <a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a>&lrm; שלו ב &lrm;{4}&lrm; אוחוזים. עבודה טובה!&lrm;
-motivator.title.target.exceeded.you =השגת את מטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm; ב &lrm;{3}&lrm; אחוזים. עבודה טובה!
-motivator.title.target.exceeded.you.personal = השגת את מטרתך האישית - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm; ב &lrm;{3}&lrm; אחוזים. עבודה טובה!
-motivator.title.target.missed.company = החברה החטיאה את מטרתה -  &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm; ב SHALSH אחוזים. אולי בפעם הבאה תצליח יותר.
-motivator.title.target.missed.team =&lrm;&lrm;{0}&lrm; החטיא את מטרתו - &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a> &lrm; ב &lrm;{4}&lrm; אחוזים. אולי בפעם הבאה יצליח יותר. &lrm;
-motivator.title.target.missed.you = החמצת את מטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm; ב &lrm;{3}&lrm; אחוזים. אולי בפעם הבאה תצליח  יותר. 
-motivator.title.target.missed.you.personal = החטאת את מטרתך האישית - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm; ב &lrm;{3}&lrm; אחוזים. אולי בפעם הבאה תצליח יותר. 
-motivator.title.target.notontrack.company.amount = &lrm;&lrm;{0}&lrm; יום/ימים נותרו לחברה להשיג &lrm;{1}&lrm; כדי לעמוד במטרתה - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a>&lrm; אל תרפו!&lrm;
-motivator.title.target.notontrack.company.points =&lrm;&lrm;{0}&lrm; יום/ימים נותרו לחברה להשיג &lrm;{1}&lrm; נקודות כדי לעמוד במטרתה - &lrm; <a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a>&lrm; אל תרפו!&lrm;
-motivator.title.target.notontrack.team.amount = &lrm;&lrm;{0}&lrm; יום/ימים נותרו עבור &lrm;{1}&lrm; להשיג &lrm;{2}&lrm; כדי לעמוד במטרת ה - &lrm;<a href='{3}' target='_blank'> &lrm;{5}&lrm; {4}&lrm;  <a/>&lrm; שלו. אל תרפו!&lrm;
-motivator.title.target.notontrack.team.points = &lrm;&lrm;{0}&lrm; יום/ימים נותרו ל &lrm;{1}&lrm; להשיג &lrm;{2}&lrm; כדי לעמוד במטרת ה &lrm; <a href='{3}' target='_blank'> &lrm;{5}&lrm; {4}&lrm;<a/>&lrm;שלו. אל תרפו!&lrm;
-motivator.title.target.notontrack.you.amount = &lrm; {0}&lrm; יום/ימים נותרו לך כדי להשיג את &lrm;{1}&lrm; ולהגיע ליעד שלו - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a>&lrm; אל תרפה!&lrm;
-motivator.title.target.notontrack.you.personal.amount = &lrm;&lrm;{0}&lrm; יום/ימים נותרו לך כדי להשיג את &lrm;{1}&lrm; ולהשיג את מטרתך האישית - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a> &lrm; . אל תרפה!&lrm;
-motivator.title.target.notontrack.you.personal.points = &lrm;&lrm;{0}&lrm; יום/ימים נותרו לך כדי לצבור  &lrm;{1}&lrm; נקודות ולהגיע ליעד האישי שלך - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a>&lrm;. אל תרפה!&lrm;
-motivator.title.target.notontrack.you.points =&lrm;&lrm;{0}&lrm; יום/ימים נותרו לך כדי לצבור &lrm;{1}&lrm; נקודות ולהגיע למטרתך - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; {3}&lrm; </a>&lrm;. אל תרפה!&lrm;
-motivator.title.target.reached.company = החברה הגיעה למטרתה - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm; . עבודה טובה!
-motivator.title.target.reached.team = &lrm;&lrm;{0}&lrm; הגיע למטרתו - &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; {2}&lrm; </a> &lrm;. עבודה טובה!&lrm;
-motivator.title.target.reached.you = הגעת למטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a> &lrm; . עבודה טובה!
-motivator.title.target.reached.you.personal = הגעת למטרתך האישית - &lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; {1}&lrm; </a>&lrm;. עבודה טובה!
+motivator.title.target.created.company =&lrm;&lrm;{0}&lrm; יצר מטרת &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; עבור החברה. &lrm;
+motivator.title.target.created.team = &lrm;&lrm;{0}&lrm; יצר מטרת &lrm; <a href='{1}' target='_blank'> &lrm;{4}&lrm; &lrm;{2}&lrm; </a>&lrm; עבור &lrm;{3}&lrm;.&lrm;
+motivator.title.target.created.you =&lrm;&lrm;{0}&lrm; יצר מטרת &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; עבורך. &lrm;
+motivator.title.target.edited.company = &lrm;&lrm;{0}&lrm; ביצע עריכה למטרת ה &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; של החברה. &lrm;
+motivator.title.target.edited.team = &lrm;&lrm;{0}&lrm; ביצע עריכה למטרת ה &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a>&lrm; של &lrm;{1}&lrm;.&lrm;
+motivator.title.target.edited.you = &lrm;&lrm;{0}&lrm; ביצע עריכה למטרת ה &lrm; <a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; שלך. &lrm;
+motivator.title.target.exceeded.company = החברה השיגה את מטרת ה &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm;שלה ב &lrm;{3}&lrm; אחוזים. עבודה טובה!
+motivator.title.target.exceeded.team = &lrm;&lrm;{0}&lrm; השיג את מטרת ה &lrm; <a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a>&lrm; שלו ב &lrm;{4}&lrm; אוחוזים. עבודה טובה!&lrm;
+motivator.title.target.exceeded.you =השגת את מטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm; ב &lrm;{3}&lrm; אחוזים. עבודה טובה!
+motivator.title.target.exceeded.you.personal = השגת את מטרתך האישית - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm; ב &lrm;{3}&lrm; אחוזים. עבודה טובה!
+motivator.title.target.missed.company = החברה החטיאה את מטרתה -  &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm; ב SHALSH אחוזים. אולי בפעם הבאה תצליח יותר.
+motivator.title.target.missed.team =&lrm;&lrm;{0}&lrm; החטיא את מטרתו - &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a> &lrm; ב &lrm;{4}&lrm; אחוזים. אולי בפעם הבאה יצליח יותר. &lrm;
+motivator.title.target.missed.you = החמצת את מטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm; ב &lrm;{3}&lrm; אחוזים. אולי בפעם הבאה תצליח  יותר. 
+motivator.title.target.missed.you.personal = החטאת את מטרתך האישית - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm; ב &lrm;{3}&lrm; אחוזים. אולי בפעם הבאה תצליח יותר. 
+motivator.title.target.notontrack.company.amount = &lrm;&lrm;{0}&lrm; יום/ימים נותרו לחברה להשיג &lrm;{1}&lrm; כדי לעמוד במטרתה - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a>&lrm; אל תרפו!&lrm;
+motivator.title.target.notontrack.company.points =&lrm;&lrm;{0}&lrm; יום/ימים נותרו לחברה להשיג &lrm;{1}&lrm; נקודות כדי לעמוד במטרתה - &lrm; <a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a>&lrm; אל תרפו!&lrm;
+motivator.title.target.notontrack.team.amount = &lrm;&lrm;{0}&lrm; יום/ימים נותרו עבור &lrm;{1}&lrm; להשיג &lrm;{2}&lrm; כדי לעמוד במטרת ה - &lrm;<a href='{3}' target='_blank'> &lrm;{5}&lrm; &lrm;{4}&lrm;  <a/>&lrm; שלו. אל תרפו!&lrm;
+motivator.title.target.notontrack.team.points = &lrm;&lrm;{0}&lrm; יום/ימים נותרו ל &lrm;{1}&lrm; להשיג &lrm;{2}&lrm; כדי לעמוד במטרת ה &lrm; <a href='{3}' target='_blank'> &lrm;{5}&lrm; &lrm;{4}&lrm;<a/>&lrm;שלו. אל תרפו!&lrm;
+motivator.title.target.notontrack.you.amount = &lrm; &lrm;{0}&lrm; יום/ימים נותרו לך כדי להשיג את &lrm;{1}&lrm; ולהגיע ליעד שלו - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a>&lrm; אל תרפה!&lrm;
+motivator.title.target.notontrack.you.personal.amount = &lrm;&lrm;{0}&lrm; יום/ימים נותרו לך כדי להשיג את &lrm;{1}&lrm; ולהשיג את מטרתך האישית - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a> &lrm; . אל תרפה!&lrm;
+motivator.title.target.notontrack.you.personal.points = &lrm;&lrm;{0}&lrm; יום/ימים נותרו לך כדי לצבור  &lrm;{1}&lrm; נקודות ולהגיע ליעד האישי שלך - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a>&lrm;. אל תרפה!&lrm;
+motivator.title.target.notontrack.you.points =&lrm;&lrm;{0}&lrm; יום/ימים נותרו לך כדי לצבור &lrm;{1}&lrm; נקודות ולהגיע למטרתך - &lrm;<a href='{2}' target='_blank'> &lrm;{4}&lrm; &lrm;{3}&lrm; </a>&lrm;. אל תרפה!&lrm;
+motivator.title.target.reached.company = החברה הגיעה למטרתה - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm; . עבודה טובה!
+motivator.title.target.reached.team = &lrm;&lrm;{0}&lrm; הגיע למטרתו - &lrm;<a href='{1}' target='_blank'> &lrm;{3}&lrm; &lrm;{2}&lrm; </a> &lrm;. עבודה טובה!&lrm;
+motivator.title.target.reached.you = הגעת למטרתך - &lrm;<a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a> &lrm; . עבודה טובה!
+motivator.title.target.reached.you.personal = הגעת למטרתך האישית - &lrm; <a href='{0}' target='_blank'> &lrm;{2}&lrm; &lrm;{1}&lrm; </a>&lrm;. עבודה טובה!
 nd = nd 
 nlogin.Part1.subtitle = עשה מה שאתה טוב בו
 nlogin.about = אודות CRM
@@ -3734,7 +3734,7 @@ sthursday = יום חמישי
 stuesday = יום שלישי 
 successfully.added = נוסף בהצלחה
 swednesday = יום רביעי 
-syncdirection\_1 =חד-צדדי: לוח השנה של Google ללוח השנה של &lrm;{0}CRM.&lrm; 
+syncdirection\_1 =חד-צדדי: לוח השנה של Google ללוח השנה של &lrm;{0}&lrm; CRM.
 syncdirection\_2 = חד-צדדי: לוח השנה של &lrm;{0}&lrm; CRM ללוח השנה של Google
 syncdirection\_3 = סינכון דו-צדדי
 textarea.info = נא תשומת ליבך לכך ששדה זו לא יהיה זמין עבור אופציות הסינון השונות. לדוגמה: תצוגה מותאמת אישית, דוחו"ת וכולי. 
@@ -3744,12 +3744,12 @@ webform.ack.chooseTemplate = שלח לנבחרים מטה תבניות דוא"ל
 webform.ack.chooseTemplate1 = שלח את תבניות הדוא"ל מטה עבור רשומות שאינן עומדות בכלל של תשובה אוטומטית. 
 webform.activate = כן, הפעל כעת
 webform.activate.label = הפעל 
-webform.active.warning = &lrm;<strong> טופס רשת פעיל: </strong> &lrm; <br> &lrm; <br> &lrm;האם אתה בטוח שברצונך להפוך טופס רשת זה לפעיל?
+webform.active.warning = &lrm;<strong> טופס רשת פעיל: </strong> &lrm; &lrm;<br> &lrm; &lrm;<br> &lrm;האם אתה בטוח שברצונך להפוך טופס רשת זה לפעיל?
 webform.advTool.properties = מאפייני כלים מתקדמים
 webform.advTools = כלים מתקדמים
 webform.allToolUsed = כל הכלים שבשימוש
 webform.approval.message = &lrm;(&lrm;{0}&lrm;, עם בקשות לאישור יופיע ב &lrm;<a href=""{1}"" target=""_blank"" class=""fbllink""> דף אישור &lrm;{0}&lrm; </a>&lrm; עד שיאושר )&lrm;
-webform.approval.tooltip = בקשת אישור תסייע לך לאמת את ה &lrm;{1}&lrm; שנוצר ידנית ולאחמ"כ להוסיף אותו ל &lrm;{2}CRM.&lrm; 
+webform.approval.tooltip = בקשת אישור תסייע לך לאמת את ה &lrm;{1}&lrm; שנוצר ידנית ולאחמ"כ להוסיף אותו ל &lrm;{2}&lrm; CRM.
 webform.approve.success = &lrm;&lrm;{0}&lrm; אושר בהצלחה&lrm;
 webform.assign.owner.new = פנה לבעלים
 webform.autoResponse.label = שלח תשובה אוטומטית באמצעות כלל ה"השב אוטומטית".
@@ -3757,7 +3757,7 @@ webform.autoResponse.manageRule = נהל כלל
 webform.autoResponse.template.label = שלח את תבנית הדוא"ל מטה עבור הרשומות שאינן עונות על הכלל של "השב אוטומטית".
 webform.button.properties = מאפייני לחצן
 webform.captcha = Captcha 
-webform.case.create.contact = כשאתה בודק אפשרות זו, קשרים נוצרים ב CRM כמו בעת שליחת תיקים באמצעות טופס מקוון. הרשומה של התיק תשוייך באופן אוטומטי לאיש הקשר המתאים. זאת רק כאשר איש קשר דומה אינו קיים כבר ב &lrm;{0}CRM.&lrm; 
+webform.case.create.contact = כשאתה בודק אפשרות זו, קשרים נוצרים ב CRM כמו בעת שליחת תיקים באמצעות טופס מקוון. הרשומה של התיק תשוייך באופן אוטומטי לאיש הקשר המתאים. זאת רק כאשר איש קשר דומה אינו קיים כבר ב &lrm;{0}&lrm; CRM.
 webform.choose.stan.resp = בחר תשובה דיפולטיבית עבור כל המבקרים. 
 webform.choose.template = בחר תבנית דוא"ל
 webform.codeFormat.paidUser = פורמט הקוד של הטופס המקוון שלך:
@@ -3875,15 +3875,15 @@ zb.partially_billed = חוייב חלקית
 zb.partially_invoiced = קיבל חשבונית חלקית
 zb.void = חסר 
 zoho.motivator = תמריץ 
-crm.bc.related.mode.info4.reminder = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; {1}&lrm; </span>&lrm;
-crm.bc.related.mode.quickview.info = &lrm;<span class='gray fS13'> &lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span>&lrm;
-crm.bc.related.mode.info3.reminder =&lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span>&lrm;
+crm.bc.related.mode.info4.reminder = &lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; &lrm;{1}&lrm; </span>&lrm;
+crm.bc.related.mode.quickview.info = &lrm;<span class='gray fS13'> &lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span>&lrm;
+crm.bc.related.mode.info3.reminder =&lrm;<span class='gray fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span>&lrm;
 crm.nsocial.tab.likes = &lrm;<span id=""{0}""> &lrm;{1}&lrm; </span> &lrm; אנשים אהבו את זה. 
 crm.bc.related.mode.info2.reminder = &lrm;<span class='gray fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm; .
-crm.bc.related.mode.print.info1 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm; {1}&lrm;.
+crm.bc.related.mode.print.info1 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm; &lrm;{1}&lrm;.
 crm.bc.related.mode.print.info2 = &lrm;<span class='color2 fS13'> אירוע עבור </span>&lrm;&lrm;{0}&lrm;.
-crm.bc.related.mode.print.info3 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; {2}&lrm; </span>&lrm;.
-crm.bc.related.mode.print.info4 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; {1}&lrm; </span>&lrm;.
+crm.bc.related.mode.print.info3 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; עבור &lrm;{1}&lrm; &lrm;{2}&lrm; </span>&lrm;.
+crm.bc.related.mode.print.info4 = &lrm;<span class='color2 fS13'> אירוע עבור &lrm;{0}&lrm; &lrm;{1}&lrm; </span>&lrm;.
 crm.social.keyword.result = חפש תוצאות עבור &lrm;<span class='black proximas'> &lrm;{0}&lrm; </span>&lrm; מ &lrm;<span class='black proximas'> &lrm;{1}&lrm; </span>&lrm;.
 crm.mobileaddon.homepage.welcome = הנה כמה &lrm; <span class=""proximas""> חדשות מעולות </span> &lrm; עבורך!
 crm.mobileaddon.homepage.old.refund = &lrm;<br>&lrm;&lrm;<br>&lrm; ההתרגשות אינה מסתיימת כאן. &lrm;<span class=""proximas""> אתה תקבל החזר עבור הפעולה הבנקאית האחרונה שלך </span>&lrm;  עבור תוסף &lrm;{0}&lrm; CRM Mobile. כרטיס האשראי שלך  בקובץ &lrm;{0}&lrm; CRM יזוכה בסכום של &lrm;{1}&lrm; בתוך 15 ימי עסקים. 
